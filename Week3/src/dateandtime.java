@@ -93,7 +93,8 @@ public class dateandtime
 
     }
 
-    public static int aantalVrijdagDe13e(int jaartal){
+    public static int aantalVrijdagDe13e(int jaartal)
+    {
         int maand = 1;
 
         int aantalvrijdagen = 0;
