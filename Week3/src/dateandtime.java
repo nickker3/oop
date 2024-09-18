@@ -26,6 +26,12 @@ public class dateandtime
         int dagentotkersttt = aantalDagenTotKerst();
         System.out.println(dagentotkersttt);
 
+        System.out.println(eerstVolgendKerstInWeekend());
+
+        System.out.println(aantalVrijdagDe13e(2024));
+
+
+
     }
 
     public static boolean isWoensdag(LocalDate datum)
@@ -33,6 +39,31 @@ public class dateandtime
         // Controleer of de gegeven datum een woensdag is
         return datum.getDayOfWeek() == DayOfWeek.WEDNESDAY;
     }
+
+    public static int eerstVolgendKerstInWeekend()
+    {
+
+        LocalDate kdag1 = LocalDate.of(LocalDate.now().getYear(), 12,25);
+        LocalDate kdag2 = LocalDate.of(LocalDate.now().getYear(), 12,26);
+
+        if((kdag1.getDayOfWeek() == DayOfWeek.SATURDAY) && (kdag2.getDayOfWeek() == DayOfWeek.SUNDAY))
+        {
+            return LocalDate.now().getYear();
+        } else
+        {
+            while(kdag1.getDayOfWeek() != DayOfWeek.SATURDAY)
+            {
+                kdag1 = kdag1.plusYears(1);
+
+            }
+            return kdag1.getYear();
+
+        }
+
+    }
+
+
+
 
     public static int aantalDagenTotKerst()
     {
@@ -58,24 +89,32 @@ public class dateandtime
 
                 return (int) ChronoUnit.DAYS.between(vdaag, kdag1.plusYears(1));
             }
-
-
-
-
-
-
-
-
-
-        return 0;
-
+            return 0;
 
     }
 
+    public static int aantalVrijdagDe13e(int jaartal){
+        int maand = 1;
+
+        int aantalvrijdagen = 0;
 
 
+        while(maand < 13)
+        {
+            LocalDate dag13 = LocalDate.of(jaartal,maand,13);
+
+            if(dag13.getDayOfWeek() == DayOfWeek.FRIDAY){
+                aantalvrijdagen++;
+                maand++;
+            }
+            else maand++;
+
+        }
+
+        return aantalvrijdagen;
 
 
+    }
 
 }
 
