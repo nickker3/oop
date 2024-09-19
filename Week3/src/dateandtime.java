@@ -5,9 +5,23 @@ public class dateandtime
 {
 
 
+//    Op welke weekdag valt 10 januari 1965?
+//
+//    Op welke weekdag viel nieuwjaarsdag (1 januari) in het huidige kalenderjaar?
+//
+//    Wat is de datum vijf weken na vandaag?
+//
+//    Hoeveel dagen is het geleden dat Nederland het Europees kampioenschap voetbal won (op 25 juni 1988)?
+
+
 
     public static void main(String[] args)
     {
+        System.out.println(LocalDate.of(1965,1,10).getDayOfWeek());
+        System.out.println(LocalDate.of(LocalDate.now().getYear(),1,1 ).getDayOfWeek());
+        System.out.println(LocalDate.now().plusWeeks(5));
+        System.out.println(ChronoUnit.DAYS.between( LocalDate.now() , LocalDate.of(1998,06,25)));
+
 
         LocalDate dplus = LocalDate.now();
         dplus = dplus.plusDays(100);

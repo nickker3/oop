@@ -6,7 +6,7 @@ public class big {
     public static void main(String[] args) {
 
         System.out.println(factorial(5));
-        System.out.println(factor(BigInteger.valueOf(500)));
+        System.out.println(factor(BigInteger.valueOf(50000)));
 
     }
 
