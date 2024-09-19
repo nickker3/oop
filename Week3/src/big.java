@@ -1,10 +1,12 @@
+import java.math.BigInteger;
+
 public class big {
 
 
     public static void main(String[] args) {
 
         System.out.println(factorial(5));
-        System.out.println(factor(50));
+        System.out.println(factor(BigInteger.valueOf(500)));
 
     }
 
@@ -20,18 +22,20 @@ public class big {
 
 
 
-public static int factor(int n)
+public static BigInteger factor(BigInteger n)
 {
-    if(n == 1) {
-        return 1;
+    if(n.equals(BigInteger.ONE)) {
+        return BigInteger.ONE;
     }
     else
 
     {
-        int a = 1;
+        BigInteger a = BigInteger.ONE;
 
-       for(int i = 2; i <= n; i++) {
-           a=a*i;
+//for(BigInteger i = BigInteger.TWO ; i <= n; i++)
+        for(BigInteger i = BigInteger.TWO ; !i.equals(n); i = i.add(BigInteger.ONE))
+       {
+           a=a.multiply(i);
            System.out.println(i + ":" + a);
         }
         return a;
