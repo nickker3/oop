@@ -64,12 +64,12 @@ public class Point {
             return true;
         }
 
-        if ((this.x != that.x) || (this.y != that.y))
+        if ((this.x == that.x) && (this.y == that.y))
         {
-           return false;
+           return true;
         }
         else
-            return true;
+            return false;
 
     }
 }
