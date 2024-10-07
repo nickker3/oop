@@ -1,0 +1,2001 @@
+1	Queen	Bohemian Rhapsody	1975	1	2	1	1	1	1	2	2	1	
+2	Danny Vera	Roller Coaster	2018	2	1	4	0	0	0	0	0	0	
+3	The Eagles	Hotel California	1977	4	3	2	2	2	2	3	1	2	
+4	Billy Joel	Piano Man	1974	5	4	3	3	4	4	6	7	18	
+5	Coldplay	Fix You	2005	11	8	8	9	8	11	10	15	20	
+6	Led Zeppelin	Stairway To Heaven	1971	7	5	5	4	3	3	5	3	3	
+7	Pearl Jam	Black	1991	9	6	7	7	6	10	12	12	16	
+8	Boudewijn de Groot	Avond	1997	10	7	6	10	9	6	7	5	5	
+9	Metallica	Nothing Else Matters	1992	8	17	15	13	15	15	16	11	9	
+10	Queen	Love Of My Life	1975	12	11	13	12	72	64	74	69	82	
+11	Pink Floyd	Wish You Were Here	1975	13	9	10	5	7	9	9	6	6	
+12	Guns N' Roses	November Rain	1992	17	16	14	11	10	17	13	10	13	
+13	Pink Floyd	Comfortably Numb	1979	22	19	16	14	12	16	11	8	8	
+14	Dire Straits	Brothers In Arms	1985	18	18	17	15	17	19	15	14	11	
+15	Golden Earring	Radar Love	1973	6	33	23	27	21	22	31	26	24	
+16	Deep Purple	Child In Time	1972	15	15	12	6	5	5	8	4	4	
+17	Toto	Africa	1982	23	14	11	8	25	30	42	51	28	
+18	Disturbed	The Sound Of Silence	2016	19	20	18	39	54	518	0	0	0	
+19	Di-rect	Soldier On	2020	14	12	0	0	0	0	0	0	0	
+20	Dire Straits	Sultans Of Swing	1978	25	27	26	20	26	26	25	27	21	
+21	Prince	Purple Rain	1984	21	13	24	25	18	13	62	71	77	
+22	Metallica	One	1994	26	30	21	23	23	25	20	18	14	
+23	Bruce Springsteen	The River	1981	16	21	19	21	19	14	17	16	7	
+24	Meat Loaf	Paradise By The Dashboard Light	1978	35	34	35	29	27	27	30	17	22	
+25	Fleetwood Mac	Go Your Own Way	1977	45	41	43	42	33	43	40	30	41	
+26	David Bowie	Heroes	1977	24	10	27	17	11	7	60	34	79	
+27	Pink Floyd	Shine On You Crazy Diamond	1975	29	28	22	18	22	20	14	9	10	
+28	AC/DC	Thunderstruck	1990	31	24	20	19	13	21	27	24	54	
+29	Metallica	Master of Puppets	1986	65	88	85	89	93	109	1140	1470	0	
+30	Dire Straits	Telegraph Road	1982	36	42	40	40	53	53	43	52	52	
+31	Coldplay	Viva La Vida	2009	43	43	36	36	31	33	28	23	15	
+32	Nirvana	Smells Like Teen Spirit	1991	30	25	37	32	34	32	34	31	26	
+33	Racoon	Oceaan	2012	27	22	34	28	24	24	21	21	33	
+34	Pearl Jam	Just Breathe	2009	32	32	33	35	30	34	39	46	69	
+35	Guns N' Roses	Sweet Child O' Mine	1988	33	35	32	34	36	51	55	65	58	
+36	The Cure	A Forest	1980	40	39	44	71	42	40	41	49	50	
+37	Simon & Garfunkel	The Sound Of Silence	1966	28	23	28	26	28	23	44	42	32	
+38	Miss Montreal	Door de wind	2020	20	29	0	0	0	0	0	0	0	
+39	Queen	Innuendo	1991	42	46	39	30	38	35	38	44	44	
+40	Fleetwood Mac	The Chain	1977	77	109	149	157	252	520	465	551	1835	
+41	Michael Kiwanuka	Cold Little Heart	2016	49	65	67	91	750	0	0	0	0	
+42	Metallica	Enter Sandman	1991	51	68	64	72	63	62	81	79	67	
+43	Linkin Park	In The End	2001	46	49	52	47	40	157	144	189	612	
+44	ABBA	Dancing Queen	1976	44	56	68	67	92	131	155	127	160	
+45	Klein Orkest	Over De Muur	1984	39	38	30	60	45	81	76	60	84	
+46	Phil Collins	In The Air Tonight	1981	37	36	48	41	48	54	87	97	106	
+47	Johnny Cash	Hurt	2003	41	40	31	22	20	28	26	29	17	
+48	Rage Against The Machine	Killing In The Name Of	1992	48	51	60	62	64	70	94	87	94	
+49	Lady Gaga & Bradley Cooper	Shallow	2018	38	37	45	736	0	0	0	0	0	
+50	Supertramp	School	1974	47	45	41	44	44	48	52	41	37	
+51	Coldplay	Yellow	2000	118	114	129	116	126	111	158	195	154	
+52	John Lennon	Imagine	1971	34	26	29	16	16	12	1	38	23	
+53	Kate Bush	Running Up That Hill	1985	576	595	597	561	622	591	648	596	652	
+54	George Michael & Queen	Somebody To Love	1993	78	60	79	68	135	1054	517	941	838	
+55	Goldband	Noodgeval	2021	0	0	0	0	0	0	0	0	0	
+56	Wim Sonneveld	Het Dorp	1974	54	47	25	64	62	55	45	39	36	
+57	Radiohead	Creep	1993	66	62	83	87	65	75	117	102	115	
+58	Coldplay	The Scientist	2002	72	61	46	45	39	41	35	36	29	
+59	Paolo Nutini	Iron Sky	2014	70	86	86	77	52	57	47	0	0	
+60	Volbeat	Lolo Montez	2013	85	108	119	185	280	290	1622	0	0	
+61	Eminem	Lose Yourself	2002	76	74	95	63	146	153	218	0	0	
+62	The Rolling Stones	Paint It Black	1966	50	44	47	48	67	61	50	57	49	
+63	Stef Bos	Papa	1991	52	31	70	94	91	116	109	101	80	
+64	Procol Harum	A Whiter Shade Of Pale	1967	3	153	162	153	117	119	105	98	83	
+65	Supertramp	Fool's Overture	1977	71	75	71	92	84	95	69	72	70	
+66	Pearl Jam	Alive	1992	58	57	56	55	37	44	61	59	57	
+67	Queen & David Bowie	Under Pressure	1981	69	59	54	38	101	87	201	193	192	
+68	Floor Jansen & Henk Poort	Phantom Of The Opera	2019	75	105	1322	0	0	0	0	0	0	
+69	Queen	Don't Stop Me Now	1979	57	55	49	37	94	90	97	111	114	
+70	The Beach Boys	God Only Knows	1966	62	63	59	46	29	18	19	13	59	
+71	Electric Light Orchestra	Mr. Blue Sky	1978	68	72	62	51	55	79	58	90	85	
+72	Simon & Garfunkel	Bridge Over Troubled Water	1970	55	48	82	61	58	52	59	48	38	
+73	Muse	Uprising	2009	79	93	110	98	96	128	114	159	137	
+74	AC/DC	Highway To Hell	1979	88	78	66	59	43	65	91	66	121	
+75	U2	Sunday Bloody Sunday	1985	61	52	61	69	47	49	57	62	62	
+76	Amy Winehouse	Back To Black	2006	56	58	58	43	57	45	98	153	175	
+77	Nothing But Thieves	Impossible (Orchestral Version Live At Abbey Road)	2020	97	180	0	0	0	0	0	0	0	
+78	The Rolling Stones	Sympathy For The Devil	1973	63	66	65	49	51	60	46	37	35	
+79	U2	With Or Without You	1987	67	53	55	52	41	59	56	45	47	
+80	Pink Floyd	Another Brick In The Wall	1979	73	77	69	54	90	66	72	56	48	
+81	Queen	Somebody To Love	1976	81	70	42	33	66	58	65	81	91	
+82	Kensington	Sorry	2016	64	76	63	75	60	365	0	0	0	
+83	Guus Meeuwis	Brabant	2004	83	69	50	56	50	42	22	33	27	
+84	Tom Odell	Another Love	2012	221	300	335	311	355	340	350	316	983	
+85	The Beatles	Let It Be	1970	59	50	53	53	79	68	51	50	39	
+86	Red Hot Chili Peppers	Under The Bridge	1992	84	80	78	66	56	50	66	64	43	
+87	The Alan Parsons Project	Old And Wise	1982	80	84	76	65	35	37	37	28	31	
+88	Fleetwood Mac	Dreams	1977	111	111	272	229	249	341	338	263	336	
+89	Coldplay	Clocks	2003	116	96	80	57	46	36	29	20	12	
+90	Robbie Williams	Angels	1998	92	82	89	76	68	74	80	75	40	
+91	Ramses Shaffy & Liesbeth List	Pastorale	1969	60	73	73	106	86	69	71	47	42	
+92	Fleetwood Mac	Songbird	1977	553	500	589	604	515	479	399	398	1620	
+93	The Beatles	Here Comes The Sun	1969	82	83	77	103	105	104	107	121	104	
+94	U2	One	1992	74	67	57	50	32	31	24	22	19	
+95	Rammstein	Deutschland	2019	147	166	1140	0	0	0	0	0	0	
+96	The Rolling Stones	Gimme Shelter	1969	100	100	100	99	80	99	85	53	112	
+97	Elvis Presley	Suspicious Minds	1969	113	113	111	104	85	106	121	151	153	
+98	Rammstein	Du hast	1997	140	143	132	165	162	160	1006	1935	0	
+99	Dire Straits	Private Investigations	1982	93	95	87	80	69	67	67	70	66	
+100	AC/DC	Whole Lotta Rosie	1978	107	91	81	73	59	73	53	43	64	
+101	Queen	Who Wants To Live Forever	1986	89	85	74	74	107	86	99	100	100	
+102	The Doors	Riders On The Storm	1971	87	81	75	58	49	46	49	40	30	
+103	Snow Patrol	Chasing Cars	2006	98	94	102	95	78	76	93	80	56	
+104	Journey	Don't Stop Believin'	1981	109	106	122	162	198	209	209	282	251	
+105	Simple Minds	Belfast Child	1989	104	112	114	125	99	98	113	103	102	
+106	Dolly Parton	Jolene	1974	99	64	97	105	128	154	221	436	445	
+107	Kate Bush	Wuthering Heights	1978	139	129	140	126	120	118	128	117	164	
+108	Coldplay	A Sky Full Of Stars	2014	148	136	146	146	263	220	198	667	0	
+109	Claudia De Breij	Mag Ik Dan Bij Jou	2011	86	54	38	24	14	8	4	19	472	
+110	R.E.M.	Losing My Religion	1991	103	102	112	84	73	80	112	126	111	
+111	The Verve	Bitter Sweet Symphony	1997	121	120	109	96	83	85	89	84	81	
+112	Queen	The Show Must Go On	1991	105	89	107	108	197	171	177	158	165	
+113	Creedence Clearwater Revival	Have You Ever Seen The Rain	1971	108	119	139	164	216	212	255	280	244	
+114	Golden Earring	When The Lady Smiles	1984	53	115	118	142	119	115	161	161	146	
+115	Depeche Mode	Enjoy The Silence	1990	138	135	151	149	116	129	146	142	158	
+116	Foo Fighters	The Pretender	2007	126	118	116	83	88	89	70	107	96	
+117	The Beatles	Blackbird	1968	101	110	104	102	121	96	108	108	92	
+118	The Killers	Mr. Brightside	2005	130	140	185	178	178	244	305	1175	0	
+119	Blof ft. Geike	Zoutelande	2017	96	71	51	31	889	0	0	0	0	
+120	The Rolling Stones	Angie	1973	91	79	90	79	70	78	77	54	46	
+121	The Cranberries	Zombie	1994	125	122	123	129	202	222	248	264	246	
+122	Eric Clapton	Tears In Heaven	1992	90	103	91	78	75	83	83	73	65	
+123	U2	Where The Streets Have No Name	1987	114	99	98	112	71	112	119	120	107	
+124	Black Sabbath	Paranoid	1970	132	123	135	133	111	113	123	104	71	
+125	Muse	Knights Of Cydonia	2006	134	133	117	132	125	135	130	166	128	
+126	Harry Styles	Sign Of The Times	2017	234	210	555	579	925	0	0	0	0	
+127	Acda & De Munnik	Het Regent Zonnestralen	1998	102	101	108	101	82	63	63	77	87	
+128	ABBA	The Winner Takes It All	1980	133	141	182	176	192	165	174	135	197	
+129	Rammstein	Sonne	2001	186	194	147	168	182	187	947	1828	0	
+130	The Beatles	Hey Jude	1968	106	92	72	70	61	39	48	58	45	
+131	Kensington	Uncharted	2019	94	87	1722	0	0	0	0	0	0	
+132	David Bowie	Space Oddity	1969	119	107	92	81	76	38	139	130	161	
+133	Billy Joel	Goodnight Saigon	1983	110	117	101	93	81	77	79	83	90	
+134	Michael Jackson	Billie Jean	1983	136	127	130	82	113	123	126	128	132	
+135	The Beatles	Yesterday	1965	120	104	94	122	87	97	96	89	76	
+136	Aerosmith	Dream On	1973	230	239	238	189	154	164	204	225	205	
+137	Andre Hazes	Kleine Jongen	1990	128	121	113	120	159	211	263	361	356	
+138	The Animals	House Of The Rising Sun	1964	122	124	103	86	77	71	84	78	55	
+139	Otis Redding 	(Sittin' On) The Dock Of The Bay	1968	115	90	99	90	74	56	82	67	51	
+140	Red Hot Chili Peppers	Californication 	2000	141	126	133	114	127	114	157	175	109	
+141	Oasis	Don't Look Back In Anger	1996	127	151	142	121	115	257	336	390	316	
+142	Jason Paige	Gotta Catch 'Em All	1997	165	186	127	115	284	232	1666	0	0	
+143	U2	I Still Haven't Found What I'm Looking For	1987	142	125	121	128	123	142	132	124	116	
+144	Elton John	Your Song	1971	137	148	155	257	389	418	479	465	407	
+145	Nirvana	Come As You Are	1991	143	139	131	136	155	173	178	147	136	
+146	Van Dik Hout	Stil In Mij	1994	131	116	105	130	95	93	86	91	95	
+147	Ramses Shaffy	Laat Me	1978	117	97	93	161	108	126	122	131	134	
+148	Within Temptation	Ice Queen	2002	159	162	154	206	245	296	229	218	216	
+149	Bankzitters	Stapelgek	2021	611	0	0	0	0	0	0	0	0	
+150	ABBA	Gimme Gimme Gimme	1979	194	329	427	560	982	1049	1341	1305	1308	
+151	Stromae	Formidable	2013	203	229	234	296	200	143	92	32	1314	
+152	George Michael	Careless Whisper	1984	160	179	236	204	232	614	710	648	721	
+153	Dire Straits	Money For Nothing	1985	158	161	173	158	186	193	207	234	195	
+154	Falco	Jeanny	1985	151	152	168	131	102	107	153	132	193	
+155	De Dijk	Niemand In De Stad	1990	291	346	350	395	339	356	390	749	1055	
+156	Guns N' Roses	Paradise City	1989	153	144	136	124	160	201	185	198	150	
+157	Bryan Adams	Summer Of '69	1984	154	128	134	148	145	150	147	197	167	
+158	De Dijk	Dansen Op De Vulkaan	1987	273	426	387	471	460	370	403	405	401	
+159	The Moody Blues	Nights In White Satin	1968	129	145	128	111	124	122	102	76	68	
+160	De Jeugd Van Tegenwoordig	Sterrenstof	2010	149	168	164	145	258	287	387	762	0	
+161	Keane	Somewhere Only We Know	2004	193	172	319	338	279	260	245	230	182	
+162	Sting	Fields Of Gold	1993	163	157	178	188	183	161	176	157	127	
+163	Oasis	Wonderwall	1995	146	134	120	107	100	105	140	164	133	
+164	Sting	Fragile	1988	150	130	150	155	110	102	95	86	74	
+165	Iron Maiden	Fear Of The Dark	1993	189	207	174	172	168	189	1490	0	0	
+166	Foo Fighters	Everlong	1997	220	219	266	170	151	168	133	201	162	
+167	Fleetwood Mac	Everywhere	1988	295	359	442	468	674	794	877	861	854	
+168	The Eagles	The Last Resort	1976	168	163	141	139	104	108	78	55	60	
+169	Neil Diamond	Sweet Caroline	1969	144	178	190	319	330	569	669	640	867	
+170	Queen	Killer Queen	1974	169	131	106	88	310	319	316	306	288	
+171	The Weeknd	Blinding Lights	2019	156	98	0	0	0	0	0	0	0	
+172	Creedence Clearwater Revival	Fortunate Son	1969	175	196	203	213	264	265	295	408	1013	
+173	Anouk	Nobody's Wife	1997	155	137	125	123	169	180	183	168	145	
+174	Dire Straits	Walk Of Life	1985	199	226	232	265	328	320	353	355	306	
+175	Bon Jovi	Bed Of Roses	1993	157	164	180	199	209	200	212	203	188	
+176	Bruce Springsteen	Streets Of Philadelphia	1994	162	150	148	167	189	158	193	183	143	
+177	Kyteman	Sorry 	2009	170	159	152	151	134	132	131	113	148	
+178	Bob Marley & The Wailers	Three Little Birds	1977	123	185	201	238	326	331	346	315	243	
+179	Son Mieux	Multicolor	2022	0	0	0	0	0	0	0	0	0	
+180	Nick Cave & The Bad Seeds	Into My Arms	1997	167	382	417	575	630	819	0	0	0	
+181	Leonard Cohen	Hallelujah	1984	135	138	124	127	98	29	188	154	173	
+182	Simon & Garfunkel	The Boxer	1969	152	132	156	154	140	134	162	144	123	
+183	Deep Purple	Smoke On The Water	1973	183	173	153	119	131	130	148	105	118	
+184	Arctic Monkeys	Do I Wanna Know	2013	258	288	324	285	337	297	196	1029	0	
+185	Michael Jackson	Thriller	1983	213	191	191	113	147	176	205	212	176	
+186	Golden Earring	Twilight Zone	1982	112	295	260	358	306	324	371	365	305	
+187	Simple Minds	Don't You (Forget About Me)	1985	173	149	200	212	176	214	217	194	222	
+188	Fleetwood Mac	Sara	1980	312	251	288	273	261	268	211	227	241	
+189	The Eagles	Desperado	1973	184	165	165	159	106	103	137	114	119	
+190	Michael Jackson	Earth Song	1995	182	175	169	109	166	149	118	118	113	
+191	Herman Brood	Saturday Night	1978	166	155	175	175	141	136	154	169	178	
+192	Marillion	Kayleigh	1985	181	189	221	195	173	191	172	163	174	
+193	Elvis Presley	In The Ghetto	1969	198	216	210	241	203	248	261	321	266	
+194	Ike & Tina Turner	Proud Mary	1971	161	158	172	180	250	277	268	202	224	
+195	System Of A Down	Chop Suey!	2001	225	222	214	200	174	237	922	1582	0	
+196	Rammstein	Engel	1997	292	376	422	0	0	0	0	0	0	
+197	Nightwish	Ghost Love Score	2004	272	365	1417	0	0	0	0	0	0	
+198	Golden Earring	Another 45 Miles	1969	95	330	259	230	234	231	301	311	247	
+199	Radiohead	Street Spirit	1995	209	211	186	183	152	145	134	141	99	
+200	Lady Gaga	Always Remember Us This Way	2018	190	184	1430	0	0	0	0	0	0	
+201	Goo Goo Dolls	Iris	1999	340	345	345	299	346	334	302	380	278	
+202	Earth, Wind & Fire	September	1979	176	154	170	117	149	147	243	279	290	
+203	Pink Floyd	Echoes	1971	276	324	194	307	212	215	169	171	180	
+204	Pearl Jam	Jeremy	1991	187	195	158	156	136	155	195	196	602	
+205	Metallica	Unforgiven	1991	205	274	225	305	296	327	0	0	0	
+206	John Miles	Music	1976	236	236	205	209	187	170	135	116	129	
+207	Bruce Springsteen	Dancing In The Dark	1984	201	212	247	288	307	262	327	293	236	
+208	Ed Sheeran	Perfect	2017	172	169	143	85	177	0	0	0	0	
+209	Adele	Someone Like You	2011	124	147	126	97	89	47	18	35	25	
+210	Meau	Dat heb jij gedaan	2021	1298	0	0	0	0	0	0	0	0	
+211	Elton John	Rocket Man 	1972	177	232	216	482	769	1230	1668	0	0	
+212	De Dijk	Als Ze Er Niet Is	1994	301	293	228	353	297	267	241	217	206	
+213	Scorpions	Wind Of Change	1991	197	257	283	294	243	250	225	232	260	
+214	Lou Reed	Perfect Day	1972	179	156	157	134	118	121	110	92	34	
+215	Volbeat	Sad Man's Tongue	2007	262	294	219	266	353	1833	0	0	0	
+216	Metallica	Fade To Black	1984	260	279	241	272	293	286	1672	0	0	
+217	Queen	I Want To Break Free	1984	180	146	145	118	265	224	219	219	235	
+218	Evanescence	My Immortal	2003	250	264	279	345	283	305	303	341	300	
+219	Linkin Park	Numb	2003	242	254	249	221	1402	0	0	0	0	
+220	Fleetwood Mac	Landslide	1975	325	326	424	500	538	677	1625	0	0	
+221	Kate Bush	The Man With The Child In His Eyes	1978	306	340	316	281	292	239	277	188	248	
+222	Led Zeppelin	Whole Lotta Love	1969	185	176	166	141	130	124	125	96	86	
+223	R.E.M.	Everybody Hurts	1993	200	177	181	166	144	140	138	138	122	
+224	Andre Hazes	Bloed, Zweet En Tranen 	2002	174	142	138	171	172	203	197	170	138	
+225	The Amazing Stroopwafels	Oude Maasweg	1982	223	231	199	217	153	146	149	125	108	
+226	Fleetwood Mac	Little Lies	1987	534	532	629	622	861	913	1003	836	877	
+227	U2 & Mary J. Blige	One	2007	195	170	188	181	233	236	179	149	163	
+228	ABBA	Lay All Your Love On Me	1981	326	404	466	505	911	950	1086	945	953	
+229	George Michael & Elton John	Don't Let The Sun Go Down On Me	1991	288	275	365	425	714	1266	1264	1347	1150	
+230	ABBA	Chiquitita	1979	264	439	554	611	701	736	835	787	829	
+231	U2	The Unforgettable Fire	1985	206	187	171	173	129	127	120	122	124	
+232	Elton John	I'm Still Standing	1983	286	357	501	1103	0	0	0	0	0	
+233	Live	Lightning Crashes	1995	202	182	277	237	191	202	202	228	204	
+234	Beth Hart	Leave The Light On	2003	248	286	211	361	512	433	581	1195	1609	
+235	Racoon	Love You More	2005	215	181	233	186	143	133	116	109	101	
+236	Green Day	Boulevard Of Broken Dreams	2004	289	269	282	253	270	282	235	331	824	
+237	Helene Fischer	Atemlos Durch Die Nacht	2013	204	192	220	324	0	0	0	0	0	
+238	Normaal	Deurdonderen	1982	244	188	84	243	308	338	1857	0	0	
+239	Eminem & Dido	Stan	2000	376	349	379	259	489	619	618	0	0	
+240	Faithless	Insomnia	1995	255	270	333	310	181	226	258	346	778	
+241	Adele	Rolling In The Deep	2010	145	209	159	163	163	101	75	88	75	
+242	Frank Boeijen Groep	Kronenburg Park	1985	233	202	189	225	237	308	289	274	230	
+243	Guns N' Roses	Knocking On Heaven's Door	1992	229	199	198	202	278	264	325	300	226	
+244	Jacques Brel	Ne me Quitte Pas	1965	188	390	415	278	217	174	156	150	93	
+245	Kansas	Dust In The Wind	1978	270	260	275	263	214	235	213	224	219	
+246	The Scene	Iedereen Is Van De Wereld	1991	235	235	222	211	142	92	64	165	832	
+247	U2	Bad	1984	240	215	196	194	158	188	159	155	171	
+248	Editors	Papillon	2009	252	228	206	214	194	243	238	352	0	
+249	Slayer	Angel Of Death	1986	303	298	215	222	229	190	171	210	0	
+250	Metallica	Whiskey In The Jar	1998	268	374	351	402	569	0	0	0	0	
+251	Frank Boeijen	Zeg Me Dat Het Niet Zo Is	1990	208	167	115	233	220	172	129	134	256	
+252	Queen	Radio Ga Ga	1984	243	217	163	138	463	489	475	418	338	
+253	The Cult	She Sells Sanctuary	1986	241	248	253	331	231	246	257	260	293	
+254	Frans Halsema	Voor Haar	1977	217	197	184	179	132	151	115	110	88	
+255	Gary Moore	Still Got The Blues	1990	246	243	257	223	148	199	163	123	190	
+256	Rowwen Heze	November	2000	222	267	217	291	367	349	237	344	234	
+257	Bon Jovi	Living On A Prayer	1986	281	278	293	255	374	409	425	504	328	
+258	Led Zeppelin	Kashmir	1975	299	320	296	275	251	258	182	167	520	
+259	The Beatles	While My Guitar Gently Weeps	1968	247	246	192	169	225	218	203	176	168	
+260	Creedence Clearwater Revival	I Put A Spell On You	1972	214	200	187	190	157	148	152	143	152	
+261	Chris Stapleton	Tennessee Whiskey	2015	414	832	1452	0	0	0	0	0	0	
+262	Barbara Pravi	Voila	2021	678	0	0	0	0	0	0	0	0	
+263	Iron Maiden	Run To The Hills	1982	284	249	255	0	0	0	0	0	0	
+264	Kayak	Ruthless Queen	1979	219	284	273	283	239	266	226	185	170	
+265	Boudewijn De Groot	Testament	1967	265	268	197	256	277	247	249	211	202	
+266	Tears For Fears	Everybody Wants To Rule The World	1985	445	593	807	821	766	857	979	928	1000	
+267	Jimi Hendrix Experience	All Along The Watchtower	1968	237	213	195	137	179	179	160	156	97	
+268	Motorhead	Ace Of Spades	1980	207	201	209	226	190	156	896	1474	0	
+269	Queensryche	Silent Lucidity	1990	316	338	323	365	303	350	281	303	350	
+270	Sting	Englishman In New York	1988	226	206	207	196	240	242	242	317	194	
+271	Coolio	Gangsta's Paradise	1995	629	830	963	845	1281	1302	1121	1467	0	
+272	Creedence Clearwater Revival	Bad Moon Rising	1969	259	240	226	244	285	284	342	369	325	
+273	Guns N' Roses	Welcome To The Jungle	1989	314	341	267	228	335	457	0	0	0	
+274	Doe Maar	Sinds 1 Dag Of 2 (32 Jaar)	1981	413	473	497	461	626	605	584	678	531	
+275	Eddie Vedder	Society	2007	232	266	224	252	188	195	190	241	1075	
+276	Within Temptation	Mother Earth	2002	370	391	285	386	333	353	292	269	257	
+277	Bruce Springsteen	I'm On Fire	1985	231	245	212	239	327	245	337	335	272	
+278	Meat Loaf	Bat Out Of Hell	1977	416	441	363	352	332	321	256	309	310	
+279	The Mamas & The Papas	California Dreamin'	1966	266	238	248	302	262	255	247	237	250	
+280	Nirvana	Lithium	1991	257	292	265	232	246	252	224	208	957	
+281	Tracy Chapman	Fast Car	1988	218	214	245	193	238	208	297	292	220	
+282	Diggy Dex Ft. JW Roy	Treur Niet	2015	210	203	354	389	462	437	0	0	0	
+283	Lynyrd Skynyrd	Free Bird	1974	384	413	376	335	315	313	300	366	294	
+284	Elbow	One Day Like This	2008	290	244	227	207	139	183	142	177	237	
+285	Queens Of The Stone Age	No One Knows	2002	302	283	268	224	210	238	168	893	0	
+286	Bette Midler	The Rose	1980	228	198	193	177	97	94	100	85	105	
+287	Freddie Mercury	Barcelona	1987	192	190	176	143	211	302	296	249	200	
+288	Muse	Psycho	2015	297	285	264	290	222	185	597	0	0	
+289	Billy Joel	She's Always A Woman To Me	1978	332	305	256	270	318	322	402	401	431	
+290	The Proclaimers	I'm Gonna Be (500 Miles)	1988	274	234	254	280	350	436	1911	0	0	
+291	Krezip	I Would Stay	2000	309	258	229	410	473	478	427	425	426	
+292	Charles Aznavour	She	1974	178	205	242	174	196	169	143	137	169	
+293	Bruce Springsteen	Born To Run	1975	269	233	204	215	180	141	173	173	135	
+294	Don McLean	Vincent	1972	261	237	202	414	585	611	538	435	512	
+295	De Dijk	Mag Het Licht Uit	1987	405	475	447	490	438	413	409	385	375	
+296	Sinead O'Connor	Troy	1987	352	315	250	314	260	278	278	248	267	
+297	Johnny Cash	Ring Of Fire	1963	267	241	243	251	319	293	246	258	199	
+298	Kiss	I Was Made For Loving You	1979	282	297	328	312	400	380	397	332	348	
+299	Peter Fox	Haus Am See	2009	319	317	329	276	287	279	199	214	184	
+300	Radiohead	Karma Police	1997	327	287	246	235	170	206	214	221	147	
+301	Toto	Hold The Line	1979	354	328	314	303	440	420	459	452	447	
+302	Alphaville	Forever Young	1984	310	313	305	298	235	280	284	281	253	
+303	Queen	We Will Rock You	1977	263	218	137	140	409	476	458	368	355	
+304	AC/DC	Back in black	1980	360	322	295	267	255	957	1679	0	0	
+305	Peter Gabriel & Kate Bush	Don't Give Up	1986	308	289	341	295	302	309	254	190	238	
+306	ABBA	Mamma Mia	1975	315	368	411	325	613	547	769	664	692	
+307	U2	Beautiful Day	2000	253	204	223	201	208	184	191	182	139	
+308	The Police	Every Breath You Take	1983	285	325	311	286	290	318	386	330	210	
+309	Elvis Presley	Can't Help Falling In Love With You	1961	375	380	353	322	487	670	784	932	811	
+310	Adele	Skyfall	2012	164	230	244	184	164	117	36	93	61	
+311	U2	Pride	1984	298	225	231	258	419	362	294	347	283	
+312	Peter Maffay	Du	1971	287	263	270	326	266	303	332	278	268	
+313	Nirvana	The Man Who Sold The World (MTV Unplugged)	1994	311	304	321	332	403	376	442	0	0	
+314	Supertramp	The Logical Song	1979	331	312	286	356	354	395	363	403	319	
+315	Charles Aznavour	La Boheme	1966	278	0	0	0	0	0	0	0	0	
+316	Phil Collins	Against All Odds	1984	277	272	269	320	282	352	393	370	307	
+317	David Bowie	Starman	1972	239	399	315	357	378	270	0	0	0	
+318	Stromae	Papaoutai	2013	410	521	536	476	517	488	314	191	1470	
+319	Ramses Shaffy	Zing Vecht Huil Bid Lach Werk En Bewonder	1971	212	183	167	250	199	163	166	172	140	
+320	Mark & Clark Band	Worn Down Piano	1977	351	362	274	289	275	216	136	112	125	
+321	Nothing But Thieves	Amsterdam	2017	512	517	727	636	1715	0	0	0	0	
+322	De Dijk	Groot Hart	1985	443	499	468	559	475	451	496	855	1153	
+323	Bob Dylan	Hurricane	1975	275	220	208	160	133	100	127	115	73	
+324	Neil Young	Heart Of Gold	1972	317	280	271	240	207	205	222	187	157	
+325	Michael Jackson	Man In The Mirror	1988	254	224	218	135	161	138	165	199	159	
+326	Genesis	Mama	1983	337	311	334	342	175	225	233	215	231	
+327	ABBA	The Day Before You Came	1982	279	327	317	315	273	275	215	133	183	
+328	Skik	Op Fietse	1997	353	355	318	374	401	339	311	273	324	
+329	Frank Sinatra	My Way	1969	307	306	308	371	340	359	373	407	368	
+330	George Michael	Jesus To A Child	1996	391	291	356	349	317	1350	1155	1078	990	
+331	Jackson Browne	The Load Out / Stay	1977	249	303	230	231	150	139	104	95	131	
+332	Michael Jackson	Beat It	1983	363	343	406	242	334	391	359	419	315	
+333	Dire Straits	Romeo And Juliet	1980	369	378	361	372	393	368	340	353	276	
+334	Paul Simon	Graceland	1987	171	336	313	279	213	175	216	207	185	
+335	Jeff Buckley	Hallelujah	1994	280	252	183	147	114	91	101	99	78	
+336	Rowwen Heze	De Peel In Brand	2005	335	333	299	443	472	402	900	1406	1846	
+337	ABBA	Eagle	1978	324	393	325	385	299	375	348	243	282	
+338	Elvis Presley	Always On My Mind	1972	396	429	453	519	501	542	502	545	423	
+339	Avicii	Wake Me Up	2013	256	223	161	100	633	494	276	236	1103	
+340	Normaal	Oerend Hard	1977	345	255	88	330	343	336	186	271	275	
+341	Peter Gabriel	Solsbury Hill	1977	347	331	395	406	291	289	317	262	258	
+342	Abel	Onderweg	2000	356	276	276	198	321	393	422	423	484	
+343	Soundgarden	Black Hole Sun	1994	359	344	300	261	193	425	605	539	418	
+344	A-Ha	Take On Me	1985	330	299	331	321	156	178	227	284	394	
+345	Pink Floyd	Time	1973	392	339	306	333	369	382	308	277	212	
+346	Counting Crows & Blof	Holiday In Spain	2004	342	277	309	271	443	364	334	337	249	
+347	Racoon	Het Is Al Laat Toch	2020	211	737	0	0	0	0	0	0	0	
+348	Adele	Make You Feel My Love	2008	191	227	177	144	138	84	33	61	53	
+349	The Scene	Blauw	1991	346	348	302	383	242	186	180	222	490	
+350	3 Doors Down	Kryptonite	2007	333	316	320	236	201	192	164	162	186	
+351	Bruce Springsteen	Tougher Than The Rest	1987	393	424	402	567	548	532	1925	0	0	
+352	Toto	Stop Loving You	1988	380	389	408	387	513	466	548	500	487	
+353	The Rolling Stones	You Can't Always Get What You Want	1969	338	247	292	268	215	240	234	179	196	
+354	The Police	Roxanne	1979	300	242	239	187	228	233	299	287	201	
+355	Jefferson Airplane	White Rabbit	1970	344	416	352	318	281	301	291	239	223	
+356	Alice Cooper	Poison	1989	389	401	405	409	331	306	383	433	390	
+357	Nena	99 Luftballons	1983	350	296	407	309	376	439	411	413	374	
+358	Wham	Last Christmas	1984	398	397	332	484	366	530	547	628	743	
+359	Boston	More Than A Feeling	1977	365	321	290	313	227	228	250	272	242	
+360	Phil Collins	Another Day In Paradise	1989	373	337	344	316	390	406	413	392	286	
+361	Fleetwood Mac	Don't Stop	1977	618	541	683	701	853	765	719	608	527	
+362	Guns N' Roses	Estranged	1994	437	433	403	416	391	566	1226	1867	0	
+363	Sinead O'Connor	Nothing Compares 2 U	1990	349	314	289	282	323	361	394	327	364	
+364	Andre Hazes	Zij Gelooft In Mij	2000	245	253	240	254	254	256	283	275	187	
+365	Duncan Laurence	Arcade	2019	251	208	160	0	0	0	0	0	0	
+366	Dj Paul Elstak 	Rainbow In The Sky 	1995	412	449	386	446	532	615	765	0	0	
+367	ABBA	Waterloo	1974	348	403	438	413	660	742	772	890	836	
+368	Boudewijn de Groot	Verdronken Vlinder	1966	341	377	262	398	360	300	298	251	232	
+369	Underworld	Born Slippy	1996	318	415	418	449	413	450	477	602	0	
+370	Bankzitters	Je Blik Richting Mij	2022	0	0	0	0	0	0	0	0	0	
+371	Michel Fugain	Une Belle Histoire	1972	296	381	400	407	313	295	349	345	303	
+372	Imagine Dragons	Radioactive	2012	406	410	310	191	311	432	287	1169	0	
+373	The White Stripes	Seven Nation Army	2003	321	281	303	208	184	137	210	205	189	
+374	Green Day	Basket Case	1994	387	396	370	393	359	371	463	599	0	
+375	The Who	Baba O'Riley	1971	383	358	294	377	256	219	170	186	141	
+376	ABBA	Thank You For The Music	1978	322	419	416	438	432	378	401	376	460	
+377	John Denver	Take Me Home, Country Roads	1971	294	265	237	192	500	541	572	641	591	
+378	Queen	These Are the Days Of Our Lives	1991	355	342	252	218	399	333	290	242	261	
+379	Metallica	Sad But True	1992	453	553	483	521	578	596	450	359	284	
+380	White Lies	Time to give	2018	487	537	434	719	0	0	0	0	0	
+381	Janis Joplin	Me And Bobby McGee	1971	329	301	261	246	272	269	266	265	285	
+382	The Beatles	A Day In The Life	1967	378	319	330	247	165	241	167	148	126	
+383	Faithless	God Is A DJ	2004	368	372	469	453	288	335	391	470	1192	
+384	Coldplay	Paradise	2011	529	481	455	380	396	346	264	220	149	
+385	Blof	Zo Stil	2012	305	310	291	293	301	326	240	229	852	
+386	Kings Of Leon	Sex On Fire	2008	271	307	326	277	218	166	150	139	98	
+387	Adele	Set Fire To The Rain	2011	361	364	281	248	253	181	88	106	103	
+388	Queen	We Are The Champions	1977	431	383	251	216	583	543	579	672	555	
+389	Nightwish	Elan	2015	491	576	312	0	0	0	0	0	0	
+390	Mumford & Sons	Little Lion Man	2009	382	335	373	340	433	357	321	356	172	
+391	Snow Patrol	Run	2004	394	347	322	264	312	292	275	288	179	
+392	Jay-Z & Alicia Keys	Empire State Of Mind	2009	358	309	782	756	991	1040	328	0	0	
+393	Bruce Springsteen	My Hometown	1986	427	428	450	573	632	517	633	537	453	
+394	Chef'Special	In Your Arms	2014	334	379	404	328	206	234	187	396	0	
+395	Stromae	L'enfer	2022	0	0	0	0	0	0	0	0	0	
+396	Suzan & Freek & Snelle	De Overkant	2020	381	0	0	0	0	0	0	0	0	
+397	Froukje	Ik Wil Dansen	2021	0	0	0	0	0	0	0	0	0	
+398	ABBA	Does Your Mother Know	1979	442	518	560	602	737	759	1168	1262	1410	
+399	The Waterboys	The Whole Of The Moon	1986	377	398	366	404	345	323	351	349	408	
+400	Pearl Jam	Even Flow	1991	515	503	414	450	0	0	0	0	0	
+401	The Beatles	Eleanor Rigby	1966	429	492	454	566	411	419	396	400	308	
+402	ZZ Top	La Grange	1973	402	479	518	581	469	504	1988	0	0	
+403	Stef Bos	Is Dit Nu Later	1990	367	171	767	820	942	800	1949	0	0	
+404	Andre Hazes	De Vlieger	1977	374	350	298	344	379	405	395	406	333	
+405	Blof	Harder Dan Ik Hebben Kan	1999	419	384	349	297	373	373	370	383	327	
+406	The Rolling Stones	(I Can't Get No) Satisfaction	1965	357	302	284	304	305	294	236	238	225	
+407	De Dijk	Ik Kan Het Niet Alleen	1989	507	527	545	625	635	565	630	528	530	
+408	The Alan Parsons Project	Eye In The Sky	1982	408	421	439	441	384	443	487	421	372	
+409	Doe Maar	De Bom	1982	672	896	863	910	968	1030	1045	1281	882	
+410	Bob Marley & The Wailers	Redemption Song	1980	304	261	369	350	271	213	192	250	666	
+411	Silk Sonic	Leave The Door Open	2021	1854	0	0	0	0	0	0	0	0	
+412	Dolly Parton & Kenny Rogers	Islands In The Stream	1983	403	363	723	812	939	1060	1083	1039	1360	
+413	Fleetwood Mac	Tusk	1979	577	491	557	558	467	397	452	447	422	
+414	Queen	Another One Bites The Dust	1980	386	387	263	197	692	524	540	512	420	
+415	The Boxer Rebellion	Diamonds	2013	474	522	510	576	486	480	662	871	0	
+416	Chris Isaak	Wicked Game	1991	500	472	477	445	417	588	721	750	514	
+417	Meat Loaf	I'd Do Anything For Love	1993	597	616	616	645	810	738	595	651	638	
+418	The Eagles	One Of These Nights	1975	409	386	355	355	309	285	384	348	352	
+419	The Eagles	Take It Easy	1972	411	407	372	391	352	355	545	491	457	
+420	Cuby & The Blizzards	Window Of My Eyes	1968	364	360	338	363	248	259	194	136	142	
+421	Andre Hazes	Zeg Maar Niets Meer	1982	385	427	445	492	751	917	981	1149	1183	
+422	De Staat	Witch Doctor	2014	568	590	460	695	533	1439	0	0	0	
+423	Radiohead	Paranoid Android	1997	439	432	342	301	224	210	200	178	144	
+424	Kate Bush	Cloudbusting	1985	587	654	657	644	598	578	620	478	614	
+425	Billie Eilish	Bad Guy	2019	362	221	559	0	0	0	0	0	0	
+426	Imagine Dragons	Believer	2017	494	485	378	336	1178	0	0	0	0	
+427	The Doors	The End	1967	379	395	327	203	244	229	181	152	120	
+428	Adele	Easy on me	2021	457	0	0	0	0	0	0	0	0	
+429	Evanescence	Bring Me To Life	2003	560	598	618	693	732	878	888	0	0	
+430	Andrea Bocelli	Vivo Per Lei	1996	441	624	525	776	888	852	923	1025	776	
+431	Bob Marley & The Wailers	No Woman No Cry	1975	336	352	339	269	257	223	270	233	156	
+432	Van Morrison	Brown Eyed Girl	1967	397	371	336	370	276	283	331	291	274	
+433	Sting	Russians	1985	1051	1036	906	904	822	730	613	652	517	
+434	Novastar	Wrong	1999	535	611	713	658	666	668	699	875	790	
+435	Boudewijn de Groot	Welterusten Meneer De President	1966	644	549	490	485	474	400	421	460	362	
+436	Imagine Dragons	Demons	2012	528	585	437	323	445	535	372	1112	0	
+437	Jim Croce	Time In A Bottle	1973	460	477	432	460	363	424	355	333	360	
+438	Bruce Springsteen	Born In The USA	1985	421	420	397	417	466	389	489	489	309	
+439	Taylor Swift	All Too Well (Taylor's Version)	2021	1282	0	0	0	0	0	0	0	0	
+440	Ultravox	Vienna	1981	407	406	419	397	322	315	366	310	359	
+441	Lana Del Rey	Video Games	2011	593	615	423	585	700	768	575	578	465	
+442	Foo Fighters	Learn To Fly	1999	466	464	440	379	377	429	306	496	0	
+443	Blof	Omarm	2003	371	369	304	210	344	469	449	440	367	
+444	Foreigner	I Want To Know What Love Is	1984	400	408	384	403	300	394	524	471	624	
+445	Harry Styles	As It Was	2022	0	0	0	0	0	0	0	0	0	
+446	Nothing But Thieves	Sorry	2017	582	505	691	546	1034	0	0	0	0	
+447	Kensington	Streets	2014	401	373	287	334	294	152	151	581	0	
+448	New Order	Blue Monday	1983	417	422	399	354	424	421	462	455	424	
+449	Suzan & Freek	Goud	2021	1752	0	0	0	0	0	0	0	0	
+450	John Denver	Annie's Song	1976	415	460	467	525	522	510	646	726	504	
+451	Golden Earring	Going To The Run	1991	283	641	603	689	529	592	564	553	471	
+452	Pink Floyd	Money	1973	422	453	382	362	402	416	398	323	271	
+453	Tame Impala	Let It Happen	2015	558	512	682	735	672	571	1790	0	0	
+454	Doe Maar	Smoorverliefd	1981	709	980	1028	1050	1092	1205	1211	1367	1080	
+455	Neil Diamond	I Am... I Said	1971	432	442	398	418	502	546	467	394	439	
+456	Fleetwood Mac	Rhiannon	1976	608	548	634	583	530	570	506	567	538	
+457	Foo Fighters	My Hero (Live)	2006	1877	1975	0	0	0	0	0	0	0	
+458	Eurythmics	Sweet Dreams	1983	455	412	484	339	567	685	666	708	507	
+459	Bill Withers	Ain't No Sunshine	1971	323	160	472	451	259	263	244	257	209	
+460	AC/DC	You Shook Me All Night Long	1980	517	450	381	375	375	499	0	0	0	
+461	Eric Clapton	Layla	1992	404	366	340	262	289	281	259	244	198	
+462	Simple Minds	Alive & Kicking	1985	444	463	500	589	641	649	560	514	454	
+463	Ramses Shaffy & Liesbeth List & Alderliefste	Laat Me (Vivre)	2005	328	323	280	470	349	351	304	255	207	
+464	Golden Earring	Long Blond Animal	1980	313	533	571	694	0	0	0	0	0	
+465	Hozier	Take Me To Church	2014	436	423	360	327	269	198	103	521	0	
+466	Andre Hazes	Geef Mij Je Angst	1984	366	332	371	415	361	426	382	371	345	
+467	Joe Cocker	With A Little Help From My Friends	1968	343	259	297	348	286	299	220	364	311	
+468	Mark Ronson ft. Amy Winehouse	Valerie	2007	483	411	357	317	509	646	532	522	203	
+469	Maneskin	Zitti E Buoni	2021	1021	0	0	0	0	0	0	0	0	
+470	Neil Young	Old Man	1972	339	250	235	227	112	249	252	235	177	
+471	Prince	When Doves Cry	1984	395	354	347	359	341	207	658	587	543	
+472	Editors	Smokers Outside The Hospital Doors	2007	449	417	380	390	325	312	262	594	0	
+473	Scorpions	Still Loving You	1987	425	566	552	464	435	445	407	399	413	
+474	Bee Gees	Staying Alive	1978	470	480	522	481	388	399	525	579	533	
+475	Michael Jackson	Smooth Criminal	1988	448	452	410	292	439	385	339	450	339	
+476	Gorillaz	Feel Good Inc	2005	584	645	649	437	577	764	0	0	0	
+477	Elvis Presley	My Boy	1975	509	547	604	651	631	711	637	617	601	
+478	Suzan & Freek	Als Het Avond Is	2018	390	262	278	0	0	0	0	0	0	
+479	Adele	Hello	2015	196	282	213	150	122	72	23	0	0	
+480	The Cranberries	Linger	1993	488	502	488	494	862	973	961	850	946	
+481	Normaal	De Boer Dat Is De Keerl	1982	464	193	9	0	0	0	0	0	0	
+482	Adele	When We Were Young	2015	238	334	362	287	219	144	1703	0	0	
+483	Edith Piaf	Non, Je Ne Regrette Rien	1961	372	858	813	577	582	622	460	427	363	
+484	The Stranglers	Golden Brown	1982	468	471	465	462	514	580	434	457	335	
+485	Acda & De Munnik	Lopen Tot De Zon Komt	1997	447	392	390	405	336	274	272	307	254	
+486	Liquido	Narcotic	1998	465	435	429	553	611	664	588	773	1344	
+487	Blof	Liefs Uit Londen	1998	532	451	401	382	351	298	223	283	228	
+488	Anita Meyer	Why Tell Me Why	1981	525	498	566	666	756	783	1016	944	789	
+489	Boudewijn De Groot	De Vondeling Van Ameland	2004	476	461	389	427	371	342	286	223	181	
+490	Rag'n'Bone Man 	Human	2016	418	504	451	343	204	583	0	0	0	
+491	Golden Earrings	Just a Little Bit of Peace in My Heart	1968	216	859	711	852	685	631	598	517	419	
+492	Red Hot Chili Peppers	Snow (Hey Oh)	2006	475	478	463	376	429	330	335	386	269	
+493	Het Goede Doel	Alles Geprobeerd	1986	545	621	537	704	568	587	587	495	444	
+494	Neet Oet Lottum	Hald Mich 's Vas	2005	459	563	728	697	829	755	495	1009	741	
+495	Muse	Supermassive Black Hole 	2006	519	599	509	442	507	471	377	0	0	
+496	Pink Floyd	High Hopes 	1994	569	618	485	550	547	681	1755	0	0	
+497	The War On Drugs	Under The Pressure	2014	561	628	655	504	579	814	1876	0	0	
+498	Rammstein	Mutter	2001	673	695	534	523	610	0	0	0	0	
+499	Muse	Plug In Baby	2001	513	508	425	421	358	314	267	302	211	
+500	Blof	Aan De Kust	1998	435	388	394	384	314	311	320	319	255	
+501	Racoon	De Echte Vent	2020	320	1086	0	0	0	0	0	0	0	
+502	Fleetwood Mac	Albatross	1969	557	581	639	705	551	581	486	424	382	
+503	Pink Floyd	The Great Gig In The Sky	1973	547	561	456	444	408	403	307	286	252	
+504	Linkin Park	Breaking The Habit	2004	533	622	569	483	398	882	578	704	0	
+505	Avicii	Levels	2011	433	445	392	260	0	0	0	0	0	
+506	Guns N' Roses	Patience	1989	454	466	426	433	491	629	634	0	0	
+507	Anouk	Lost	2005	423	353	343	472	434	441	329	245	217	
+508	Rob de Nijs	Foto Van Vroeger	1980	463	308	865	1173	835	926	812	698	667	
+509	Maroon 5	Memories	2019	430	271	770	0	0	0	0	0	0	
+510	Buena Vista Social Club	Chan Chan	1997	484	486	613	532	483	454	488	462	417	
+511	Johnny Cash	I Walk The Line	1957	424	402	307	329	426	435	0	0	0	
+512	Iron Maiden	The Trooper	1983	0	0	0	0	0	0	0	0	0	
+513	Marco Borsato	Dochters	2008	224	174	96	110	109	88	54	68	72	
+514	Rob de Nijs	Het Werd Zomer	1977	426	394	766	1008	804	861	899	690	680	
+515	Hero	Toen Ik Je Zag	1997	471	425	576	562	707	735	653	752	1091	
+516	Doe Maar	Belle Helene	1982	710	860	928	926	811	876	939	1089	795	
+517	Chef'Special	Amigo	2016	434	562	664	506	493	0	0	0	0	
+518	Queen	Crazy Little Thing Called Love	1979	469	447	385	364	686	639	665	727	575	
+519	Muse	Starlight	2006	502	556	478	466	444	423	347	363	273	
+520	Vangelis	Conquest Of Paradise	1995	586	629	651	614	497	482	362	304	396	
+521	The Cure	Lullaby	1989	592	635	646	830	690	620	668	746	662	
+522	Toto	Rosanna	1982	589	571	526	511	790	779	787	794	695	
+523	Green Day	Wake Me Up When September Ends	2005	556	591	496	430	494	515	481	595	0	
+524	ABBA	Voulez-Vous	1979	590	828	1024	987	1521	1550	1599	1974	1889	
+525	Orchestral Manoeuvres In The Dark	Joan Of Arc (Maid Of Orleans)	1982	516	538	558	582	488	460	405	384	432	
+526	Johnny Cash	Folsom Prison Blues (live In Folsom Prison)	1969	485	554	412	396	658	556	0	0	0	
+527	Lex Uiting	Nao 't Zuuje	2017	388	405	626	1214	0	0	0	0	0	
+528	America	A Horse With No Name	1972	451	431	391	347	347	328	385	334	297	
+529	Herbert Gronemeyer	Halt Mich	1988	504	437	508	465	364	390	309	240	259	
+530	London Grammar	Strong	2014	490	476	570	499	452	665	457	772	0	
+531	Donna Summer	I Feel Love	1977	554	673	695	617	767	1029	1120	1110	856	
+532	Nirvana	Where Did You Sleep Last Night (unplugged)	1994	503	458	470	512	0	0	0	0	0	
+533	De Dijk	Binnen Zonder Kloppen	1985	701	812	741	828	800	839	868	769	658	
+534	Neil Young	Rockin' In The Free World	1989	399	273	393	368	342	316	269	358	287	
+535	Maan	Ze Huilt Maar Ze Lacht	2019	293	356	0	0	0	0	0	0	0	
+536	Ede Staal	Het Het Nog Nooit Zo Donker West	1984	700	619	476	0	0	0	0	0	0	
+537	Arctic Monkeys	I Bet You Look Good On The Dancefloor	2005	676	690	738	639	682	648	1993	0	0	
+538	Don McLean	American Pie	1972	522	605	542	542	718	628	504	562	409	
+539	Oasis	Champagne Supernova	1996	613	637	673	656	596	748	1828	0	0	
+540	Joy Division	Love Will Tear Us Apart	1980	499	457	430	401	427	383	333	305	221	
+541	Marvin Gaye	What's Going On	1971	467	400	512	219	167	464	324	268	264	
+542	Bonnie Tyler	Total Eclipse Of The Heart	1983	506	434	481	480	619	647	664	645	579	
+543	John Legend	All Of Me	2013	489	409	375	400	241	197	124	74	634	
+544	Elton John	Tiny Dancer 	1971	600	687	624	1032	1371	1667	1995	0	0	
+545	Mumford & Sons	The Cave	2009	462	385	358	306	316	272	239	200	117	
+546	Spinvis	Kom Terug	2012	595	676	696	819	1153	0	0	0	0	
+547	The Doors	L.A. Woman	1971	450	531	503	678	421	360	345	312	239	
+548	Eminem	Without Me	2002	799	882	933	837	1445	1717	0	0	0	
+549	Talking Heads	Psycho Killer	1978	575	570	523	618	425	526	557	480	528	
+550	Tenacious D	Tribute	2003	634	639	565	456	441	502	1141	0	0	
+551	INXS	Never Tear Us Apart	1988	601	656	761	835	620	701	704	654	714	
+552	Frankie Goes To Hollywood	The Power Of Love	1984	505	546	574	537	387	452	441	555	565	
+553	Andrea Bocelli & Sarah Brightman	Time To Say Goodbye	1997	530	510	620	516	1081	828	535	426	353	
+554	The Police	Message In A Bottle	1979	477	456	449	408	422	422	503	437	341	
+555	Iron Maiden	Can I Play With Madness	1988	571	496	420	373	394	388	208	259	0	
+556	Billy Joel	Leningrad	1989	619	664	549	571	492	446	404	367	397	
+557	Supertramp	Dreamer	1974	612	530	515	557	644	676	686	687	486	
+558	De Dijk	Bloedend Hart	1982	759	770	647	647	742	573	676	584	493	
+559	Massive Attack	Unfinished Sympathy	1991	536	544	519	457	368	337	376	389	370	
+560	2Pac	Changes	1998	555	594	715	551	691	582	585	0	0	
+561	Queen	Hammer To Fall	1984	523	569	443	474	0	0	0	0	0	
+562	Rowwen Heze	Limburg	1996	552	633	480	612	748	739	542	684	416	
+563	The Beatles	Penny Lane	1967	495	436	377	388	506	410	432	529	441	
+564	Van Halen	Jump	1984	428	290	581	650	565	636	571	459	483	
+565	Phil Collins	You'll Be In My Heart	1999	617	572	608	526	657	678	537	558	450	
+566	Stromae	Alors On Danse	2010	690	941	1065	1113	1137	1145	797	572	0	
+567	Status Quo	Whatever You Want	1979	496	534	599	663	711	667	680	629	636	
+568	Simon & Garfunkel	Mrs. Robinson	1968	472	370	568	524	659	575	641	642	518	
+569	George Michael	Cowboys And Angels	1990	572	529	538	522	412	1277	1020	967	1005	
+570	Ed Sheeran	I See Fire	2014	438	470	367	249	171	194	145	441	0	
+571	Eddie Vedder	Guaranteed	2007	227	1548	0	0	0	0	0	0	0	
+572	Europe	The Final Countdown	1986	567	482	587	426	523	568	566	589	436	
+573	Tina Turner & David Bowie	Tonight	1988	479	520	506	486	709	612	936	695	783	
+574	Avicii	Hey Brother	2013	420	438	348	234	841	751	416	339	1253	
+575	Billie Eilish	Happier Than Ever	2021	1808	0	0	0	0	0	0	0	0	
+576	George Michael	A Different Corner	1986	588	552	628	670	564	1354	1243	1007	1045	
+577	Ike & Tina Turner	River Deep Mountain High	1966	440	361	577	595	736	713	609	535	462	
+578	David Bowie	Life On Mars	1971	501	483	388	351	267	182	570	477	482	
+579	Seal	Kiss From A Rose	1994	482	515	517	440	320	307	280	299	329	
+580	R.E.M.	Nightswimming	1992	631	575	648	586	470	503	551	616	0	
+581	Eric Clapton	Wonderful Tonight	1988	458	497	461	455	383	392	361	325	321	
+582	Earth, Wind & Fire	Fantasy	1978	524	474	530	479	370	366	358	381	347	
+583	Red Hot Chili Peppers	Scar Tissue	1999	602	539	586	496	521	430	474	469	0	
+584	Radiohead	Exit Music (For A Film)	1997	762	809	0	0	0	0	0	0	0	
+585	Harry Styles	Golden	2020	847	0	0	0	0	0	0	0	0	
+586	Linkin Park & Jay Z	Numb/Encore	2004	580	620	590	497	405	772	631	0	0	
+587	Louis Armstrong	What A Wonderful World	1968	514	459	600	531	527	525	369	410	343	
+588	The Rolling Stones	Wild Horses	1971	531	443	486	552	456	508	464	382	402	
+589	Iron Maiden	Wasted Years	1986	662	0	0	0	0	0	0	0	0	
+590	Led Zeppelin	Immigrant Song	1971	574	514	457	424	485	803	500	420	351	
+591	Gotye	Somebody That I Used To Know	2011	498	550	428	454	468	271	189	119	63	
+592	Tame Impala	The Less I Know The Better	2015	737	684	794	1063	1268	0	0	0	0	
+593	The Black Keys	Little Black Submarines	2012	645	648	567	554	442	427	801	1318	0	
+594	War On Drugs	Thinking Of A Place	2017	657	764	956	1041	0	0	0	0	0	
+595	Red Hot Chili Peppers	Otherside	2003	643	603	601	578	591	554	522	658	0	
+596	David Bowie	Let's Dance	1983	542	495	547	502	392	162	803	685	751	
+597	Blue Oyster Cult	Don't Fear The Reaper	1976	666	663	660	556	646	703	674	801	723	
+598	Jaap Reesema	Grijs	2022	0	0	0	0	0	0	0	0	0	
+599	Elvis Costello	She	1999	548	487	464	467	362	369	319	266	270	
+600	Elton John	Circle Of Life	1994	686	638	527	684	798	1023	951	1005	842	
+601	ABBA	Happy New Year	1980	658	722	758	892	894	851	911	771	815	
+602	U2	New Years Day	1983	546	440	431	428	407	534	493	412	381	
+603	Bon Jovi	Always	1994	562	506	635	627	731	775	702	689	499	
+604	De Dijk	Onderuit	1987	893	1055	1023	0	0	0	0	0	0	
+605	Blof	Dansen Aan Zee	2000	493	462	475	411	446	473	419	443	386	
+606	Acda & De Munnik	Ren Lenny Ren	2002	521	524	533	539	365	408	446	428	605	
+607	John Denver	Leaving On A Jet Plane	1969	511	468	543	633	558	487	619	692	526	
+608	Krezip	Sweet Goodbyes	2009	646	614	458	775	774	891	737	657	688	
+609	Muse	Bliss	2002	640	649	531	434	406	411	379	0	0	
+610	Santana	Samba Pa Ti	1973	508	489	436	423	236	196	273	216	295	
+611	Talking Heads	Slippery People	1985	550	528	556	597	699	698	602	409	573	
+612	Heart	Alone	1987	614	557	658	745	498	604	629	547	615	
+613	Prince	Sometimes It Snows In April	1996	579	623	511	565	418	254	1294	0	0	
+614	Guus Meeuwis	Geef Mij Je Angst	2004	520	484	383	431	461	332	260	301	218	
+615	Creedence Clearwater Revival	Who'll Stop The Rain	1970	456	490	499	540	624	652	663	630	551	
+616	Michael Jackson	Dirty Diana	1988	610	545	524	392	416	386	541	585	502	
+617	Lynyrd Skynyrd	Sweet Home Alabama	1974	497	414	409	284	381	401	415	422	344	
+618	Bruce Springsteen	Badlands	1978	669	702	529	607	457	415	444	362	280	
+619	Bee Gees	How Deep Is Your Love	1977	663	679	672	629	516	496	654	683	617	
+620	Elton John & Dua Lipa	Cold Heart (Pnau Remix)	2021	0	0	0	0	0	0	0	0	0	
+621	Alice In Chains	Would	1992	708	740	759	717	650	579	1948	0	0	
+622	Men At Work	Down Under	1982	635	568	563	517	518	642	558	570	421	
+623	Leonard Cohen	Suzanne	1968	480	446	396	394	298	110	417	320	314	
+624	Robbie Williams	Feel	2002	668	467	433	399	380	329	318	296	208	
+625	Melissa Etheridge	Like The Way I Do	1989	537	587	609	536	696	809	820	533	563	
+626	Kensington	War	2014	527	543	435	367	230	120	73	0	0	
+627	The Cure	Friday I'm In Love	1992	751	782	797	1095	970	890	985	1086	938	
+628	Sting	Shape of my heart	1993	684	801	831	888	1047	1109	1005	950	0	
+629	Alanis Morissette	Ironic	1995	670	613	755	543	479	465	528	661	651	
+630	Jimi Hendrix Experience	Hey Joe	1967	538	455	446	366	437	428	360	343	215	
+631	Eminem	Real Slim Shady	2000	875	1014	1039	949	1668	1745	0	0	0	
+632	Aretha Franklin	Respect	1967	446	418	346	245	842	790	813	782	598	
+633	Bruce Springsteen	Thunder Road	1975	664	636	482	478	357	304	312	285	240	
+634	Het Goede Doel	Belgie	1982	633	773	662	696	908	658	808	897	728	
+635	Massive Attack	Teardrop	1998	702	655	641	520	534	608	607	716	0	
+636	ABBA	Take A Chance On Me	1977	639	815	805	869	1088	1114	1397	1508	1523	
+637	Alice Cooper	Halo Of Flies	1973	651	662	535	452	268	288	253	209	191	
+638	Simple Minds	Waterfront	1984	679	767	798	794	680	704	494	647	705	
+639	De Dijk	Als Het Golft	2000	929	1167	1195	1252	1271	1063	983	1052	753	
+640	Ed Sheeran	Castle On The Hill	2017	585	625	493	341	185	0	0	0	0	
+641	The Kinks	Lola (live)	1980	559	551	489	545	1297	1021	1349	0	0	
+642	Bon Jovi	It's My Life	2000	540	523	516	469	587	536	466	564	385	
+643	The Smiths	There Is A Light That Never Goes Out	1986	870	887	820	679	679	597	492	357	950	
+644	George Michael	Freedom	1990	581	501	716	510	676	0	1860	1985	1786	
+645	Van Morrison	Have I Told You Lately That I Love You	1989	605	578	579	535	431	381	326	267	245	
+646	Rick Astley	Never Gonna Give You Up	1987	481	749	853	824	847	1036	825	1103	1534	
+647	Eva Cassidy	Fields Of Gold	1998	655	698	625	584	535	444	354	322	227	
+648	Don Henley	The Boys Of Summer	1985	630	604	615	580	557	500	508	485	456	
+649	Bronski Beat	Smalltown Boy	1984	735	813	980	1023	1008	1093	1156	1081	1027	
+650	Pink Floyd	Hey You	1979	675	674	520	616	0	0	0	0	0	
+651	John Mayer	Slowdancing In A Burning Room	2006	637	646	610	619	594	599	574	712	1729	
+652	The Beatles	Strawberry Fields Forever	1967	626	558	548	587	505	387	322	395	301	
+653	Van Halen	Running With The Devil	1980	565	318	677	634	576	490	485	360	392	
+654	The Weeknd	Save Your Tears	2020	805	0	0	0	0	0	0	0	0	
+655	Ennio Morricone	Once Upon A Time In The West	1968	677	608	869	779	741	663	738	696	698	
+656	George Michael	Father Figure	1988	563	612	678	626	536	1591	1548	1267	1422	
+657	Lewis Capaldi	Someone You Loved	2019	954	644	1113	0	0	0	0	0	0	
+658	Boudewijn de Groot	Jimmy	1973	674	697	638	675	721	618	696	724	541	
+659	Rob de Nijs	Banger Hart	1996	688	658	1116	1453	1506	1403	1347	1129	1122	
+660	The Doors	Light My Fire	1967	570	535	539	529	404	377	357	289	229	
+661	Harry Styles	Watermelon Sugar	2020	873	1990	0	0	0	0	0	0	0	
+662	Talk Talk	Such A Shame	1984	578	454	479	594	448	572	470	474	552	
+663	Aretha Franklin	I Say A Little Prayer	1968	606	494	444	300	951	942	929	793	803	
+664	U2	I Will Follow	1982	594	542	541	687	450	606	601	502	523	
+665	Chris Rea	Driving Home For Christmas	1986	647	692	630	832	615	564	647	677	732	
+666	Passenger	Let Her Go	2012	648	567	521	429	274	204	175	94	89	
+667	Elton John	Nikita	1985	660	650	776	860	786	996	973	837	917	
+668	Herbert Gronemeyer	Der Weg	2002	652	653	667	706	539	519	341	313	279	
+669	Chef'Special	Afraid of the dark	2021	1395	0	0	0	0	0	0	0	0	
+670	Elvis Presley	Jailhouse Rock	1957	734	647	661	572	649	760	740	786	675	
+671	Aerosmith	I Don't Want To Miss A Thing	1998	598	580	578	530	420	384	356	378	369	
+672	Paul De Leeuw	Ik Heb Je Lief	1997	543	540	452	503	386	396	330	314	332	
+673	Johnny Cash	A Boy Named Sue	1969	620	588	502	508	525	493	400	467	326	
+674	Daniel Lohues	Hier Kom Ik Weg	2008	717	701	561	673	571	483	424	336	497	
+675	Queen	I Want It All	1989	741	606	505	422	955	867	814	802	679	
+676	Metallica	The Unforgiven II	2008	812	910	753	754	943	0	0	0	0	
+677	The Temptations	Papa Was A Rolling Stone	1972	564	516	573	487	504	474	375	318	299	
+678	Arctic Monkeys	When The Sun Goes Down	2006	833	894	989	942	1180	1152	0	0	0	
+679	Guus Meeuwis	Dat Komt Door Jou	2009	624	597	602	555	627	492	344	486	451	
+680	Frank Boeijen Groep	De Verzoening	1987	653	632	642	702	607	737	480	464	466	
+681	The Beach Boys	Good Vibrations	1966	583	600	532	448	221	217	313	253	265	
+682	Sia	Chandelier 	2013	681	584	491	439	395	455	1515	0	0	
+683	Doe Maar	Is Dit Alles	1982	1061	1124	1070	1045	1006	985	1191	1241	897	
+684	AC/DC	Let There Be Rock	1977	719	661	623	1402	0	0	0	0	0	
+685	Pink Floyd	Us And Them	1973	763	723	584	637	616	749	0	0	0	
+686	Elton John	Goodbye Yellow Brick Road	1973	811	987	1261	0	0	0	0	0	0	
+687	Gerry & The Pacemakers	You'll Never Walk Alone	1963	486	351	780	995	967	974	802	671	633	
+688	Linkin Park	One More Light	2016	723	719	705	653	1247	0	0	0	0	
+689	Ed Sheeran	Thinking Out Loud	2014	492	465	359	220	137	125	68	328	0	
+690	Fish	A Gentleman's Excuse Me	1990	771	851	890	1037	846	789	621	665	556	
+691	Gerry Rafferty	Baker Street	1978	599	574	550	514	449	448	374	298	349	
+692	Michael Jackson	They Don't Care About Us	1996	452	682	654	435	625	584	433	646	596	
+693	Tina Turner	The Best	1989	615	670	707	793	878	903	747	653	635	
+694	Madness	One Step Beyond	1979	591	511	544	541	304	344	367	295	373	
+695	Status Quo	Roll Over Lay Down	1975	667	627	631	686	581	561	599	438	442	
+696	Al Stewart	Year Of The Cat	1977	711	678	656	600	415	440	448	414	380	
+697	Guns N' Roses	Don't Cry 	1991	940	755	671	682	805	881	872	0	0	
+698	Bruce Springsteen	Glory Days	1985	809	854	756	880	891	771	853	839	687	
+699	Neil Young	Like A Hurricane	1977	604	651	562	489	348	347	232	181	166	
+700	The Cats	Lea	1968	680	743	689	963	1044	777	661	530	609	
+701	Armin van Buuren Ft. Kensington	Heading Up High	2015	461	513	413	381	749	467	0	0	0	
+702	The Cure	Boys Don't Cry	1986	881	935	975	1407	1093	1070	1148	1116	864	
+703	Joe Jackson	Is She Really Going Out With Him?	1979	596	596	605	518	588	553	505	439	468	
+704	The Beatles	Come Together	1969	566	526	441	569	638	696	520	614	1156	
+705	Simply Red	Holding Back The Years	1985	621	602	572	538	503	449	451	404	478	
+706	Crosby, Stills, Nash & Young	Our House	1970	682	657	528	513	524	544	785	755	508	
+707	ABBA	I Have A Dream	1979	632	834	861	797	949	810	752	784	860	
+708	Bankzitters	Is Dat Nou Echt?	2022	0	0	0	0	0	0	0	0	0	
+709	Pink	What About Us	1984	623	469	301	274	482	0	0	0	0	
+710	Ed Sheeran	Bad Habits	2021	1483	0	0	0	0	0	0	0	0	
+711	Billie Eilish	Everything I Wanted	2019	642	448	0	0	0	0	0	0	0	
+712	Bruce Springsteen	Trapped (live)	1985	764	930	787	922	809	956	0	0	0	
+713	10CC	Dreadlock Holiday	1978	656	564	598	528	223	261	285	192	298	
+714	George Michael	Faith	1987	661	573	669	630	648	1611	1966	1770	1460	
+715	Genesis	Firth Of Fifth	1973	775	738	688	729	476	484	1110	1928	0	
+716	The Beatles	The Long And Winding Road	1970	698	805	704	833	727	598	429	453	393	
+717	Guns N' Roses	Civil War	1990	936	998	0	0	0	0	0	0	0	
+718	The Cats	One Way Wind	1971	628	671	714	760	684	741	691	540	668	
+719	ABBA	Fernando	1976	696	886	902	951	1194	1222	1209	1101	1109	
+720	Spandau Ballet	Through The Barricades	1986	671	759	708	755	590	689	583	538	709	
+721	UB40	Red Red Wine	1983	544	592	670	601	664	684	743	699	665	
+722	Paul de Leeuw & Simone Kleinsma	Zonder Jou	1995	607	565	514	548	639	692	614	483	464	
+723	Armin van Buuren	This Is What It Feels Like	2013	510	444	368	337	454	325	184	146	1243	
+724	Foo Fighters	Walk	2011	785	733	583	493	606	601	1190	0	0	
+725	Green Day	Good Riddance (Time Of Your Life)	1997	871	873	785	738	806	770	744	1003	0	
+726	Korn	Freak On A Leash	1998	992	1013	1018	1204	0	0	0	0	0	
+727	Rowwen Heze	De Neus Umhoeg	1977	810	808	663	930	1285	0	0	0	0	
+728	Cat Stevens	Morning Has Broken	1972	627	683	674	640	295	291	310	276	313	
+729	Radiohead	No Surprises	1997	1077	1017	895	925	725	797	837	916	0	
+730	Dire Straits	Tunnel Of Love 	1980	755	746	730	715	704	763	682	623	540	
+731	Within Temptation	Stand My Ground	2004	878	850	799	1020	0	0	0	0	0	
+732	The Eagles	New Kid In Town	1977	750	720	686	803	584	555	632	508	521	
+733	Stevie Wonder	Superstition	1973	636	559	592	491	508	447	546	525	411	
+734	Flemming	Amsterdam	2021	0	0	0	0	0	0	0	0	0	
+735	Typhoon	Zandloper	2014	722	789	932	889	662	458	514	0	0	
+736	Rowwen Heze	Auto, Vliegtuug	1999	758	795	640	825	989	986	833	995	673	
+737	Ed Sheeran	Shape Of You	2017	473	519	374	205	103	0	0	0	0	
+738	Mark Knopfler	What It Is	2000	724	804	803	720	710	617	445	448	400	
+739	Elvis Presley	Burning Love	1972	969	1061	1057	1179	1233	1405	1205	1271	1077	
+740	ABBA	Knowing Me, Knowing You	1977	790	839	917	822	1094	1221	1255	1272	1368	
+741	Maaike Ouboter	Dat Ik Je Mis	2013	539	488	337	308	195	167	106	140	819	
+742	Mumford & Sons	I Will Wait	2012	706	643	594	498	642	531	436	434	214	
+743	Pink & Nate Ruess	Just Give Me A Reason	2012	742	704	585	613	928	562	606	494	590	
+744	Snelle & Maan	Blijven Slapen	2021	0	0	0	0	0	0	0	0	0	
+745	The Beatles	Something	1969	689	672	596	962	788	781	555	519	446	
+746	The Alan Parsons Project	The Turn Of A Friendly Card	1980	935	761	697	692	618	609	510	411	405	
+747	Franz Ferdinand 	Take Me Out	2003	865	861	833	688	669	830	783	0	0	
+748	Focus	Hocus Pocus	1971	748	699	606	620	447	463	410	387	292	
+749	Muse	Unintended	2009	861	942	1021	1119	1079	1138	859	0	0	
+750	Art Garfunkel	Bright Eyes	1979	822	714	699	698	612	624	596	631	470	
+751	The Offspring	Self Esteem	1995	858	885	846	772	966	826	805	937	0	
+752	The Black Eyed Peas	I Gotta Feeling	2009	573	609	736	677	843	846	677	402	365	
+753	Genesis	Follow You Follow Me	1978	743	827	809	920	645	654	563	372	429	
+754	Queen	A Kind Of Magic	1986	761	771	582	507	918	733	880	775	760	
+755	De Kast	In Nije Dei	1997	976	945	835	911	907	769	734	615	511	
+756	Nits	In The Dutch Mountains	1987	776	689	735	707	675	723	711	524	588	
+757	Fleetwood Mac	You Make Lovin' Fun	1978	1826	1604	1889	1931	1904	1911	1738	1453	1379	
+758	Fleetwood Mac	Need Your Love So Bad	1968	807	729	808	770	628	657	544	451	427	
+759	Elton John	Candle In The Wind (1997)	1997	791	835	821	1038	892	888	816	899	777	
+760	Bastille	Pompeii	2013	738	911	746	632	570	367	392	247	1353	
+761	Green Day	American Idiot	2004	794	762	679	570	683	651	0	0	0	
+762	Coldplay & Chainsmokers	Something Just Like This	2017	1004	777	739	593	668	0	0	0	0	
+763	Thomas Acda, Paul de Munnik, Maan & Typhoon	Als Ik Je Weer Zie	2021	0	0	0	0	0	0	0	0	0	
+764	Bryan Adams	(Everything I Do) I Do It For You	1991	699	665	685	703	787	784	593	660	581	
+765	Tears for Fears	Woman In Chains	1989	736	787	993	0	0	0	0	0	0	
+766	Skunk Anansie	Weak	1995	766	810	879	808	837	796	1023	1024	717	
+767	10CC	I'm Not In Love	1975	703	686	551	473	247	372	368	290	404	
+768	Diggy Dex	De Zon Op	2018	826	902	1513	0	0	0	0	0	0	
+769	Live	Overcome	2001	616	640	737	664	540	567	440	497	383	
+770	Amy Macdonald	This Is The Life	2008	819	843	864	936	789	823	760	468	467	
+771	Mark Ronson ft. Bruno Mars	Uptown Funk!	2014	609	583	492	346	477	251	206	0	0	
+772	Herman Brood	Never Be Clever	1979	697	660	721	652	689	693	706	776	703	
+773	Whitney Houston	I Will Always Love You	1992	714	536	617	447	484	453	381	446	433	
+774	Supertramp	Take The Long Way Home	1979	780	617	740	915	1027	1228	1111	1075	875	
+775	Santana	She's Not There	1978	685	579	495	488	324	459	315	270	312	
+776	Gorillaz	Clint Eastwood	2001	825	757	765	574	600	691	567	0	0	
+777	Kensington	Riddles	2015	691	788	652	588	414	227	838	0	0	
+778	Derek & The Dominos	Layla	1971	773	713	732	599	833	919	771	633	515	
+779	Imagine Dragons	Enemy	2021	0	0	0	0	0	0	0	0	0	
+780	Adele	Million Years Ago	2016	551	634	694	501	573	1859	0	0	0	
+781	Dire Straits	On Every Street	1992	908	940	966	1022	799	933	960	940	823	
+782	Kensington	Do I Ever	2016	659	730	504	432	455	969	0	0	0	
+783	Herman van Veen	Liefde Van Later	1969	718	758	795	641	673	538	437	350	403	
+784	Anouk	Birds	2013	541	525	507	463	459	470	378	213	398	
+785	David Guetta & Sia	Titanium	2011	757	791	887	801	1189	1008	794	910	0	
+786	John Mayer	Gravity	2006	687	626	665	655	593	509	453	575	330	
+787	Marillion	Lavender	1985	834	823	977	0	0	0	0	0	0	
+788	De Hunekop ft. Oele Plop	Wy Kam Fram Fryslan	2022	0	0	0	0	0	0	0	0	0	
+789	The Eagles	Lyin' Eyes 	1975	781	748	668	709	554	539	611	588	572	
+790	Valensia	Gaia	1993	968	1270	1102	1087	717	945	712	889	859	
+791	Keane	Sovereign Light Cafe	2012	767	726	1009	1090	916	885	659	560	399	
+792	Uriah Heep	Easy Livin'	1973	824	736	720	648	531	507	454	351	379	
+793	Mariah Carey	All I Want For Christmas Is You	1994	879	856	722	814	1019	1074	1093	1307	1149	
+794	One Direction	Story Of My Life	2013	848	796	1501	1778	1984	1750	873	809	1787	
+795	Anouk	Michel	2000	622	589	513	515	609	594	468	393	376	
+796	Henk Westbroek	Zelfs Je Naam Is Mooi	1998	788	715	546	659	526	514	380	340	320	
+797	Nirvana	Heart-Shaped Box	1993	927	1039	1019	913	983	932	720	0	0	
+798	K's choice	Not An Addict	1996	707	668	719	751	464	431	536	637	885	
+799	Peter Schilling	Major Tom (Vollig Losgelost)	1983	760	848	1385	1559	0	0	0	0	0	
+800	Bruce Springsteen	Jungleland	1975	842	954	717	785	693	560	688	1634	0	
+801	Meat Loaf	You Took The Words Right Out Of My Mouth	1979	1202	1051	1047	1086	1266	1080	864	832	944	
+802	Duran Duran	Ordinary World	1993	874	934	938	1000	832	892	705	851	730	
+803	ABBA	Super Trouper	1980	803	981	1049	974	1805	1746	0	1857	1800	
+804	Fools Garden	Lemon Tree	1996	772	769	850	746	906	960	745	838	749	
+805	Imagine Dragons	Thunder	2017	889	933	742	458	935	0	0	0	0	
+806	Imagine Dragons	Natural	2018	798	784	471	994	0	0	0	0	0	
+807	Prince	Sign 'O' The Times	1987	774	577	693	549	572	354	755	723	593	
+808	Red Hot Chili Peppers	Can't Stop	2002	914	909	849	941	0	0	0	0	0	
+809	The Rolling Stones	She's A Rainbow	1967	845	841	783	699	973	958	894	989	812	
+810	Bryan Adams	Heaven	1985	853	754	882	929	1029	1071	941	1073	915	
+811	Tina Turner	Private Dancer	1984	754	725	637	615	932	811	840	739	701	
+812	Beastie Boys 	Sabotage	1994	730	847	827	734	560	548	0	0	0	
+813	Red Hot Chili Peppers	Dark Necessities	2016	795	775	726	624	555	1089	0	0	0	
+814	Genesis	Land Of Confusion	1986	830	853	775	712	559	552	561	568	481	
+815	The Script	The Man Who Can't Be Moved	2008	839	718	595	547	510	398	251	254	296	
+816	ABBA	One Of Us	1981	817	963	888	897	1466	1472	1487	1286	1284	
+817	De Poema's	Zij Maakt Het Verschil	2001	752	601	540	721	545	537	484	576	384	
+818	Charlie Lownoise & Mental Theo	Wonderfull Days	1994	693	694	575	608	886	927	1081	0	0	
+819	Bruce Springsteen	Jersey Girl (Live)	1986	895	977	0	0	0	0	0	0	0	
+820	Robbie Williams	Let Me Entertain You	1998	782	798	870	847	802	712	656	768	0	
+821	Within Temptation	Faster	2011	1047	1094	919	1167	1211	1238	892	0	0	
+822	Suzan & Freek	Blauwe Dag	2019	625	493	1442	0	0	0	0	0	0	
+823	John Mayer	In The Blood	2017	665	630	607	592	796	0	0	0	0	
+824	Gilbert O'Sullivan	Nothing Rhymed	1971	749	822	772	724	722	795	592	515	597	
+825	Coldplay	Everglow	2015	917	778	745	725	782	853	0	0	0	
+826	Blur	Song 2	1997	863	924	877	744	589	513	639	706	0	
+827	Prince	1999	1982	768	716	681	710	651	404	1257	1215	1042	
+828	Amy Winehouse	Rehab	2007	549	507	564	369	481	407	426	449	567	
+829	Guus Meeuwis & Vagant	Het Is Een Nacht	1995	829	794	632	708	996	774	507	620	489	
+830	Ozzy Osbourne	No More Tears	1992	961	1053	901	1006	956	1100	0	0	0	
+831	Billy Joel	Vienna	1977	1743	0	0	0	0	0	0	0	0	
+832	Nazareth	Love Hurts	1974	841	800	734	741	562	653	603	499	554	
+833	Racoon	Tijd Verliezen	2021	0	0	0	0	0	0	0	0	0	
+834	Ed Sheeran	The A Team	2011	683	741	588	419	410	621	430	231	388	
+835	Neil Diamond	Beautiful Noise	1976	721	731	778	802	746	791	757	582	621	
+836	Whitesnake	Here i go again	1987	808	732	774	657	528	645	655	734	0	
+837	Lewis Capaldi	Before You Go	2019	1442	958	0	0	0	0	0	0	0	
+838	Michael Jackson	Ben	1972	704	560	724	495	617	638	552	556	463	
+839	Pink	Try	2012	783	706	591	0	0	0	0	0	0	
+840	Crowded House	Don't Dream It's Over	1987	778	824	764	783	681	726	1046	1004	793	
+841	Frank Boeijen	Zwart Wit	1984	753	659	692	881	1069	979	856	1000	1025	
+842	Iggy Pop	The Passenger	1976	779	768	754	786	656	643	863	0	0	
+843	Red Hot Chili Peppers	Road Trippin'	1999	880	811	904	979	1016	964	0	0	0	
+844	Twenty One Pilots	Stressed Out	2016	987	999	896	868	1080	1398	0	0	0	
+845	Simon & Garfunkel	El Condor Pasa	1970	728	642	899	876	1012	869	938	927	865	
+846	The Police	Every Little Thing She Does Is Magic	1981	823	831	817	938	773	799	753	686	550	
+847	Daniel Lohues	Prachtig Mooie Dag	2011	850	780	700	923	636	461	443	329	371	
+848	Dolly Parton	9 To 5	1981	877	710	913	1241	0	0	0	0	0	
+849	Eddie Vedder	Hard Sun	2007	725	711	611	568	563	501	1477	0	0	
+850	Cream	White Room	1968	641	666	553	726	623	545	640	415	569	
+851	Moby	Porcelain	1999	923	979	1002	893	902	908	928	1028	0	
+852	Survivor	Eye Of The Tiger	1982	837	744	826	649	776	918	673	730	637	
+853	Arctic Monkeys	Why'd You Only Call Me When You're High?	2013	1190	1560	0	1870	0	0	0	0	0	
+854	Mike Oldfield	Tubular Bells	1974	950	840	819	747	575	680	513	416	366	
+855	The Rolling Stones	Start Me Up	1981	765	849	852	836	950	989	955	878	970	
+856	Chi Coltrane	Go Like Elijah	1973	806	906	748	623	605	627	531	432	449	
+857	Harry Styles	Adore You	2019	1198	772	0	0	0	0	0	0	0	
+858	The Band	The Weight	1968	740	677	784	759	356	348	352	324	323	
+859	Prodigy	Smack My Bitch Up 	1997	831	917	757	856	1054	1013	870	0	0	
+860	Imagine Dragons	Whatever It Takes	2017	928	919	644	360	1979	0	0	0	0	
+861	Prodigy	Firestarter	1996	804	792	725	935	1096	1018	913	901	0	
+862	Yes	Owner Of A Lonely Heart	1983	898	880	747	662	458	412	389	379	406	
+863	Cat Stevens	Father And Son	1971	827	734	710	713	519	557	512	476	414	
+864	The War On Drugs	Red Eyes	2013	941	1056	1202	1274	1048	1216	1834	0	0	
+865	Stromae	Tous Les Memes	2013	1229	1338	1636	1455	1452	1339	843	0	0	
+866	The Blue Nile	Tinseltown In The Rain	1984	840	774	752	871	595	633	626	548	759	
+867	Rowwen Heze	Vlinder	2003	654	820	421	0	0	0	0	0	0	
+868	Depeche Mode	Personal Jesus	1990	926	866	925	1146	1020	1052	0	0	0	
+869	DI-RECT	Through The Looking Glass	2022	0	0	0	0	0	0	0	0	0	
+870	Joe Cocker	You Are So Beautiful	1975	715	685	580	718	544	559	497	571	476	
+871	Paul Simon	You Can Call Me Al	1986	731	786	762	676	713	607	709	693	577	
+872	Elvis Presley	I Just Can't Help Believin'	1972	937	1042	946	883	1003	923	822	795	821	
+873	The Righteous Brothers	Unchained Melody	1965	769	765	944	944	871	827	770	612	613	
+874	Nickelback	How You Remind Me	2001	828	905	924	839	899	848	604	592	1783	
+875	Fischer-Z	So Long	1980	836	817	703	879	511	590	529	520	548	
+876	Pharrel Williams	Happy	2013	712	652	474	378	226	159	111	25	587	
+877	Simple Minds	New Gold Dream	1982	919	953	1020	1208	0	0	0	0	0	
+878	De Dijk	Nergens Goed Voor	1989	1048	1181	1061	1215	1150	1084	1078	864	866	
+879	Santana	Black Magic Woman	1970	695	688	709	610	453	276	498	397	440	
+880	Acda & De Munnik	Niet Of Nooit Geweest	1998	745	669	684	667	550	486	435	479	542	
+881	Ronde	Hard To Say Goodbye	2021	0	0	0	0	0	0	0	0	0	
+882	Rob de Nijs	Malle Babbe	1975	869	753	1297	1609	1571	1601	1760	1427	1386	
+883	David Bowie	China Girl	1983	821	785	733	752	614	379	871	780	896	
+884	Supertramp	Give A Little Bit	1977	813	703	812	863	1052	1088	1066	1008	746	
+885	The Killers	Human	2008	814	908	851	829	716	699	623	527	340	
+886	Bon Jovi	You Give Love A Bad Name	1986	872	925	855	743	1045	939	956	1321	1006	
+887	Golden Earring	She Flies On Strange Wings	1971	478	1229	1017	1200	926	967	823	711	656	
+888	Bob Dylan	Blowing In The Wind	1963	720	680	653	605	549	417	412	488	331	
+889	Andre Hazes Jr.	Leef	2016	603	256	179	152	1684	0	0	0	0	
+890	John Mayer	Daughters	2005	816	700	702	660	603	563	471	523	304	
+891	Beyonce	Halo	2010	727	586	621	436	496	438	490	473	1089	
+892	Davina Michelle	Duurt te lang	2018	518	367	144	477	0	0	0	0	0	
+893	Damien Rice	9 Crimes	2006	857	797	706	534	329	273	288	308	943	
+894	Foo Fighters	Times Like These	2002	1341	1165	1757	1470	1301	1450	0	0	0	
+895	Simon & Garfunkel	Homeward Bound	1966	838	555	1590	1354	1924	1681	1573	1523	1456	
+896	Pixies	Where Is My Mind	1988	0	0	0	0	0	0	0	0	0	
+897	Joe Jackson	Be My Number Two	1984	784	819	659	733	602	710	556	557	503	
+898	Di-rect	Times Are Changing	2009	1067	721	1373	1536	1319	1330	1288	1724	0	
+899	The Gathering	Strange Machines	1996	945	1595	0	0	0	0	0	0	0	
+900	Racoon	Geef Je Hart Niet Zomaar Weg	2021	0	0	0	0	0	0	0	0	0	
+901	Froukje	Niets Tussen	2021	0	0	0	0	0	0	0	0	0	
+902	James Taylor & Mark Knopfler	Sailing To Philadelphia	2000	891	944	824	866	1317	1254	764	733	582	
+903	David Bowie	Rebel Rebel	1974	852	708	650	596	428	230	901	881	1102	
+904	The Beatles	Norwegian Wood (This Bird Has Flown)	1965	900	863	838	884	652	603	469	445	430	
+905	Racoon	Don't Give Up The Fight	2011	726	582	633	527	397	358	230	160	151	
+906	Ram Jam	Black Betty	1978	705	681	614	643	574	533	515	338	428	
+907	Blof	Blauwe Ruis	2002	934	927	845	882	738	750	735	754	616	
+908	Frank Sinatra	That's Life	1966	938	915	889	1612	0	0	0	0	0	
+909	Andrea Bocelli	Con Te Partiro	1996	854	875	994	912	779	724	697	898	706	
+910	Backstreet Boys	I Want It That Way	1999	907	985	1014	901	1074	1094	842	1234	1074	
+911	Michael Jackson	Heal The World	1992	692	631	923	603	821	847	478	790	729	
+912	Shocking Blue	Venus	1969	729	807	841	959	665	655	885	656	620	
+913	Ten Sharp	You	1991	1007	972	905	955	724	694	717	732	767	
+914	Mike Oldfield & Maggie Reilly	Moonlight Shadow	1983	902	870	908	1024	1122	1068	846	819	657	
+915	Lisa Lois	Hallelujah	2009	864	826	789	765	896	807	761	593	458	
+916	Genesis	Jesus He knows me	1992	984	1023	915	861	771	817	850	789	758	
+917	Tori Amos	Winter	1992	1038	1106	893	857	765	813	1447	0	0	
+918	Rod Stewart	Sailing	1975	797	752	822	788	688	656	580	650	623	
+919	Depeche Mode	Just Can't Get Enough	1985	912	920	999	1115	900	824	978	977	834	
+920	Phil Collins & Philip Bailey	Easy Lover	1985	904	852	645	887	1663	1508	1278	1243	1214	
+921	Eros Ramazzotti	Musica E	1989	815	914	909	891	747	761	559	561	415	
+922	Donna Summer	State Of Independence	1982	962	1027	1036	763	954	963	1007	857	745	
+923	Paul Simon	Diamonds On The Soles Of Her Shoes	1986	796	889	920	862	0	0	0	0	0	
+924	Arctic Monkeys	Fluorescent Adolescent	2007	1197	1236	1295	1097	1289	1234	0	0	0	
+925	Aretha Franklin	You Make Me Feel Like A Natural Woman	1967	744	610	448	182	828	746	1272	1080	985	
+926	S10	Adem Je In	2021	0	0	0	0	0	0	0	0	0	
+927	Kane	Rain Down On Me	2002	862	751	1046	1001	735	673	608	498	546	
+928	The Teskey Brothers	Pain And Mysery	2017	896	1024	1628	0	0	0	0	0	0	
+929	Stone Temple Pilots	Plush	1993	983	950	990	1029	947	1172	1318	0	0	
+930	4 Non Blondes	What's Up	1993	860	884	960	948	823	806	687	799	965	
+931	John Farnham	You're The Voice	1987	1016	1116	1137	1145	880	994	800	895	726	
+932	Madonna	Like A Prayer	1989	916	806	836	728	784	804	729	887	929	
+933	R.E.M.	Man On The Moon	1992	958	756	897	849	556	558	625	580	501	
+934	Doe Maar	Nederwiet	1983	1076	1223	1216	1211	0	0	0	0	0	
+935	Spandau Ballet	Gold	1983	953	1069	1022	1100	1182	1173	1233	1031	1113	
+936	Crowded House	Four Seasons In One Day	1992	921	1197	1086	1198	863	825	940	823	711	
+937	Talking Heads	Once In A Lifetime	1981	844	814	666	909	797	860	874	505	785	
+938	Normaal	Ik Bun Moar Een Eenvoudige Boerenlul	1978	949	742	0	0	0	0	0	0	0	
+939	Killing Joke	Love Like Blood	1985	1027	993	984	1036	931	952	972	947	988	
+940	Joe Jackson	Real Men	1982	868	825	773	894	703	700	591	597	592	
+941	David Bowie	Sound And Vision	1977	931	876	823	907	730	472	975	798	847	
+942	Pearl Jam	Better Man	1994	997	1037	0	0	0	0	0	0	0	
+943	Opposites	Slapeloze Nachten	2013	787	1218	1497	1664	0	0	0	0	0	
+944	Supertramp	Breakfast In America	1979	1013	872	837	800	962	1033	1002	845	683	
+945	Enya	Only Time	2000	944	948	950	980	1039	981	610	670	672	
+946	Queen	Fat Bottomed Girls	1978	801	776	636	606	0	0	0	0	0	
+947	Live	I Alone	1995	802	735	769	700	687	732	758	744	622	
+948	Dr. Dre ft. Snoop Dogg	The Next Episode	2000	1283	1228	1329	1082	0	0	0	0	0	
+949	Status Quo	Down Down	1975	890	943	811	983	820	845	792	688	681	
+950	David Bowie	Wild Is The Wind	1976	867	864	875	834	629	1632	0	0	0	
+951	Triggerfinger	I Follow Rivers	2012	777	509	777	854	601	475	343	206	130	
+952	Leonard Cohen	You Want It Darker	2016	986	951	793	811	698	1407	0	0	0	
+953	My Chemical Romance	Welcome To The Black Parade	2006	0	0	0	0	0	0	0	0	0	
+954	The Beatles	Get Back	1969	638	1107	1111	1158	1026	816	635	700	648	
+955	Harry Styles	Treat People With Kindness	2021	0	0	0	0	0	0	0	0	0	
+956	Cockney Rebel	Sebastian	1973	866	895	768	784	566	495	414	377	334	
+957	Madness	Our House	1982	951	693	872	957	734	661	0	0	0	
+958	The Rolling Stones	Miss You	1978	977	964	998	1003	1041	1211	1127	859	748	
+959	Nick Cave & Kylie Minogue	Where The Wild Roses Grow	2002	901	883	718	865	864	934	977	805	787	
+960	John Mayer	Last Train Home	2021	1811	0	0	0	0	0	0	0	0	
+961	Queen	You're My Best Friend	1976	942	845	690	642	764	802	817	748	739	
+962	Dusty Springfield	Son Of A Preacher Man	1968	843	717	871	674	801	868	980	1018	822	
+963	David Bowie	Ashes To Ashes	1980	1026	975	843	768	604	310	851	736	757	
+964	Train	Drops Of Jupiter (Tell Me)	2001	998	867	927	874	1002	875	660	577	443	
+965	Dexy's Midnight Runners	Come On Eileen	1982	922	899	802	742	944	855	916	921	772	
+966	Dire Straits	Your Latest Trick	1985	1023	1033	1037	1176	0	0	0	0	0	
+967	Queen	Breakthru	1989	1020	973	792	816	964	900	917	783	808	
+968	Roxette	Listen To Your Heart	1988	882	891	1144	1168	1234	1117	1196	1168	1097	
+969	Ed Sheeran	Photograph	2015	909	991	832	590	430	497	930	0	0	
+970	Jimi Hendrix	Voodoo Chile (Slight Return) 	1968	906	869	859	638	817	715	533	0	0	
+971	Earth, Wind & Fire	Boogie Wonderland	1979	800	838	947	683	543	595	650	569	584	
+972	Beth Hart & Joe Bonamassa	I'll Take Care Of You	2011	978	0	0	0	0	0	0	0	0	
+973	Supertramp	Crime Of The Century	1974	1012	962	948	1031	0	0	0	0	0	
+974	Elvis Costello	I Want You	1986	849	793	712	564	465	434	406	297	302	
+975	Coldplay	Christmas Lights	2010	1211	1127	1275	0	0	0	0	0	0	
+976	Danny Vera	Hold On To Let Go	2020	649	0	0	0	0	0	0	0	0	
+977	Red Hot Chili Peppers	Dani California	2006	1025	1007	894	826	920	722	724	852	516	
+978	The Police	So Lonely	1979	918	747	854	758	726	695	819	807	691	
+979	Venice	The Family Tree	1999	966	949	949	823	744	716	499	442	277	
+980	ABBA	S.O.S.	1975	1071	1263	1384	1277	1617	1727	1725	1665	1570	
+981	Bokkers	Iederene Hef Een Reden	2016	903	1312	680	1303	1674	0	0	0	0	
+982	Supertramp	Goodbye Stranger	1979	1100	1108	1197	1355	1579	1784	1692	1533	1252	
+983	Frank Sinatra	Fly Me To The Moon	1964	756	712	701	671	745	660	589	827	762	
+984	Robbie Williams	Mr. Bojangles	2001	885	803	862	853	0	0	0	0	0	
+985	Nena & Kim Wilde	Anyplace, Anywhere, Anytime	2004	894	900	914	838	969	999	881	779	699	
+986	De Dijk	Kan Ik Iets Voor Je Doen?	2011	1055	1281	1094	1123	770	1344	773	546	477	
+987	Racoon	Hee Joh Jip	2021	0	0	0	0	0	0	0	0	0	
+988	Tavares	Heaven Must Be Missing An Angel	1976	876	897	965	992	719	832	590	461	580	
+989	Bob Marley & The Wailers	Could You Be Loved	1980	892	760	910	899	958	922	932	846	608	
+990	Nielson	IJskoud	2018	1330	1009	487	0	0	0	0	0	0	
+991	Paul McCartney & Wings	Band On The Run	1974	932	916	760	764	760	728	516	662	537	
+992	U2	All I Want Is You	1989	920	799	790	761	592	718	617	511	438	
+993	Earth & Fire	Storm And Thunder	1971	1150	1307	1186	1112	1095	1111	1035	886	906	
+994	Creedence Clearwater Revival	Suzie Q	1968	924	922	959	799	720	709	746	741	524	
+995	Fleetwood Mac	Seven Wonders	1987	1345	1475	1529	1447	0	0	0	0	0	
+996	Leonard Cohen	So Long Marianne	1968	747	750	676	716	552	177	713	542	509	
+997	Jimi Hendrix	Little Wing	1969	971	837	806	680	694	635	523	454	1070	
+998	Michel Sardou	Les Lacs Du Connemara	1982	1080	1399	1357	1489	1443	1459	1215	1213	1004	
+999	Zucchero Fornaciari	Il Volo	1996	1030	1066	1277	1226	1036	1157	878	756	768	
+1000	The Common Linnets	Calm After The Storm	2014	713	675	612	631	372	253	141	145	0
+1001	Meat Loaf	Two Out Of Three Ain't Bad	1977	1304	1166	1085	1216	1043	988	957	841	816	
+1002	The Smashing Pumpkins	Disarm	2003	972	918	939	850	866	906	824	853	0	
+1003	The Rolling Stones	Brown Sugar	1971	897	888	847	924	824	729	741	669	627	
+1004	Gigi D'Agostino	L'Amour Toujours	1999	988	1070	1211	1081	1065	1215	1139	0	0	
+1005	Chris De Burgh	The Lady In Red	1986	911	938	860	976	849	753	714	601	532	
+1006	Bruce Springsteen	Waiting On A Sunny Day	2003	1053	1031	867	973	945	672	968	911	664	
+1007	Ilse DeLange	I Still Cry	2000	883	728	675	739	739	675	431	326	354	
+1008	Manic Street Preachers	If You Tolerate This Your Children Will Be Next	1998	947	966	1201	1027	794	747	622	999	0	
+1009	Coldplay Feat. Beyonce	Hymn For The Weekend	2015	1376	1246	1093	902	792	522	0	0	0	
+1010	Aretha Franklin	Think	1968	820	607	619	459	952	910	841	681	631	
+1011	The Cure	Close To Me	1985	1008	1054	1158	1566	1132	1055	1008	1015	807	
+1012	De Poema's	Mijn Houten Hart	1999	1019	855	744	654	670	593	577	590	494	
+1013	Red Hot Chili Peppers	Give It Away	1992	930	878	983	986	960	626	1012	0	0	
+1014	George Michael	Killer / Papa Was A Rollin' Stone	1995	974	988	1107	0	0	0	0	0	0	
+1015	ZZ Top	Sharp Dressed Man	1985	887	1045	844	855	634	613	483	430	544	
+1016	Blof	Hou Vol Hou Vast	2011	856	709	1803	1625	1887	1553	1604	1346	1299	
+1017	Black Pumas	Colors	2019	1497	0	0	0	0	0	0	0	0	
+1018	Leonard Cohen	Dance Me To The End Of Love	1984	886	0	0	0	0	0	0	0	0	
+1019	Coldplay x BTS	My Universe	2021	0	0	0	0	0	0	0	0	0	
+1020	Little River Band	It's A Long Way There	1976	1122	1201	1249	1336	1272	1166	995	825	1030	
+1021	Blondie	Denis	1978	985	865	898	810	661	707	857	778	700	
+1022	ZZ Top	Gimme All Your Lovin'	1984	899	1011	958	898	553	511	549	417	519	
+1023	Tears For Fears	Shout!	1985	943	1082	1224	1014	897	1058	1087	1036	1032	
+1024	ABBA	Angel Eyes	1979	0	0	0	0	0	0	0	0	0	
+1025	Michael Jackson	Black Or White	1991	846	724	788	591	921	731	722	831	647	
+1026	Queens Of The Stone Age	Go With The Flow	2002	1070	1050	991	844	1035	1159	0	0	0	
+1027	Racoon	Liverpool Rain	2012	1058	904	779	780	667	481	365	252	281	
+1028	Joni Mitchell	Both Sides Now	1967	1193	1151	842	1096	1215	1412	0	0	0	
+1029	Paul Weller	You Do Something To Me	1995	933	990	801	939	702	743	684	719	707	
+1030	David Bowie & Mick Jagger	Dancing In The Street	1985	915	842	937	961	830	523	1028	988	1054	
+1031	Michael Kiwanuka	Love And Hate	2016	1028	926	995	1598	1707	0	0	0	0	
+1032	Nina Simone	Ain't Got No, I Got Life	1968	733	696	818	509	815	740	636	668	461	
+1033	Prince	Raspberry Beret	1985	955	857	941	947	850	585	1386	1231	1271	
+1034	Iggy Pop	Lust For Life	1977	832	691	462	827	541	505	777	543	495	
+1035	UB40	Kingston Town	1990	789	844	988	813	933	929	836	902	773	
+1036	The Blues Brothers	Everybody Needs Somebody To Love	1989	995	1020	1015	934	910	897	890	770	625	
+1037	Dj Paul Elstak 	Luv U More	1995	1178	1155	1083	1034	0	0	0	0	0	
+1038	Lady Gaga	Born This Way	2011	1265	0	0	0	0	0	0	0	0	
+1039	Coldplay	Magic	2014	1121	1028	729	668	869	734	438	1027	0	
+1040	Charles Aznavour	Yesterday When I Was Young	1970	650	739	916	621	995	833	799	872	629	
+1041	Taylor Swift	Cardigan	2020	0	0	0	0	0	0	0	0	0	
+1042	Gloria Gaynor	I Will Survive	1979	835	705	873	646	1011	1101	1001	961	998	
+1043	Muse	Time Is Running Out	2004	1125	1121	830	877	1066	904	0	0	0	
+1044	Nick & Simon	Pak Maar M'n Hand	2007	1041	992	1056	1139	1061	841	789	513	459	
+1045	Ed Sheeran	Shivers	2021	0	0	0	0	0	0	0	0	0	
+1046	Fleetwood Mac	Oh Well - Part 1	1969	1228	1113	1068	1140	1038	1192	848	610	500	
+1047	Bob Dylan	Like A Rollin' Stone	1965	786	727	643	598	385	345	279	261	233	
+1048	Etta James	At Last	1960	1042	1005	1045	858	0	0	0	0	0	
+1049	Spice Girls	Wannabe	1996	1132	1104	1066	757	1063	1148	1143	1298	1277	
+1050	Blof	Mooie Dag	2002	1014	818	731	875	697	671	534	510	389	
+1051	Pink Floyd	One Of These Days	1971	1057	1044	743	727	783	870	657	534	522	
+1052	Coldplay	Trouble	2002	1148	937	878	774	759	650	530	444	322	
+1053	The Doors	People Are Strange	1967	982	1006	874	1015	781	683	527	501	361	
+1054	Pommelien Thijs & Jaap Reesema	Nu Wij Niet Meer Praten	2020	1352	0	0	0	0	0	0	0	0	
+1055	Toto	Mushanga	1988	1223	1303	1337	1527	1401	1462	1364	1111	1131	
+1056	Crosby, Stills, Nash & Young	Teach Your Children	1970	859	779	698	681	640	498	776	751	513	
+1057	Queen	'39	1975	1247	1140	828	817	895	850	763	663	606	
+1058	Fleetwood Mac	Big Love	1987	1530	1395	1380	1261	1404	1424	1118	1147	903	
+1059	White Lies	Farewell To The Fairground	2009	1342	1381	1268	1312	1585	1798	0	0	0	
+1060	Creedence Clearwater Revival	I Heard It Through The Grapevine	1973	888	932	1000	972	887	902	751	697	547	
+1061	The Beatles	Help	1965	996	871	840	931	994	1042	782	919	653	
+1062	Acda & De Munnik	Als Het Vuur Gedoofd Is	1997	1089	947	962	895	728	623	615	655	545	
+1063	First Aid Kit	My Silver Lining	2014	1183	1090	929	753	733	686	274	0	0	
+1064	Yann Tiersen	Comptine D'Un Autre ete: L'Apres-Midi (Amelie)	2001	1039	1125	1233	1099	0	0	0	0	0	
+1065	Heart	Barracuda	1977	1236	1249	1182	1205	1005	1208	0	0	0	
+1066	Rammstein	Amerika	2004	1329	1363	0	0	0	0	0	0	0	
+1067	2Pac & Dr. Dre	California Love	1996	1355	1516	1561	1163	1574	1523	0	0	0	
+1068	Daft Punk	Get Lucky	2013	1011	1098	987	782	480	317	265	174	357	
+1069	Danny Vera	Pressure Makes Diamonds (2020)	2020	851	0	0	0	0	0	0	0	0	
+1070	The Cats	Marian	1969	1009	1057	931	1325	1589	1116	1112	905	1002	
+1071	Doe Maar	Pa	1983	1487	1735	1614	1501	1336	1686	1555	1648	1254	
+1072	The Rolling Stones	Waiting On A Friend	1981	989	928	921	956	927	1007	970	679	733	
+1073	The Black Keys	Lonely Boy	2011	1127	1063	1004	1231	912	1053	1906	0	0	
+1074	Bruce Springsteen	The Rising	2002	1024	833	1262	1174	1169	883	1051	1054	799	
+1075	BAP	Kristallnach	1983	1098	994	892	970	663	634	473	490	562	
+1076	Snollebollekes	Links Rechts	2015	732	0	0	0	0	0	0	0	0	
+1077	Kaleo	Way Down We Go	2016	1185	1584	1811	1725	1877	0	0	0	0	
+1078	Talk Talk	It's My Life	1984	991	862	825	1147	975	1122	1030	936	959	
+1079	Crosby, Stills, Nash & Young	Almost Cut My Hair	1971	1018	903	800	731	561	456	562	509	378	
+1080	Elbow	Lippy Kids	2011	967	959	771	795	490	659	456	605	599	
+1081	Manic Street Preachers	Motorcycle Emptiness	1992	1010	976	881	843	586	641	725	821	0	
+1082	Simple Minds	Someone Somewhere (in Summertime)	1982	1088	1132	1256	1379	1085	1115	0	0	0	
+1083	Ben E. King	Stand By Me	1987	973	901	856	669	816	793	689	1043	982	
+1084	Lou Reed	Walk On The Wild Side	1973	939	802	749	661	678	637	651	507	263	
+1085	REO Speedwagon	Keep On Loving You	1981	1106	1000	1084	1108	1125	1048	1036	943	989	
+1086	Carole King	You've Got A Friend	1971	1000	997	968	903	795	674	742	638	734	
+1087	Ed Sheeran	Overpass Graffiti	2021	0	0	0	0	0	0	0	0	0	
+1088	Les Poppys	Non, Non, Rien N'A Change 	1971	990	1189	1063	1149	1176	984	795	781	697	
+1089	Rush	Spirit Of Radio	1980	1129	1158	1198	1342	1097	1291	0	0	0	
+1090	Rufus Wainwright	Going To A Town	2007	793	996	1523	1438	1223	1275	1043	903	1011	
+1091	Arcade Fire	Everything Now	2017	910	766	687	563	495	0	0	0	0	
+1092	Kodaline	All I want	2012	1158	1133	1025	1270	1130	1047	1799	0	0	
+1093	Temple Of The Dog	Hunger Strike	1991	1087	1103	992	1013	754	752	0	0	0	
+1094	Bee Gees	More Than A Woman	1977	993	1426	1700	0	0	0	0	0	0	
+1095	Coldplay	Higher Power	2021	0	0	0	0	0	0	0	0	0	
+1096	The Beatles	Fool On The Hill	1967	1002	890	857	730	715	798	550	487	510	
+1097	George Michael	Praying For Time	1990	1163	1130	1222	1315	1105	0	0	0	0	
+1098	Froukje	Een Teken	2021	0	0	0	0	0	0	0	0	0	
+1099	Scorpions	Send me an angel	1991	1094	1139	1177	1254	1408	1331	1266	1327	0	
+1100	R.E.M.	Find The River	1992	1372	1402	1604	1980	0	0	0	0	0	
+1101	Kansas	Carry On Wayward Son	1977	1111	1128	1079	965	777	835	643	817	1817	
+1102	Skunk Anansie	Hedonism	1997	1196	1085	1226	1064	1164	1154	1454	1417	0	
+1103	Guus Meeuwis	Tranen Gelachen	2007	979	1096	918	967	1050	873	690	765	663	
+1104	Roxy Music	Avalon	1982	1085	1150	1203	1347	914	1041	1147	980	844	
+1105	Coldplay	Adventure of a Lifetime	2015	1334	1135	1142	890	885	577	1642	0	0	
+1106	Bee Gees	Tragedy	1979	1130	1168	1324	1392	1199	1253	1370	1441	1336	
+1107	Soft Cell	Tainted Love	1981	970	957	1058	997	1144	1038	1236	1142	1165	
+1108	The Moody Blues	Question	1970	1073	1118	940	969	953	993	678	475	391	
+1109	Adele	Hometown Glory	2009	884	970	955	665	893	687	491	0	0	
+1110	Paul de Leeuw & Andre Hazes	Droomland	1993	925	1012	935	916	987	1015	815	702	603	
+1111	Barry White	You're The First The Last My Everything	1974	818	836	974	781	537	551	518	456	570	
+1112	Jethro Tull	Locomotive Breath	1972	1135	1040	1012	996	740	697	586	636	600	
+1113	Adele	Chasing Pavements	2008	739	1060	976	792	814	602	423	482	437	
+1114	The Black Eyed Peas	Where Is The Love	2003	855	781	903	711	884	1131	897	1066	956	
+1115	Rowwen Heze	Bestel Mar	1992	1095	1089	954	1409	1611	1394	1213	1450	899	
+1116	Ilse DeLange	Miracle	2008	1112	874	796	787	1032	938	796	431	317	
+1117	Barbra Streisand	Guilty	1980	1176	1097	1278	1059	1385	1219	1313	1208	1358	
+1118	David Bowie	Absolute Beginners	1986	1082	1048	981	1076	859	586	1342	1146	1116	
+1119	The Smashing Pumpkins	1979	1996	1208	1141	1171	908	1022	1135	1174	1178	0	
+1120	Suzan & Freek	Onderweg Naar Later	2021	0	0	0	0	0	0	0	0	0	
+1121	Madness	Baggy Trousers	1980	1233	1083	1214	1268	929	894	826	740	756	
+1122	The War On Drugs	Pain	2017	1103	1258	1335	0	0	0	0	0	0	
+1123	Foo Fighters	Best Of You	2015	1215	1186	1053	805	723	911	0	0	0	
+1124	Phil Collins	Can't Stop Loving You	2002	1032	921	839	766	1004	844	791	738	586	
+1125	Roxette	It Must Have Been Love	1990	1136	1034	1475	1369	1733	1618	1909	1817	1703	
+1126	Acda & De Munnik	De Kapitein Deel II	2000	1060	968	926	1068	1013	896	778	991	779	
+1127	Dire Straits	Why Worry	1985	1031	1138	1130	1220	1163	1142	1031	993	947	
+1128	Sade	Smooth Operator	1984	1175	978	1077	993	753	837	811	715	1031	
+1129	Queen	It's A Beautiful Day	1995	1692	0	0	0	0	0	0	0	0	
+1130	Nirvana	About A Girl (MTV Unplugged)	1994	1083	1071	1119	1011	948	936	739	0	0	
+1131	Elvis Presley	If I Can Dream	1968	0	0	0	0	0	0	0	0	0	
+1132	John Hiatt	Have A Little Faith In Me	1989	952	956	1027	945	860	887	568	626	576	
+1133	Patrick Bruel	Casser La Voix (Live)	1992	1389	1775	1783	1650	1305	1162	1041	1077	1026	
+1134	Midnight Oil	Beds Are Burning	1988	1052	1078	1048	1133	1017	1077	884	796	747	
+1135	Jimi Hendrix Experience	The Wind Cries Mary	1967	975	898	922	685	818	780	554	506	337	
+1136	David Bowie	Lazarus	2015	994	783	622	609	499	778	0	0	0	
+1137	Enya	Orinoco Flow	1988	1159	1047	1141	1004	1021	1027	793	1006	843	
+1138	Muse	Madness	2012	1165	1233	1007	927	924	829	0	0	0	
+1139	Clouseau	Daar Gaat Ze	1990	957	1026	868	914	755	745	964	1037	921	
+1140	Amy Winehouse	Tears Dry On Their Own 	2007	1022	1067	972	798	940	859	965	0	0	
+1141	Carly Simon	You're So Vain	1973	1065	1008	942	628	695	756	701	714	907	
+1142	Lady Gaga	Bad Romance	2009	1394	1322	1366	1125	1515	1617	1540	1545	1056	
+1143	Robert Long	Flink Zijn	1977	770	1074	834	971	875	1105	904	929	1092	
+1144	Radiohead	Fake Plastic Trees	1995	1248	1250	1127	1046	780	836	866	843	0	
+1145	War On Drugs	I Don't Live Here Anymore	2021	0	0	0	0	0	0	0	0	0	
+1146	Green Day	21 Guns	2009	1164	1214	1131	905	961	884	0	0	0	
+1147	U2	Running To Stand Still	1987	1152	1002	936	1028	0	0	0	0	0	
+1148	Alanis Morissette	You Oughta Know	1995	1169	1241	1281	1182	1121	1119	992	990	1040	
+1149	Barbra Streisand	Woman In Love	1980	1126	1093	1115	842	542	630	672	536	661	
+1150	Prince	I Would Die 4 U	1984	1044	929	996	984	999	640	1508	1536	1257	
+1151	The Doors	Roadhouse Blues 	1970	1217	1262	1166	1571	1455	1098	1879	0	0	
+1152	Portishead	Glory Box	1994	1191	1286	1167	1165	1155	1195	1050	913	0	
+1153	Snowy White	Bird Of Paradise	1984	1262	1299	1280	1594	1429	1487	1261	882	1058	
+1154	Andre Hazes	n Beetje Verliefd	1981	1015	1209	1101	1199	1758	1787	1883	1624	1322	
+1155	Limp Bizkit	Behind Blue Eyes	2004	1110	1202	1098	1127	1109	1231	1084	0	0	
+1156	Phil Collins	I Wish It Would Rain Down	1990	1162	1080	1109	964	1129	1066	1095	1050	984	
+1157	Justin Timberlake	Can't Stop The Feeling	2016	948	667	593	475	338	363	0	0	0	
+1158	Gladys Knight & The Pips	Midnight Train To Georgia	1973	1035	1030	1320	1055	1270	1406	1340	1377	1343	
+1159	No Doubt	Don't Speak	1996	1120	1019	1011	1030	901	965	1017	957	769	
+1160	Veldhuis & Kemper	Ik Wou Dat Ik Jou Was	2003	963	1073	1001	1016	1068	1158	1013	924	888	
+1161	The Clash	London Calling	1979	1219	1072	1145	1377	854	792	675	565	496	
+1162	The Doobie Brothers	Listen To The Music	1972	1017	893	1050	1062	840	1016	1055	962	901	
+1163	Bryan Adams	Run To You	1985	1285	1172	1189	1251	1089	1017	952	1126	1047	
+1164	Herman Brood	My Way	2001	0	0	0	0	0	0	0	0	0	
+1165	Amy Winehouse	You Know I'm No Good	2007	946	763	781	635	705	669	612	613	607	
+1166	The Rolling Stones	Fool To Cry	1976	1056	960	971	1074	946	925	1019	854	794	
+1167	Olivia Newton John	Hopelessly Devoted To You	1978	0	0	0	0	0	0	0	0	0	
+1168	Nina Simone	Feeling Good 	1965	1064	1099	1236	878	1332	1301	962	0	0	
+1169	Blof	Wat Zou Je Doen	1998	1107	1117	952	872	1283	1282	1234	1121	975	
+1170	Krezip	Lost Without You	2019	1200	816	0	0	0	0	0	0	0	
+1171	Normaal	Alie	1977	1209	974	258	1010	1228	1126	0	0	0	
+1172	Toto	Pamela	1988	1230	1231	1134	1288	1508	1419	1351	1422	1179	
+1173	Neil Diamond	September Morn'	1979	1161	1084	1030	1240	1407	1451	1557	1144	1230	
+1174	Ge Reinders	Bloasmuziek	1999	1006	1105	848	831	671	549	439	373	318	
+1175	Joe Cocker	Unchain My Heart	1987	1001	881	810	950	706	858	827	877	727	
+1176	Whitney Houston	I Wanna Dance With Somebody	1987	1128	971	1003	946	1555	1446	1586	1883	1973	
+1177	Alanis Morissette	Uninvited	1999	1292	1530	1559	1579	0	0	0	0	0	
+1178	Air	All I Need	1999	1240	1101	1040	841	546	528	553	516	539	
+1179	The Eagles	Tequila Sunrise	1973	1147	1120	967	1058	857	838	832	680	686	
+1180	Counting Crows	Mr. Jones	1994	1086	961	943	804	708	485	715	717	568	
+1181	Bee Gees	Words	1968	1054	1018	1139	1126	762	717	882	792	712	
+1182	Clannad	In A Lifetime	1986	1099	1300	1088	1118	915	862	804	816	765	
+1183	Creedence Clearwater Revival	Proud Mary	1969	999	1046	1010	1078	1075	1177	1227	998	861	
+1184	Elton John & Kiki Dee	Don't Go Breaking My Heart	1976	1072	1271	1204	0	0	0	0	0	0	
+1185	Bon Jovi	Wanted Dead Or Alive	1987	1078	1143	1117	989	988	916	921	960	818	
+1186	The Who	Pinball Wizard	1969	1154	1126	912	1060	647	589	526	458	410	
+1187	Chicago	If You Leave Me Now	1976	1063	907	858	806	597	550	716	627	677	
+1188	Madness	Nightboat To Cairo	1980	1097	984	1174	1178	998	971	967	840	858	
+1189	Herman Van Veen	Suzanne	1969	1114	1015	1042	928	785	574	628	618	640	
+1190	Moby	Why Does My Heart Feel So Bad?	1999	1160	1157	1245	1230	1064	1295	1144	1248	0	
+1191	Brian May	Too Much Love Will Kill You	1992	1319	1294	1156	1002	1596	1511	1251	1264	1071	
+1192	Simon & Garfunkel	Scarborough Fair	1966	1069	967	1153	1077	992	842	830	767	645	
+1193	Talk Talk	Life's What You Make It	1985	1108	939	816	1156	876	1046	920	926	1028	
+1194	Neil Young	Harvest Moon	1992	1141	1179	1193	0	0	0	0	0	0	
+1195	Alice Cooper	How You Gonna See Me Now	1979	1037	923	953	789	654	708	807	603	626	
+1196	The Beatles	Sgt Pepper's Lonely Hearts Club Band	1967	1068	1022	957	809	1241	1769	1218	777	643	
+1197	Live	The Dolphin�s Cry	1999	1034	1075	1151	1071	1010	1262	1175	1088	0	
+1198	Kate Bush	Babooshka	1980	1538	1907	0	1959	1940	1766	1726	1718	1396	
+1199	Eminem	Sing For The Moment	2003	0	0	0	0	0	0	0	0	0	
+1200	Boudewijn de Groot	Het Land Van Maas En Waal	1967	1059	1148	934	1042	1277	1121	1219	1108	855	
+1201	Mecano	Hijo De La Luna	1990	1409	1919	1977	1751	1704	1799	1485	1399	1201	
+1202	Loreen	Euphoria	2012	1344	1468	1974	1932	1932	1919	1501	1413	881	
+1203	Wham	Wake Me Up Before You Gogo	1984	1118	946	1155	1235	1087	1400	1471	1493	1488	
+1204	Marc Cohn	Walking In Memphis	1991	1149	1114	1185	1265	1210	1260	1058	1135	1095	
+1205	Chuck Berry	Johnny B. Goode	1958	1062	1049	964	737	436	901	949	847	763	
+1206	The Cranberries	Ode To My Family	1995	1213	1220	1308	1150	1635	1688	1543	1497	1374	
+1207	Marianne Rosenberg	Ich Bin Wie Du	1976	1184	1035	1132	1039	1250	1297	1114	1237	1259	
+1208	Editors	Munich	2005	1205	1205	1375	1297	0	0	0	0	0	
+1209	Iggy Pop & Kate Pierson	Candy	1990	956	1174	1146	1101	1190	1155	1134	965	932	
+1210	Metallica	The Unforgiven III	2008	1286	1414	1128	1475	1381	893	1384	0	0	
+1211	Tina Turner & Eros Ramazzotti	Cose Della Vita	1998	1092	1137	1304	1933	0	0	1783	1611	1395	
+1212	Tracy Chapman	Baby Can I Hold You	1988	1146	1234	1379	1244	1977	0	0	0	0	
+1213	Linkin Park	What I've Done	2007	0	0	0	0	0	0	0	0	0	
+1214	Keane	Everybody's Changing	2004	1295	1087	1190	1359	1107	1153	1037	1019	761	
+1215	Macklemore & Ryan Lewis	Can't Hold Us	2012	1117	1059	1062	1129	808	975	902	0	0	
+1216	John Denver	Perhaps Love	1981	1174	1193	1208	1326	1421	1120	1124	1010	969	
+1217	Robert Miles	Children	1996	1325	1265	1516	1623	1598	0	0	0	0	
+1218	George Baker Selection	Little Green Bag	1969	1036	745	978	985	621	610	708	600	641	
+1219	Muse	Undisclosed Desires	2009	1273	1315	1108	960	1030	879	0	0	0	
+1220	John Mayer	Free Fallin' (Live)	2008	1074	1010	986	988	0	0	0	0	0	
+1221	Anouk	Girl	2004	1113	1076	907	873	1042	1104	999	829	716	
+1222	Placebo	Pure Morning	1999	1309	1421	1448	1556	1306	1103	0	0	0	
+1223	Bee Gees	Massachusetts	1967	1204	1154	1289	1195	977	863	1070	785	870	
+1224	The Carpenters	Top Of The World	1973	1079	1041	1071	1093	761	720	898	791	805	
+1225	Herman van Veen	Hilversum 3	1984	1237	1184	1235	1201	1162	948	1004	1125	1007	
+1226	Dolly Parton	I Will Always Love You	1983	1105	892	1147	1232	1098	1147	1258	1303	1469	
+1227	Anouk	One Word	2005	1033	936	930	886	922	898	685	526	574	
+1228	Paul Kalkbrenner	Sky And Sand	2008	1227	1277	1342	1346	1388	1410	1633	0	0	
+1229	Kim Wilde	Cambodia	1981	1320	1283	1305	1142	1126	1213	1225	1255	1307	
+1230	Beth Hart	L.A. Song (Out Of This Town)	1999	1180	1409	1075	1330	1203	955	1297	0	0	
+1231	Claw Boys Claw	Rosie	1992	1267	1457	1616	1648	1451	1760	0	0	0	
+1232	Janis Joplin	Cry Baby	1971	1029	1346	1165	1017	1264	1322	0	0	0	
+1233	Niall Horan	This Town	2016	1481	1540	0	1477	1257	0	0	0	0	
+1234	Taylor Swift	Shake It Off	2014	1328	1896	1685	1895	1658	1718	810	0	0	
+1235	Snelle	In M'n Bloed	2021	0	0	0	0	0	0	0	0	0	
+1236	Status Quo	Rockin' All Over The World	1977	1096	1142	1170	1384	1324	1170	1246	1344	1123	
+1237	Faith No More	Epic	1989	1192	1248	1228	1213	838	889	0	0	0	
+1238	Queen	Tie Your Mother Down	1977	1140	986	885	732	865	912	927	978	904	
+1239	John Denver	Calypso	1975	1139	1146	1106	1217	1263	1167	1220	1192	1033	
+1240	Creedence Clearwater Revival	Long As I Can See The Light	1970	1156	1176	1164	1069	1256	1271	1099	1074	1024	
+1241	Kings Of Leon	Use Somebody	2008	1123	912	900	723	677	516	455	391	262	
+1242	Donna Summer	MacArthur Park	1978	1171	1058	1054	952	984	1056	1089	907	878	
+1243	Sniff 'n' The Tears	Driver's Seat	1980	1075	1129	1118	1019	1060	931	1180	1118	918	
+1244	Jeugd Van Tegenwoordig	Watskeburt	2005	1167	1185	1096	867	1112	1002	1481	0	0	
+1245	Dire Straits	So Far Away	1985	1350	1379	1210	896	1616	1519	1456	1381	1278	
+1246	Nirvana	In Bloom	1991	1301	1462	1406	1473	0	0	0	0	0	
+1247	Lauren Daigle	You say	2018	1066	846	1090	0	0	0	0	0	0	
+1248	Ed Sheeran	Supermarket Flowers	2017	1081	1247	1172	0	0	0	0	0	0	
+1249	Iron Butterfly	In-A-Gadda-Da-Vida	1970	1235	1216	1100	1206	772	787	638	541	558	
+1250	The Pogues & Kirsty Maccoll	Fairytale Of New York	1987	1349	1222	1247	1341	0	0	0	0	0	
+1251	Split Enz	Message To My Girl	1984	1155	1175	1033	1143	793	786	683	659	839	
+1252	The Killers	Somebody Told Me 	2004	1279	1349	1344	1223	1262	1361	1499	0	0	
+1253	Dj Tiesto	Traffic	2003	905	879	1161	1357	1214	1558	0	0	0	
+1254	Keane	Bedshaped	2004	1263	1043	1005	1047	758	758	694	731	561	
+1255	Earth & Fire	Memories	1972	1424	1498	1323	1487	1430	1488	1345	1209	1268	
+1256	Toontje Lager	Stiekem Gedanst	1983	1144	1348	1301	1445	1528	1636	1558	1526	1339	
+1257	Queen	Bicycle Race	1978	1090	969	751	714	1073	976	991	970	837	
+1258	Marco Borsato	Margherita	1996	960	707	459	420	471	374	228	354	289	
+1259	Led Zeppelin	Since I've Been Loving You	1970	1225	1122	1052	1007	855	921	0	0	0	
+1260	Red Hot Chili Peppers	By The Way	2002	1415	1476	1785	1321	1108	991	0	0	0	
+1261	Steppenwolf	Born To Be Wild	1968	1138	995	1013	885	729	754	750	884	595	
+1262	Talking Heads	Road To Nowhere	1985	1151	1147	1059	1242	1058	1026	974	880	1021	
+1263	Elvis Presley	You're The Devil In Disguise	1963	1551	1588	1477	1387	1649	1757	1667	1626	1453	
+1264	Racoon	No Mercy	2011	1091	829	961	900	599	506	418	256	291	
+1265	Pearl Jam	Daughter	1993	1411	1310	1044	1237	1238	1327	1518	0	0	
+1266	Melanie	Beautiful People	1969	980	1200	1060	1155	1416	1163	1072	982	674	
+1267	Florence & The Machine	Dog Days Are Over	2009	1224	1384	1291	1293	1905	1582	0	0	0	
+1268	Celine Dion	It's All Coming Back To Me	1996	1337	0	0	0	0	0	0	0	0	
+1269	Jeff Wayne & Justin Hayward	The Eve Of The War	1978	1379	1353	1099	1049	1379	1244	990	729	646	
+1270	David Bowie	Changes 	1971	1216	1352	1041	1091	1170	540	1541	0	0	
+1271	Thin Lizzy	Whiskey In The Jar	1973	1124	1210	1029	1196	839	714	703	574	505	
+1272	Cyndi Lauper	True Colours	1986	1040	1062	1136	1033	1009	834	1173	1114	826	
+1273	3 Doors Down	Here Without You	2003	1242	1254	1271	1051	803	725	594	531	1147	
+1274	Eminem & Rihanna	Love The Way You Lie	2010	1367	0	0	0	0	0	0	0	0	
+1275	R.E.M.	Drive	1992	1322	1296	1326	1227	1053	1151	1010	862	685	
+1276	Bee Gees	Night Fever	1978	1260	1398	1372	1287	1231	1108	1348	1619	1310	
+1277	Suzan & Freek	Dromen In Kleur	2021	0	0	0	0	0	0	0	0	0	
+1278	Billy Joel	We didn't start the fire	1989	1275	1340	1421	1714	1762	1819	1779	1934	0	
+1279	Mr. Mister	Broken Wings	1986	1207	1230	1218	1114	1258	1418	1415	1173	1134	
+1280	Snelle	Reunie	2019	913	430	1035	0	0	0	0	0	0	
+1281	Golden Earring	Back Home	1970	694	1432	1318	1550	1291	1235	1302	1140	995	
+1282	Lenny Kravitz	Let Love Rule	1989	1102	821	1184	1105	868	818	681	725	911	
+1283	Tom Petty 	Free Fallin' 	1989	1133	1369	1148	1107	763	0	1845	0	0	
+1284	Queen	Thank God It's Christmas	1984	1400	1206	1043	1089	0	0	0	0	0	
+1285	Crowded House	Weather With You	1992	1378	1328	1441	1316	1489	1414	1489	1445	1099	
+1286	Daft Punk	One More Time	2000	1115	1494	1428	1160	957	866	652	959	0	
+1287	David Bowie	Golden Years	1976	1271	1204	1194	1072	1024	576	1250	1250	1199	
+1288	ABBA	Don't Shut Me Down	2021	0	0	0	0	0	0	0	0	0	
+1289	The Smiths	Bigmouth Strikes Again	1986	1305	1203	1183	1575	1031	1022	0	0	0	
+1290	Bill Withers	Lovely Day	1978	1134	913	1658	1562	1293	1251	1308	1549	1387	
+1291	Matthias Reim	Verdammt, Ich Lieb' Dich	1990	1168	1119	1264	1279	1425	1483	1282	1359	1282	
+1292	Green Day	Holiday	2005	1353	1334	1238	1264	1397	1353	0	0	0	
+1293	Herman Brood & Henny Vrienten	Als Je Wint	1984	1892	0	0	0	0	0	1885	1989	1897	
+1294	Khruangbin & Leon Bridges	Texas Sun	2019	1676	1900	0	0	0	0	0	0	0	
+1295	Paul Simon	50 Ways To Leave Your Lover	1976	1050	1111	1220	1177	1049	990	1235	1171	910	
+1296	Muse	Resistance	2009	1177	1232	804	0	0	0	0	0	0	
+1297	Paolo Conte	Max	1988	1142	1182	1257	1102	478	468	501	503	630	
+1298	Imagine Dragons	Bad Liar	2018	1473	1291	814	0	0	0	0	0	0	
+1299	Queen	Spread Your Wings	1978	1276	1207	880	1053	0	0	0	0	0	
+1300	Queen	Good Old-Fashioned Lover Boy	1976	1456	1860	0	0	0	0	0	0	0	
+1301	The Rolling Stones	Ruby Tuesday	1967	1241	1164	1078	1128	873	1004	919	835	737	
+1302	Herman van Veen	Anne	1986	1269	1191	1191	1043	812	762	754	713	669	
+1303	Metallica	Memory Remains	1997	1491	1645	1399	1630	1957	1733	0	0	0	
+1304	Dean Lewis	How Do I Say Goodbye	2022	0	0	0	0	0	0	0	0	0	
+1305	Simon & Garfunkel	Cecilia	1970	1187	1038	1392	1539	1470	1437	1562	1396	1241	
+1306	Gary Jules	Mad World	2002	1214	1109	1160	958	1166	682	408	609	474	
+1307	Adele	Turning Tables	2011	959	1213	1006	749	1159	865	461	563	425	
+1308	One Direction	Best Song Ever	2013	1423	0	0	0	0	0	0	0	0	
+1309	The Beatles	Lucy In The Sky With Diamonds	1967	1186	1092	969	818	844	920	1053	953	702	
+1310	Michael Jackson	The Way You Make Me Feel	1987	1179	952	1173	748	1037	983	1161	1098	962	
+1311	The Bangles	Eternal Flame	1989	1264	1278	1300	1120	775	662	774	666	814	
+1312	The Script & will.i.am	Hall Of Fame	2012	1458	1396	1223	1322	1450	1270	942	722	1330	
+1313	Laura Pausini	La Solitudine	1993	1401	1313	1664	1490	1803	1810	1498	1485	1365	
+1314	Alice Cooper	School's Out	1972	1450	1244	1149	940	757	785	924	788	649	
+1315	Bush	Glycerine	1996	1403	1327	1432	1386	1139	1328	0	0	0	
+1316	Coldplay	Speed Of Sound	2005	1561	1397	1242	1121	1197	1069	910	826	704	
+1317	Blondie	Heart Of Glass	1979	1206	1309	1682	1937	1702	1974	0	1821	1759	
+1318	George Michael & Aretha Franklin	I Knew You Were Waiting (For Me)	1987	1166	982	1179	1040	1944	0	0	0	0	
+1319	Golden Earring	Weekend Love	1979	746	1652	1695	1892	1834	1545	1794	1539	1552	
+1320	Tears For Fears	Sowing The Seeds Of Love	1989	1232	1423	1473	1343	1072	1223	1166	1058	1114	
+1321	Robert Plant	Big Log	1983	1306	1337	1333	1425	1230	1140	1064	909	924	
+1322	Eminem	Cleanin' Out My Closet	2002	1432	1298	1332	1080	1675	1811	0	0	0	
+1323	Guns N' Roses	Live And Let Die	1991	1507	1495	1397	1110	0	0	0	0	0	
+1324	Bob Dylan	The Times Are A-Changing	1964	1045	965	1034	750	712	666	644	709	469	
+1325	Alannah Myles	Black Velvet	1990	1300	1173	1286	1234	1229	1380	1402	1392	1413	
+1326	The Trammps	Disco Inferno	1977	1145	1144	1205	1228	1114	1032	1029	892	710	
+1327	Madonna	Frozen	1998	1303	1253	1095	790	879	808	693	622	589	
+1328	Kensington	Bridges	2017	1218	1029	829	769	0	0	0	0	0	
+1329	The Rolling Stones	Honky Tonk Women	1969	1245	1276	1133	1249	1100	1298	1109	856	831	
+1330	U2 & B.B. King 	When Love Comes To Town 	1989	1212	1091	1123	1104	1099	954	749	0	0	
+1331	Billy Joel	Scenes From An Italian Restaurant	1977	1348	1502	1480	1410	1543	1598	0	0	0	
+1332	Golden Earring	I Can't Sleep Without You (Live)	1992	1281	0	0	0	0	0	0	0	0	
+1333	Normaal	De Boer Is Troef	1983	0	0	0	0	0	0	0	0	0	
+1334	Michael Jackson	Human Nature	1983	1259	1194	1269	773	1007	977	692	1092	971	
+1335	Het Goede Doel	Vriendschap	1983	1278	1386	1265	1448	1294	972	1323	1259	1144	
+1336	U2	Ordinary Love	2013	1043	868	866	762	831	705	447	294	0	
+1337	Duran Duran	The Reflex	1984	1170	1081	1302	1331	990	1239	1316	1364	1154	
+1338	Ralph McTell	Streets Of London	1972	1404	1344	1313	1467	1149	1113	860	923	876	
+1339	David Bowie & Pat Metheny	This Is Not America	1985	1220	1160	1163	1067	919	491	1199	973	1038	
+1340	Ike & Tina Turner	Nutbush City Limits	1974	1249	1269	1270	1266	1889	1724	1777	1495	1175	
+1341	Prince	Let's Go Crazy	1985	1203	1021	1121	1256	1056	702	1781	1410	1524	
+1342	Queen	Friends Will Be Friends	1986	1195	1267	1008	1026	0	0	0	0	0	
+1343	R.E.M.	Shiny Happy People	1991	1189	1295	1544	1419	1240	1132	1162	1200	1152	
+1344	Foo Fighters	All My Life	2002	1499	1424	1331	1239	1188	1533	0	0	0	
+1345	The Communards	Don't Leave Me This Way	1986	1492	1306	1408	1703	1340	1366	1467	1291	1503	
+1346	Dave Brubeck	Take Five	1962	1194	1235	1298	1224	976	1165	829	550	506	
+1347	Elvis Presley	Love Me Tender	1956	1153	1245	1097	1088	1138	1160	1300	1362	1143	
+1348	Janis Joplin	Mercedes Benz	1970	1238	1123	1073	870	883	907	1027	848	806	
+1349	Emerson Lake & Palmer	Peter Gunn 	1980	1101	1016	970	1098	877	992	976	868	784	
+1350	Imagine Dragons	On Top Of The World	2013	1511	1419	1159	981	1209	1425	883	481	1052	
+1351	Kendrick Lamar	King Kunta	2015	1716	1650	0	0	0	0	0	0	0	
+1352	The Cats	Scarlet Ribbons	1969	1253	1279	1209	1512	1218	1360	1108	958	961	
+1353	Kenny Rogers	The Gambler	1978	0	0	0	0	0	0	0	0	0	
+1354	Nirvana	Something In The Way	1991	0	0	0	0	0	0	0	0	0	
+1355	P!nk & Willow Sage Hart	Cover Me In Sunshine	2021	0	0	0	0	0	0	0	0	0	
+1356	Peter Gabriel	Sledgehammer	1986	1313	1243	1345	1272	1076	1011	1100	975	951	
+1357	Boney M	Rasputin	1978	964	0	0	0	0	0	0	0	0	
+1358	ABBA	Money Money Money	1976	1475	1776	1786	1791	0	0	0	0	0	
+1359	The Rolling Stones	Jumping Jack Flash	1968	1255	1255	1089	1085	963	1001	998	720	720	
+1360	Kensington	All For Nothing	2014	1182	1217	886	982	807	442	231	1428	0	
+1361	Stealers Wheel	Stuck In The Middle With You	1973	1257	1256	1252	1269	1224	1133	1228	1304	934	
+1362	Mike & The Mechanics	The Living Years	1989	1351	1323	1251	1282	1200	1168	1033	896	945	
+1363	Snow Patrol	Just Say Yes	2009	1299	1195	1069	1172	1141	998	891	742	529	
+1364	Roberta Flack	The First Time Ever I Saw Your Face	1972	1336	1526	1455	1181	1191	1316	1165	1030	781	
+1365	Bruno Mars	When I Was Your Man	2013	1317	1446	1382	1035	1177	1051	1103	834	0	
+1366	Marco Borsato, Armin van Buuren & Davina Michelle	Hoe Het Danst	2019	526	375	0	0	0	0	0	0	0	
+1367	The Beatles	In My Life	1965	1495	1436	1356	1442	1040	997	728	969	825	
+1368	Leonard Cohen	Take This Waltz	1988	1093	955	891	778	580	1671	0	0	0	
+1369	Electric Light Orchestra	Don't Bring Me Down	1979	1250	1380	1309	1320	1070	1169	1274	1282	1180	
+1370	The The	Uncertain Smile	1984	1461	1551	1394	1427	974	947	852	874	913	
+1371	Xavier Rudd	Follow The Sun	2016	1331	1406	1649	1663	1131	1411	0	0	0	
+1372	Stevie Ray Vaughan	Pride And Joy	1983	1201	1219	1178	1169	0	0	0	0	0	
+1373	Drs. P	Dodenrit	1974	1387	1079	1293	1184	1117	1081	889	1160	948	
+1374	Duran Duran	Save A Prayer 	1985	1226	1268	1353	1304	1046	1214	858	1162	1137	
+1375	Cock Robin	The Promise You Made	1986	1311	1225	1312	1313	1140	1112	1262	1210	1203	
+1376	Christina Aguilera	Hurt	2006	1270	1161	1016	848	898	944	727	745	525	
+1377	Kraftwerk	Autobahn	1975	1294	1145	1105	906	858	757	732	705	452	
+1378	Alphaville	Big In Japan	1984	1222	1568	1543	1674	1411	1674	1589	1461	1384	
+1379	Blof	Alles Is Liefde	2007	1288	1311	1055	975	1015	1127	971	818	684	
+1380	LP	Lost On You	2016	1632	1778	1973	1807	1913	0	0	0	0	
+1381	Michael Jackson	Don't Stop Till You Get Enough	1979	1307	1196	1074	851	1091	1206	1241	1211	1186	
+1382	Nena	Nur Getraumt	1983	1421	1567	1605	1543	1774	0	0	0	0	
+1383	George Michael & Mary J Blige	As	1999	1390	1224	1419	1356	1690	0	0	0	1734	
+1384	R.E.M.	The One I Love	1987	1297	1343	1215	1136	825	946	786	760	642	
+1385	Sam Cooke	A Change Is Gonna Come	1964	1199	1169	1443	1300	1123	1092	847	883	964	
+1386	The Weeknd ft. Daft Punk	Starboy	2016	0	0	0	0	0	0	0	0	0	
+1387	Creedence Clearwater Revival	Born On The Bayou	1969	1339	1257	1150	1271	1198	1265	1204	1151	1029	
+1388	Prince	Kiss	1986	1221	1003	1072	998	1077	721	1101	1238	1204	
+1389	U2 & Green Day	The Saints Are Coming	2006	1470	1239	1349	1374	1587	1481	1186	0	0	
+1390	Blink 182	All The Small Things	1999	1327	1366	1398	1253	1383	1107	1259	0	0	
+1391	S10	De Diepte	2022	0	0	0	0	0	0	0	0	0	
+1392	Post Malone	Circles	2019	1310	1001	0	0	0	0	0	0	0	
+1393	Jerry Lee Lewis	Great Balls Of Fire	1957	0	0	0	0	0	0	0	0	1822	
+1394	Paul McCartney & Wings	Mull Of Kintyre	1977	1293	1272	1157	1289	1295	1224	895	987	931	
+1395	Pat Benatar	Love Is A Battlefield	1984	1234	1198	1087	990	1067	1125	1068	908	1182	
+1396	Pet Shop Boys	It's A Sin	1987	1435	1849	1651	1871	1459	1303	1444	1415	1571	
+1397	Grover Washington jr. & Bill Withers	Just The Two Of Us	1981	1268	1816	0	0	0	0	0	0	0	
+1398	The Fray	How To Save A Life	2005	1333	1355	1260	1162	981	801	582	811	1213	
+1399	Taylor Swift	Willow	2021	0	0	0	0	0	0	0	0	0	
+1400	Elton John	Can You Feel The Love Tonight	1994	1343	1469	1288	1523	1730	1740	1465	1918	1461	
+1401	Tom Waits	Tom Traubert's Blues	1976	1274	1199	1221	1124	1691	1408	907	554	455	
+1402	Lenny Kravitz	Are You Gonna Go My Way	1993	1323	1208	1355	1203	1104	1064	1096	866	788	
+1403	The Police	Walking On The Moon	1979	1308	1292	1229	921	1082	1043	1138	1035	890	
+1404	Natasha Bedingfield	Unwritten	2005	1550	1543	1460	1302	0	0	0	0	0	
+1405	Phil Collins	You Can't Hurry Love	1982	1243	1162	1080	1190	1612	1358	1576	1568	1436	
+1406	Teskey Brothers	Hold Me	2019	1116	1965	0	0	0	0	0	0	0	
+1407	Clannad	Theme From Harry's game	1983	965	1566	1571	1416	1208	1188	1212	1069	1238	
+1408	Stevie Wonder	Isn't She Lovely	1976	1143	1115	1206	917	1300	1118	1314	1183	914	
+1409	George Harrison	My Sweet Lord	1970	1314	1403	1188	1106	986	1014	1040	934	902	
+1410	The Beatles	Michelle	1966	1188	1136	1114	1130	890	788	893	703	660	
+1411	Keane	Bend And Break	2005	1502	1289	1401	1534	1569	1463	1122	1154	813	
+1412	Guus Meeuwis	De Weg	2005	1272	1280	1250	1189	1232	1091	759	849	800	
+1413	Andre Hazes	Uit M'n Bol	1993	1653	0	0	0	0	0	0	0	0	
+1414	Eminem	Like Toy Soldiers	2005	0	0	0	0	0	0	0	0	0	
+1415	Barry Ryan	Eloise	1968	1340	1321	1124	1134	851	805	707	566	553	
+1416	Heart	Crazy On You	1977	1498	1339	1259	1109	917	943	914	810	977	
+1417	Lynyrd Skynyrd	Simple Man	1973	1437	1681	0	0	0	0	0	0	0	
+1418	Creedence Clearwater Revival	Down On The Corner	1969	1254	1221	1431	1406	1542	1606	1553	1629	1409	
+1419	Elvis Presley	An American Trilogy	1972	1558	1763	1656	1637	1435	1348	969	1012	1034	
+1420	Fugees	Killing Me Softly	1996	1280	1275	1489	1452	1631	1728	1937	1911	1697	
+1421	David Bowie	Man Who Sold The World	1970	1363	1273	1125	1083	965	616	0	0	0	
+1422	Coldplay	Talk	2005	1609	1342	1237	1202	1195	1175	875	806	566	
+1423	Wham!	Club Tropicana	1983	1386	1354	1796	1846	1891	0	0	0	0	
+1424	One Republic	Counting Stars	2013	1718	1737	1692	1665	1541	1299	730	747	0	
+1425	Barbra Streisand	Memory	1982	1252	1251	1143	1018	881	930	788	604	696	
+1426	Black Crowes	Remedy	1992	1312	1156	1334	1317	997	1110	1157	1094	0	
+1427	Gilbert Becaud	Nathalie	1964	1104	1538	1779	1735	1439	1335	1188	1263	981	
+1428	Vandenberg 	Burning Heart 	1983	1356	1252	1176	1084	1417	1432	1588	0	0	
+1429	Michael Buble	Feeling Good	2004	1251	1192	1246	1066	1261	1005	700	591	933	
+1430	B.B. King	The Thrill Is Gone	1969	1256	1190	1213	672	423	343	271	463	491	
+1431	2Pac	Dear Mama	1998	1365	1302	1306	1137	1196	1336	1248	0	0	
+1432	Bruce Hornsby & The Range	The Way It Is	1986	1446	1539	1435	1394	1438	1524	1195	981	1293	
+1433	Darude	Sandstorm	2001	1261	1481	1654	1513	0	0	0	0	0	
+1434	Coldplay	In My Place 	2002	1837	1676	1358	1233	1396	1200	982	0	0	
+1435	Bee Gees	Nights On Broadway	1975	1602	1623	1498	1544	1154	1146	1284	1355	1270	
+1436	Stevie Nicks	Edge Of Seventeen	1982	1938	0	0	0	0	0	0	0	0	
+1437	The Hollies	He Ain't Heavy He's My Brother	1969	1384	1400	1232	1436	1201	987	886	701	670	
+1438	Genesis	Home By The Sea	1983	1738	1508	1503	1631	0	0	0	0	0	
+1439	Ed Sheeran	Afterglow	2020	981	0	0	0	0	0	0	0	0	
+1440	Di-rect	Devil Don't Care	2019	1443	931	0	0	0	0	0	0	0	
+1441	Janis Ian	At Seventeen	1975	1518	1290	1527	1306	1467	1449	1359	1131	994	
+1442	Dubliners	Wild Rover	1964	1366	1297	1126	1292	1314	1186	1224	1128	1008	
+1443	The Babys	Everytime I Think Of You	1979	1451	1373	1276	1541	520	521	539	492	755	
+1444	Thin Lizzy	Boys Are Back In Town 	1976	1360	1368	1225	1194	1360	1187	1075	0	0	
+1445	Level 42	Lessons In Love	1986	1399	1264	1534	1378	1248	1256	1271	1047	1375	
+1446	Mika	Grace Kelly	2007	1586	0	0	0	0	0	1986	1845	1578	
+1447	Katie Melua	Nine Million Bicycles	2005	1302	1183	1110	966	845	776	616	472	412	
+1448	Lionel Richie	Hello	1984	1239	1095	1082	1191	1023	1044	912	894	905	
+1449	Michael Kiwanuka	Home Again	2012	1449	1052	1196	1338	1753	1663	1992	1810	1263	
+1450	Bob Dylan	Knocking On Heaven's Door	1973	1131	1102	997	791	882	782	767	682	473	
+1451	Guns N' Roses	You Could Be Mine	1991	1657	1657	0	0	0	0	0	0	0	
+1452	Bruce Springsteen	Human Touch	1992	1523	1503	1457	1627	1419	1325	1237	1165	1076	
+1453	Anouk	For Bitter Or Worse	2009	1266	1088	1031	919	874	849	600	429	358	
+1454	Prodigy	No Good (Start The Dance)	1994	1433	1491	1364	1462	1681	1744	1841	0	0	
+1455	Spider Murphy Gang	Skandal Im Sperrbezirk	1982	1510	1510	1624	1687	1714	1706	1532	1686	1667	
+1456	Marco Borsato	Rood	2006	1005	790	498	544	653	527	323	374	342	
+1457	Marvin Gaye	Sexual Healing	1982	1382	989	1231	859	836	877	839	710	742	
+1458	The Beatles	All You Need Is Love	1967	1296	1301	1154	1153	1205	822	698	1159	1459	
+1459	Paul De Leeuw & Alderliefste	Une Belle Histoire	2006	1368	1314	1283	1296	1184	1290	1159	1033	991	
+1460	ABBA	The Name Of The Game	1977	1231	1393	1439	1151	1531	1690	1673	1569	1690	
+1461	Johnny Cash	A Thing Called Love	1972	1358	1441	1227	1263	1544	1630	1232	1199	862	
+1462	Robert Long	Kalverliefde	1974	1357	1541	1461	1737	1725	1661	1717	888	1126	
+1463	Frank Boeijen	Hier Komt De Storm	1988	1532	1480	1735	1801	0	0	0	0	0	
+1464	Foreigner	Cold As Ice	1977	1501	1332	1370	1334	937	1517	1450	1372	1418	
+1465	Gorki	Mia	1992	1504	1589	1393	1365	1227	1329	1413	0	0	
+1466	Peter Gabriel	Biko	1980	1385	1287	1346	1344	1157	854	933	691	578	
+1467	Coldplay	Every Teardrop Is A Waterfall	2011	1754	1492	1316	1259	1255	1067	834	583	434	
+1468	Guus Meeuwis	t Dondert En 't Bliksemt	1997	1416	1413	1253	0	0	0	0	0	0	
+1469	Jimi Hendrix	Purple Haze	1967	1246	1178	1032	937	1055	995	766	586	377	
+1470	Bon Jovi	In These Arms	1993	1466	1394	1483	1511	1657	1586	1580	1559	0	
+1471	Lukas Graham	7 Years	2015	1545	1960	1820	1671	1510	880	0	0	0	
+1472	Nits	Nescio	1983	1509	1320	1376	1629	1151	1194	1202	860	891	
+1473	Stevie Wonder	Sir Duke	1977	1427	1447	1402	1393	1393	1176	1277	1156	1039	
+1474	Led Zeppelin	Dazed And Confused	1969	1457	1444	1244	1311	1102	1076	0	0	0	
+1475	Lady Gaga	Poker Face	2009	1764	1614	1591	1659	1645	1887	1684	1615	1167	
+1476	Billy Joel	New York State Of Mind	1976	1362	1364	1112	1157	813	840	726	493	973	
+1477	Rod Stewart	Maggie May	1971	1318	1415	1445	1417	1235	1240	1164	1133	1101	
+1478	Owl City	Fireflies	2009	1464	1471	1416	1284	1245	1293	1018	1184	1001	
+1479	Blof	Zaterdag	1999	1377	1518	1532	0	0	0	0	0	0	
+1480	Kiss	Sure Know Something	1979	1546	1450	1514	1533	1441	1583	1398	1194	1287	
+1481	Queen	You Don't Fool Me	1996	1388	1365	1272	1243	1660	1478	1564	1547	0	
+1482	Stevie Wonder	I Wish	1977	1332	1319	1207	1183	1071	899	1172	946	786	
+1483	Nick Cave & The Bad Seeds	Red Right Hand	1994	0	0	0	0	0	0	0	0	0	
+1484	David Bowie	Ziggy Stardust	1972	1277	1163	985	1005	743	462	781	573	639	
+1485	The Beatles	I Am The Walrus	1967	1553	1535	1321	1131	993	872	624	718	594	
+1486	Simply Red	If You Don't Know Me By Now	1989	1084	1032	1135	1159	1057	982	869	971	857	
+1487	Danny Vera	The Weight	2020	792	1333	0	0	0	0	0	0	0	
+1488	Hans De Booij	Annabel	1983	1514	1497	1560	1857	1666	1660	1405	1227	1173	
+1489	Taylor Swift	Blank Space	2015	1605	0	0	0	0	0	0	0	0	
+1490	George Ezra	Budapest	2014	1829	1698	1340	1061	1686	1421	905	1053	0	
+1491	Band Aid	Do They Know It's Christmas	1984	1438	1341	1138	1329	1192	1149	908	673	1225	
+1492	Imagine Dragons	Follow You	2021	0	0	0	0	0	0	0	0	0	
+1493	Lee Towers	You'll Never Walk Alone	1976	1338	1188	1168	1280	1206	1279	1132	1180	1323	
+1494	Eric Clapton	Cocaine	1978	1284	1226	1104	954	0	0	0	0	0	
+1495	Swedish House Mafia ft. The Weeknd	Moth To A Flame	2021	0	0	0	0	0	0	0	0	0	
+1496	De Dijk	Mijn Van Straat Geredde Roos	2008	1919	1906	1637	1774	1453	1287	1038	813	715	
+1497	Is Ook Schitterend	Voltooid Verleden Tijd	1997	1420	1575	1425	1439	1111	1247	1222	1189	1264	
+1498	Andre Hazes	n Vriend	1980	1291	1417	1429	1443	1804	1948	0	1850	1637	
+1499	Outfield	Your Love	1986	1820	1994	0	0	0	0	0	0	0	
+1500	George Ezra	Shotgun	2018	1896	1463	945	1148	0	0	0	0	0	
+1501	Doe Maar	1 Nacht Alleen	1983	1948	0	0	0	0	0	0	0	1511	
+1502	Golden Earring	Hold Me Now	1994	716	0	0	0	0	0	0	0	1867	
+1503	Earth & Fire	Weekend	1979	1484	1621	1719	1619	1475	1514	1706	1516	1580	
+1504	The Human League	Don't You Want Me	1982	1454	1587	1589	1615	1642	1620	1696	1786	1908	
+1505	Solomon Burke & De Dijk	Hold On Tight	2010	1842	1984	1988	0	0	0	0	0	0	
+1506	Meat Loaf	Heaven Can Wait	1979	1963	1819	0	0	0	0	0	0	0	
+1507	Johnny Cash	San Quentin (live At San Quentin)	1969	1335	1131	1122	1212	1339	1426	0	0	0	
+1508	Backstreet Boys	Everybody	1997	1862	1736	1730	1549	1433	1541	1379	1671	1768	
+1509	Andre Hazes	Het Laatste Rondje	1981	1392	1356	1693	0	0	0	0	0	0	
+1510	Fleetwood Mac	Never Going Back Again	1977	1899	1936	0	0	0	0	0	0	0	
+1511	Julio Iglesias	Quiero	1976	1563	1730	0	0	0	0	0	0	0	
+1512	Glass Animals	Heat Waves	2021	0	0	0	0	0	0	0	0	0	
+1513	Seal	Crazy	1991	1462	1391	1409	1353	938	915	821	812	868	
+1514	Tom Petty & The Heartbreakers	Mary Jane's Last Dance	1993	1574	1453	1575	1480	1158	0	0	0	0	
+1515	Tom Petty & The Heartbreakers	Learning To Fly	1991	1459	1484	1378	1291	1278	0	0	0	0	
+1516	Youp van 't Hek	Flappie	1981	1636	1065	1175	1319	819	744	509	634	650	
+1517	The Prodigy	Breathe	2017	1364	1537	1368	0	0	0	0	0	0	
+1518	Suzan & Freek	Weg Van Jou	2020	1181	0	0	0	0	0	0	0	0	
+1519	Lucifer	House For Sale	1975	1326	1187	1362	1323	1014	1307	1194	994	920	
+1520	Kensington	Home Again	2013	1426	1425	750	771	827	414	282	180	1860	
+1521	Mark Knopfler	Going Home (Theme From Local Hero)	1983	1486	1685	0	0	0	0	0	0	0	
+1522	Jean Michel Jarre	Oxygene IV	1977	1622	1466	1490	1497	1460	1423	1198	1048	1046	
+1523	Roy Orbison	In Dreams	1963	1407	1237	1343	1375	1362	1447	1203	1117	1057	
+1524	Kanye West & Jay Z	Niggas In Paris	2011	1374	1499	1596	1349	1908	1675	0	0	0	
+1525	Alice In Chains	Rooster	1992	1604	1863	1769	1692	1550	1492	0	0	0	
+1526	The Cure	Lovesong	1989	1812	1824	1674	1969	1916	1947	0	0	0	
+1527	Bob Marley & The Wailers	Stir It Up	1979	1244	1274	1181	1111	1355	1226	1223	1011	764	
+1528	Therapy?	Diane	1995	1557	1420	1584	1500	1395	1749	1734	1466	0	
+1529	Taylor Swift	Love Story	2009	0	0	0	0	0	0	1816	0	0	
+1530	Alan Walker	Faded	2016	1613	1412	1374	1193	1134	1937	0	0	0	
+1531	The Script	If You Could See Me Now	2013	1533	1405	1219	1065	1051	924	667	549	1828	
+1532	Joe Cocker	N'oubliez Jamais	1997	1425	1375	1450	1459	1120	1012	809	912	827	
+1533	Cuby & The Blizzards	Somebody Will Know Somebody	1967	1287	1316	1292	1366	1219	1062	987	757	604	
+1534	Andre Hazes	Ik Leef Mijn Eigen Leven	1994	0	0	0	0	0	0	0	0	0	
+1535	Jonathan Jeremiah	Happiness	2011	1730	1562	1414	1070	1265	1207	768	1503	1229	
+1536	Bokkers	Kold Bloed	2019	1448	0	0	0	0	0	0	0	0	
+1537	George Michael	You Have Been Loved	1997	1556	1489	1494	1507	1463	0	0	1778	1712	
+1538	De Dijk	Laat Het Vanavond Gebeuren	1997	0	0	0	0	0	0	1735	1737	1627	
+1539	Nick & Simon	Kijk Omhoog	2007	1480	1305	1495	1466	1592	1384	1182	1013	879	
+1540	The Who	Won't Get Fooled Again	1971	1774	1665	1471	1757	1059	940	731	625	492	
+1541	Marvin Gaye	I Heard It Through The Grapevine	1969	1316	1260	1230	932	826	895	790	518	488	
+1542	Adele	Water Under The Bridge	2016	1173	1487	1279	943	1143	0	0	0	0	
+1543	Pink	Raise Your Glass	2010	1505	1435	1255	1276	1286	1689	1565	1613	0	
+1544	Bee Gees	To Love Somebody	1967	1452	1606	1908	1891	1839	1936	0	1952	1863	
+1545	Frank Sinatra	Theme From 'New York, New York'	1980	1429	1259	1310	1186	1500	1404	1332	1478	1258	
+1546	Jacques Brel	Mijn Vlakke Land	1965	1157	1532	1363	1185	1018	1034	762	764	610	
+1547	Joe Cocker	You Can Leave Your Hat On	1986	1324	1004	1243	1222	1311	1141	1117	1226	1090	
+1548	The Temper Trap	Sweet Disposition	2009	1771	1760	1798	1921	1524	1627	1494	0	0	
+1549	Bee Gees	I Started A Joke	1969	1588	1570	1585	1636	1204	1136	1321	1051	1018	
+1550	Manu Chao	Me Gustas Tu	2000	1681	1616	1767	1617	1161	1078	1104	1166	966	
+1551	Adele	All I Ask	2015	1049	1525	1404	0	0	0	0	0	0	
+1552	Patrick Hernandez	Born To Be Alive	1979	1742	1797	1737	1673	1626	1639	1635	1596	1840	
+1553	Andre Hazes	Het Is Koud Zonder Jou	1980	1346	1477	1426	1446	1856	1881	1957	1836	1844	
+1554	Orchestral Manoeuvres In The Dark	Enola Gay 	1980	1719	1780	1705	1815	1871	1657	1578	1587	1438	
+1555	MGMT	Kids	2008	1610	1694	1933	1415	1498	1467	0	0	0	
+1556	Michael Jackson	Bad	1987	1347	1524	1290	968	1590	1575	1360	1555	1063	
+1557	John Denver	Thank God I'm a Country Boy	1975	1537	1479	1234	1499	1879	1460	1530	1704	1657	
+1558	Steve Harley & Cockney Rebel	Make Me Smile (Come Up And See Me)	1975	1471	1411	1314	1308	1567	1516	1178	983	889	
+1559	Faithless	We Come 1	2001	1391	1438	1608	1510	1179	1280	1244	1424	0	
+1560	Van Morrison	Moondance	1970	1434	1240	1263	1207	923	928	649	606	534	
+1561	Danny Vera	The Devil's Son	2013	1455	1077	0	0	0	0	0	0	0	
+1562	Status Quo	In The Army Now	1986	1453	1449	1542	1852	1860	1842	0	1908	1809	
+1563	Cuby & The Blizzards	Appleknockers Flophouse	1969	1383	1509	1438	1580	1142	1232	1113	833	678	
+1564	Michael Jackson	Stranger In Moscow	1996	1841	1706	1615	1351	1361	1346	1276	1205	1059	
+1565	Elvis Presley	Blue Suede Shoes	1956	1721	1639	1603	1537	0	0	0	0	0	
+1566	The Smiths	How Soon Is Now	1984	1839	1756	1850	0	1692	1515	1221	0	0	
+1567	Tracy Chapman	Talkin' Bout A Revolution	1988	1468	1529	0	1804	0	0	0	0	0	
+1568	Celine Dion	My Heart Will Go On	1998	1375	1215	1081	978	1243	1129	828	922	849	
+1569	Talk Talk	Living In Another World	1986	1408	1351	1299	1940	0	0	0	0	0	
+1570	Eminem	My Name Is	1999	1870	1978	1754	1307	0	0	0	0	0	
+1571	Paul De Leeuw	Vlieg Met Me Mee	1992	1494	1564	1466	1368	1519	1241	1435	1197	1297	
+1572	Bruce Springsteen	Hungry Heart	1980	1617	1370	1254	1390	1386	1123	1325	1046	1010	
+1573	ABBA	Summer Night City	1978	1587	1983	0	0	0	0	0	0	0	
+1574	Twenty One Pilots	Heathens	2016	1710	1656	1530	1431	1427	1452	0	0	0	
+1575	Peter Gabriel	In Your Eyes	1986	1715	1642	1601	1652	0	0	0	0	0	
+1576	Ben Howard	Keep Your Head Up	2011	1370	1350	1387	1057	872	766	519	342	213	
+1577	Crash Test Dummies	Mmm Mmm Mmm Mmm	1994	1816	1781	1505	1678	1491	1323	1375	1239	1269	
+1578	Mr. Probz	Waves	2013	1290	1112	791	953	778	644	293	63	1245	
+1579	Arctic Monkeys	Snap Out Of It	2013	0	0	0	0	0	0	0	0	0	
+1580	The Rolling Stones	Lady Jane	1966	1570	1448	1396	1502	1884	1438	1377	1349	1105	
+1581	Justin Timberlake	Mirrors	2013	1381	1100	1456	1094	1298	1099	944	867	1663	
+1582	Elton John	Sorry Seems To Be The Hardest Word	1976	1522	1558	1504	1822	1549	1807	1810	1688	1519	
+1583	Snow Patrol	Shut Your Eyes	2007	1371	1317	1241	1144	1084	980	925	758	479	
+1584	Chris Rea	Josephine	1985	1817	1627	1386	1505	1147	1156	1011	1093	919	
+1585	The Weeknd & Daft Punk	I Feel It Coming	2016	1572	1808	0	1516	1697	0	0	0	0	
+1586	Simply Red	Stars	1991	1585	1452	1610	1430	1731	1642	1526	1637	1683	
+1587	Blof	Aanzoek Zonder Ringen	2007	1576	1318	1285	1246	1307	1246	1014	930	736	
+1588	Golden Earring	The Devil Made Me Do It	1982	1109	0	0	0	0	0	0	0	0	
+1589	Anouk	R U Kiddin' Me	1999	1488	1460	1266	1262	1560	1587	1299	1452	0	
+1590	Alain Clark	Father And Friend	2008	1321	1211	1199	1012	752	625	573	484	387	
+1591	Billy Joel	Uptown Girl	1983	1398	1459	1212	1152	1772	1845	1894	0	1764	
+1592	Electric Light Orchestra	Livin' Thing	1976	1444	1433	1371	1348	1220	1245	1150	1459	1407	
+1593	Yes	Roundabout 	1972	1596	1515	1307	1267	1025	1087	931	972	791	
+1594	Suzanne Vega	Luka	1987	1668	1574	1482	1746	1961	1984	1853	1446	1449	
+1595	Creed	With Arms Wide Open	1999	1544	1786	0	0	0	0	0	0	0	
+1596	Meat Loaf	For Crying Out Loud	1978	1901	0	0	0	0	0	0	0	0	
+1597	Bee Gees	Spicks And Specks	1967	1628	1547	1479	1414	1327	966	1240	1214	1209	
+1598	Andre Hazes	Ik Meen 't	1985	0	0	0	0	0	0	0	0	0	
+1599	James Taylor	You've Got A Friend	1971	1439	1242	1162	1225	930	1010	671	607	694	
+1600	The Beatles	Yellow Submarine	1966	1768	1490	1518	1339	1897	1502	1502	1552	1166	
+1601	Queen	One Vision	1985	1402	1308	911	840	1183	1274	1091	0	0	
+1602	The Clash	Should I Stay Or Should I Go	1982	1936	1451	1446	1799	1128	1615	1921	1715	1946	
+1603	Editors	Racing Rats	2007	1608	1335	1327	1154	972	1134	0	0	0	
+1604	Ella Fitzgerald & Louis Armstrong	Summertime	1957	1477	1404	1492	1188	1568	1427	1167	1132	1012	
+1605	Pulp	Common People	1995	1735	1431	0	0	1966	1988	1890	0	0	
+1606	Anouk	Jerusalem	2005	1485	1266	1317	1257	1279	1469	1304	1137	987	
+1607	Ramses Shaffy	Sammy	1966	1428	1345	883	1528	1288	1283	1088	1017	804	
+1608	Deep Purple	Black Night	1970	1600	1522	1325	1380	1373	1385	1126	992	735	
+1609	Labi Siffre	(Something Inside) So Strong	1987	1359	1610	1570	1399	1424	1164	861	815	922	
+1610	Rowwen Heze	T Roeie Klied	1995	1701	1969	0	0	0	0	0	0	0	
+1611	Extreme	More Than Words	1991	1445	1443	1447	1421	1116	1225	1065	1104	1312	
+1612	Racoon	Shoes Of Lightning	2013	1467	1177	1350	1122	934	690	420	184	0	
+1613	Ilse DeLange	I'm Not So Tough	1998	1479	1304	1076	991	1551	1562	1181	759	628	
+1614	Amy Winehouse	Love Is A Losing Game	2007	1172	1159	1217	1073	0	0	0	0	0	
+1615	The Beatles	When I'm Sixty-Four	1967	1469	1390	1248	1340	1771	1542	1391	954	863	
+1616	R.E.M.	Its The End Of The World	1987	1447	983	1724	1587	1377	1468	0	0	0	
+1617	The Hollies	The Air That I Breathe	1974	1463	1360	1282	1210	985	1075	1129	906	869	
+1618	Creedence Clearwater Revival	Lookin' Out My Back Door	1970	1571	1577	1463	1540	0	0	0	0	0	
+1619	The Black Keys	Gold On The Ceiling	2011	1722	1836	1539	1345	1554	1656	0	0	0	
+1620	Diesel	Sausolito Summernight	1980	1814	0	1978	1984	1955	1906	0	1781	1730	
+1621	Elvis Presley	Guitar Man	1972	1629	1663	1391	1451	1348	1806	0	0	0	
+1622	Paul McCartney	We All Stand Together	1985	1565	1439	1487	1620	1145	1198	849	976	1064	
+1623	Toto	Home Of The Brave	1988	0	0	0	0	0	0	0	0	0	
+1624	UB40	Food For Thought	1980	1405	1367	1548	1401	1292	1489	1429	1326	1392	
+1625	Sex Pistols	God Save The Queen	1977	1639	1488	1537	1381	1518	1530	0	0	0	
+1626	Eva Cassidy	Songbird	1998	1737	1662	1613	1509	1389	1178	1059	900	654	
+1627	Adele	Rumour Has It	2011	1137	1690	1377	1180	1511	1096	756	808	611	
+1628	House Of Pain 	Jump Around 	1992	1440	1293	1411	1586	1365	1263	1895	0	0	
+1629	Etta James	I'd Rather Go Blind	1968	1380	1416	1717	0	0	0	0	0	0	
+1630	Norah Jones	Sunrise	2004	1547	1591	1667	1429	1653	1461	1445	1373	1053	
+1631	Elbow	Magnificent (She Says)	2016	1704	1556	1413	1449	1282	0	0	0	0	
+1632	Sugarhill Gang	Rappers Delight	1979	1396	1171	1296	1684	1624	1585	1479	1360	1267	
+1633	Bee Gees	You Win Again	1987	1821	1717	1818	1899	1446	1534	1697	1577	1404	
+1634	Guano Apes	Open Your Eyes	1997	1787	1916	0	0	0	0	0	0	0	
+1635	The Smashing Pumpkins	Bullet With Butterfly Wings	1995	1606	1755	1807	1694	1609	1823	0	0	0	
+1636	Oasis	Live Forever	1994	1635	1647	1499	1376	1325	1743	0	0	0	
+1637	Dotan	Home	2014	1436	1110	973	796	205	82	32	82	0	
+1638	Nina Simone	My Baby Just Cares For Me	1987	1568	1378	1415	1135	1405	1347	1309	1313	1067	
+1639	Beastie Boys 	Fight For Your Right (To Party) 	1987	1406	1434	1607	1479	1941	1956	1331	0	0	
+1640	Patti Smith	Because The Night	1978	1581	1545	1424	1116	1302	1243	989	1152	1019	
+1641	The Who	See Me, Feel Me	1970	1747	1437	1239	1433	848	727	798	532	583	
+1642	Ilse DeLange	So Incredible	2008	1534	1180	1091	1075	1432	1289	1009	632	435	
+1643	KISS	Detroit Rock City	1976	1779	1934	0	0	0	0	0	0	0	
+1644	Sting & Cheb Mami	Desert Rose	1997	1782	1704	1957	0	0	0	0	0	0	
+1645	Yes	Close To The Edge	1972	1797	1714	1620	1529	1118	1059	670	676	644	
+1646	Roger Glover & Guests	Love Is All	1975	1651	1607	1338	1238	1499	1537	1048	964	850	
+1647	Within Temptation	Memories	2004	0	0	0	0	0	0	0	0	0	
+1648	Queen	Save Me	1980	1644	1493	1067	0	0	0	0	0	0	
+1649	Supertramp	Hide In Your Shell	1974	1673	1754	1453	1434	1328	1313	988	931	887	
+1650	Bill Medley & Jennifer Warnes	I've Had The Time Of My Life	1987	1512	1549	1669	1869	1881	1786	1819	1738	1851	
+1651	Fleetwood Mac	As Long As You Follow	1988	0	0	0	0	0	0	0	1706	1793	
+1652	The Moody Blues	Tuesday Afternoon	1968	1559	1608	1361	1363	1820	1569	1152	842	713	
+1653	Opus	Live Is Life	1985	1579	877	0	0	0	0	0	0	0	
+1654	Blaudzun	Promises Of No Man's Land	2014	2000	0	1865	1460	1242	1212	906	1873	0	
+1655	Jeff Wayne & Justin Hayward	Forever Autumn	1978	1624	1637	1437	1605	1474	1579	1106	800	689	
+1656	The Offspring	Pretty Fly (For A White Guy)	1999	1770	1739	1781	1841	0	0	1544	1963	0	
+1657	James Taylor	Fire And Rain	1970	1690	1429	1412	1672	1207	1201	879	753	766	
+1658	PHD	I Won't Let You Down	1981	1732	1722	1632	1458	1456	1311	1247	1486	1220	
+1659	The Buoys	Give Up Your Guns	1972	1599	1843	1515	1607	1193	1267	1092	1040	809	
+1660	Neil Diamond	Love On The Rocks	1980	1583	1330	1341	1361	1573	1527	1542	1252	1324	
+1661	Boudewijn de Groot	Een Meisje Van 16	1965	1674	1669	1500	1610	1789	1578	1767	1380	980	
+1662	Pet Shop Boys	West End Girls	1986	1758	1893	1801	1795	1525	1333	1497	1402	1555	
+1663	Di-rect	Wild Hearts	2020	1775	0	0	0	0	0	0	0	0	
+1664	Editors	An End Has A Start	2007	1804	1723	1400	1581	0	0	0	0	0	
+1665	Outkast	Hey Ya!	2004	1650	1600	1567	1362	1113	1249	1249	1429	0	
+1666	The Doobie Brothers	What A Fool Believes	1978	1441	1428	1502	1558	1124	1599	1539	1692	1684	
+1667	Dolly Dots	Love Me Just A Little Bit More	1983	1506	1668	0	0	0	0	0	0	0	
+1668	The Weeknd	In Your Eyes	2020	1627	0	0	0	0	0	0	0	0	
+1669	The Babys	Isn't It Time	1977	1858	1762	1755	1997	1033	1073	1287	1148	1420	
+1670	Bob Marley & The Wailers	Is This Love	1979	1611	1387	1360	1428	0	0	0	0	0	
+1671	The Rolling Stones	As Tears Go By	1966	1513	1408	1508	1275	1315	1420	1367	955	883	
+1672	Dan Hartman	Relight My Fire	1980	1478	1473	1578	1555	1422	1433	1260	939	958	
+1673	George Michael	One More Try	1988	1661	1625	0	0	0	0	0	0	0	
+1674	Coldplay	Green Eyes	2002	1922	1842	1839	1704	0	0	0	0	0	
+1675	The Cats	Times Were When	1968	1540	1772	1551	1888	1808	0	1627	1472	1506	
+1676	Bonnie Raitt	I Can't Make You Love Me 	1991	1706	1593	1883	1422	1254	1352	1076	1124	619	
+1677	Willie Nelson	Always On My Mind	1984	1361	1336	1192	1521	1358	1314	1285	1185	949	
+1678	Twarres	Wer Bisto	2000	1843	1846	1835	1830	1794	1785	1430	1247	1193	
+1679	Of Monsters and Men	Little Talks	2012	1793	0	1903	1790	1527	1567	1032	996	719	
+1680	The Beach Boys	Sloop John B	1966	1528	1528	1328	1350	1326	1236	831	721	770	
+1681	The Alan Parsons Project	Don't Answer Me	1984	1489	1519	1359	1457	1296	1308	1265	1167	1051	
+1682	Van Halen	Why Can't This Be Love 	1987	1621	1064	1555	1621	1556	1588	1356	0	0	
+1683	De Kast	Hart Van Mijn Gevoel	1999	1772	1671	1595	1744	1497	1464	1145	1022	925	
+1684	The Beatles	She's Leaving Home	1967	1623	1470	1507	1569	1136	1457	1136	1014	935	
+1685	America	Ventura Highway	1972	1678	1764	1634	1851	1615	1952	1889	1970	1876	
+1686	Chris Stapleton	Cold	2020	1868	0	0	0	0	0	0	0	0	
+1687	The Rolling Stones	Midnight Rambler	1969	1767	1615	1547	1614	1175	1624	1362	1127	1069	
+1688	Rammstein	Zeit	2022	0	0	0	0	0	0	0	0	0	
+1689	Whitney Houston	I Have Nothing	1992	1645	1605	1738	0	0	0	0	0	0	
+1690	Gary Moore & Phil Lynott	Out In The Fields	1985	1698	1801	1844	1941	0	0	0	0	0	
+1691	Armand	Ben Ik Te Min	1967	1418	1392	1315	1411	904	706	90	1279	1022	
+1692	Whitney Houston	Greatest Love Of All	1986	1493	1569	1464	1286	1622	1756	1607	1502	1468	
+1693	Black Crowes	Hard to handle	1990	1660	1741	1915	1881	1634	1635	1928	1660	0	
+1694	Robert Cray Band 	Right Next Door (Because Of Me) 	1987	1543	1505	1395	1530	1693	1475	1410	1350	1228	
+1695	Barbra Streisand	Tell Him	1997	1665	1385	1519	1481	1354	0	1659	1463	1606	
+1696	Boney M	Rivers Of Babylon	1978	1562	1486	1619	1849	1776	1804	0	1824	1483	
+1697	Bruce Springsteen	Racing In The Street	1975	1684	1750	0	0	0	0	0	0	0	
+1698	Irene Cara	Fame	1983	0	0	0	0	0	0	0	0	0	
+1699	Queens Of The Stone Age	Make It Wit Chu	2005	1695	1664	1558	1426	1845	0	0	0	0	
+1700	Elvis Presley	Are You Lonesome Tonight	1960	1615	1582	1458	1517	1414	1552	1406	1491	1260	
+1701	Martin Garrix	Animals	2013	1369	1358	1064	977	1171	962	0	0	0	
+1702	Ronan Keating	When You Say Nothing At All	1999	1566	1407	1512	1600	1998	0	1636	1455	1351	
+1703	Traveling Wilburys	Handle With Care	1988	1618	1324	1493	1565	1225	1803	1317	1218	1189	
+1704	Kings Of Leon	Pyro	2010	1760	1758	1753	1836	0	0	0	0	0	
+1705	Ed Sheeran	Galway Girl	2017	1393	1550	1092	691	1689	0	0	0	0	
+1706	Mumford & Sons	Hopeless Wanderer	2013	1834	1747	1648	1385	0	0	0	0	0	
+1707	Herbert Gronemeyer	Mensch	2004	1592	1533	1588	1644	1345	1174	903	728	738	
+1708	The Shadows	Apache	1960	1531	1362	1319	1626	1127	1242	934	774	676	
+1709	Don Henley	New York Minute	1989	1824	1709	1627	1894	1437	1320	1286	1106	1208	
+1710	Frans Halsema & Jenny Arean	Vluchten Kan Niet Meer	1977	1503	1442	1303	1358	1212	1139	954	1113	718	
+1711	Pearl Jam	Rearviewmirror	1993	1832	1688	1652	0	0	0	0	0	0	
+1712	Fats Domino	Blueberry Hill	1957	1410	1544	1427	1229	643	1045	1071	830	801	
+1713	Queen	Heaven For Everyone	1995	1535	1325	1120	1056	1869	1651	1231	1257	1082	
+1714	Walk The Moon	Shut Up And Dance	2014	1785	1926	1833	1785	1457	1640	1270	0	0	
+1715	The Doobie Brothers	Long Train Runnin'	1973	1993	1799	1741	1800	1496	1666	1740	1608	1481	
+1716	Maneskin	THE LONELIEST	2022	0	0	0	0	0	0	0	0	0	
+1717	Scott McKenzie	San Francisco	1967	1515	1504	1496	1488	1181	1180	1022	948	880	
+1718	Muse	Feeling Good	2001	1671	1583	1470	1364	1431	0	0	0	0	
+1719	Foster The People	Pumped Up Kicks	2011	1529	1456	1388	1141	1442	1680	1665	0	0	
+1720	Green Day	When I Come Around	1995	1846	1673	1469	1563	1650	1763	1552	1794	0	
+1721	Whitney Houston	One Moment In Time	1988	1612	1374	1525	1092	1353	1209	1263	1242	1415	
+1722	Live	Run To The Water	2000	1508	1461	1491	1595	1331	1351	1354	1270	0	
+1723	Nick & Simon	De Soldaat	2006	0	0	0	0	0	0	0	0	0	
+1724	Muddy Waters	Mannish Boy	1988	1567	1554	1454	1432	1133	1000	1115	1150	817	
+1725	Mud	Dynamite	1974	1414	1329	1284	1482	1487	1551	1591	1525	1385	
+1726	Prodigy	Out Of Space	1993	1675	1820	1586	1915	0	0	1631	1433	0	
+1727	John Mayer	New Light	2018	1354	1285	1051	0	0	0	0	0	0	
+1728	Bruno Mars	Locked Out of Heaven	2012	1807	0	0	1578	1899	1673	1617	876	1283	
+1729	Maarten van Roozendaal	Red Mij Niet	2001	1554	1989	1937	1696	1119	1009	855	797	1521	
+1730	U2	Stuck In A Moment	2000	1762	1430	1581	1389	1486	1269	1098	951	792	
+1731	Tina Turner	What's Love Got To Do With It	1984	1655	1482	1626	1454	0	0	0	0	1724	
+1732	Boston	Don't Look Back	1978	1766	1700	1676	1927	1680	1623	1630	1408	1340	
+1733	Sam Fender	Seventeen Going Under	2021	0	0	0	0	0	0	0	0	0	
+1734	U2	Gloria (Live)	1983	1847	1757	1677	0	0	0	0	0	0	
+1735	Frankie goes to Hollywood	Two Tribes	1984	1880	1970	1650	1606	1600	1608	1519	1548	1597	
+1736	Dido	White Flag	2003	1757	1812	1712	1463	1566	1466	1511	1363	1211	
+1737	Genesis	Invisible Touch	1986	1790	1831	1982	1776	1688	1705	1763	1699	1753	
+1738	U2	City Of Blinding Lights	2004	1594	1445	1434	1255	1516	1381	0	0	0	
+1739	Peter Frampton	Show Me The Way	1976	1542	1787	1888	1780	1400	1538	1414	1091	1236	
+1740	Jamiroquai	Virtual Insanity	1996	1728	1809	1762	1653	1618	1682	1600	1755	0	
+1741	Typhoon	Hemel Valt	2015	1474	1170	1365	1192	941	679	1950	0	0	
+1742	Japan	Nightporter	1980	1703	1643	1440	1548	980	1085	887	822	796	
+1743	The Police	Don't Stand To Close To Me	1980	1630	1068	1784	1763	1623	1596	1687	1565	1290	
+1744	David Bowie	Blackstar	2016	1641	1507	1267	1044	834	1736	0	0	0	
+1745	Youssou N'Dour & Neneh Cherry	7 Seconds	1994	1552	1636	1727	1613	1329	1310	1042	828	782	
+1746	Rob de Nijs	Alles Wat Ademt	1985	0	0	0	0	0	0	0	1924	1792	
+1747	The Script	Breakeven	2008	1813	1619	1541	1504	1492	1292	937	803	0	
+1748	Grace Jones	La Vie En Rose	1977	1412	1553	1538	1641	1599	1559	1492	1480	1275	
+1749	Avicii	Addicted To You	2014	1431	1361	1038	807	1965	1758	1137	0	0	
+1750	Boudewijn de Groot	Meester Prikkebeen	1968	1876	1746	1545	1755	1630	1444	1496	1309	1066	
+1751	Cranberries	Dreams	1993	0	0	0	0	0	0	0	0	0	
+1752	Genesis	No Son Of Mine	1991	1827	1955	1827	1805	1468	1503	1416	1107	1128	
+1753	Stereophonics	Maybe Tomorrow	2003	1689	1634	1723	1584	1275	970	1647	1747	0	
+1754	Frankie goes to Hollywood	Relax	1984	1578	1679	1630	1622	1376	1349	1852	1431	1650	
+1755	The Who	Ouverture	1969	1694	1458	1273	1589	1613	1555	1245	1045	851	
+1756	Run D.M.C.	Walk This Way	1986	1524	1371	1444	1281	1641	1910	1805	1760	0	
+1757	Paul Simon	Late In The Evening	1980	1616	1559	1683	1643	1584	1505	1453	1342	1332	
+1758	Curtis Mayfield	Move On Up	1971	1708	1705	1902	1604	1249	1261	1242	1076	1015	
+1759	Boudewijn de Groot	Als De Rook Om Je Hoofd Is Verdwenen	1972	1589	1804	1582	1690	1857	1610	1792	1432	1274	
+1760	Vitesse	Rosalyn	1982	1902	1954	1763	1934	1509	1497	1546	1438	1560	
+1761	Frank Boeijen	Winter In Hamburg	1987	1885	1834	1991	0	1548	1893	1820	1158	1479	
+1762	Shakira ft. Freshlyground	Waka Waka (This Time For Africa)	2010	0	0	0	0	0	0	0	0	0	
+1763	Chicago	25 Or 6 To 4	1970	1591	1599	1472	1418	971	1210	1056	1071	960	
+1764	Roy Orbison	Oh, Pretty Woman	1964	1569	1389	1390	1532	1782	1885	1736	1640	1273	
+1765	Mumford & Sons	Lover Of The Light	2012	1714	1326	1103	918	1165	949	775	761	1141	
+1766	The Doors	Love Her Madly	1971	1490	1572	1557	1845	1412	1431	1368	1134	940	
+1767	Creedence Clearwater Revival	Up Around The Bend	1970	1749	1592	1936	0	0	0	0	1860	1562	
+1768	Kensington	What Lies Ahead	2019	1580	1347	0	0	0	0	0	0	0	
+1769	Michael Jackson	Off The Wall	1979	1597	1596	1410	1138	1260	1306	1369	1336	1601	
+1770	Dire Straits	Water Of Love	1978	1776	1716	1998	1866	1914	1929	1749	1654	1632	
+1771	Avicii	Waiting For Love	2015	0	0	0	0	0	0	0	0	0	
+1772	Robbie Williams	She's The One	1999	1852	1658	1621	1525	1773	1521	1516	1388	1020	
+1773	One Direction	One Way Or Another (Teenage Kicks)	2013	1954	0	0	0	0	0	0	0	0	
+1774	Coldplay	Politik	2002	0	0	1912	1670	1547	2000	0	0	0	
+1775	J.J. Cale	After Midnight	1972	1397	1467	1509	1294	1274	935	915	619	485	
+1776	Paul Simon	Homeless	1986	1210	1546	1640	0	0	0	0	0	0	
+1777	Coldplay & Buena Vista Social Club	Clocks (Rhythms Del Mundo)	2006	1577	0	0	0	0	0	0	0	0	
+1778	Black	Wonderful Life	1987	1640	1699	1713	1721	1520	1602	1655	1675	1435	
+1779	Toto	I'll Be Over You	1986	1725	1697	1517	1817	1662	1500	1409	1225	1266	
+1780	Prince	Gold	1995	1818	1865	1927	1963	0	0	0	0	0	
+1781	U2	Vertigo	2004	1777	1427	1381	1250	1148	1286	1192	1023	708	
+1782	Karin Bloemen	Geen Kind Meer	1996	1521	1622	1352	1258	856	767	476	388	395	
+1783	The Beatles	Don't Let Me Down	1967	1517	1950	1931	0	1987	0	0	0	0	
+1784	Cyndi Lauper	Time After Time	1984	1633	1633	1711	1551	1495	1356	1812	1650	1566	
+1785	Wolfmother	Woman	2005	1800	1661	1579	1750	0	0	0	0	0	
+1786	Lana Del Rey	Doin' Time	2019	0	0	0	0	0	0	0	0	0	
+1787	The Hollies	Long Cool Woman (In A Black Dress)	1971	1983	0	0	0	0	0	0	0	0	
+1788	Son Mieux	1992	2021	0	0	0	0	0	0	0	0	0	
+1789	Gossip	Heavy Cross	2009	1781	1789	1675	1647	1546	1697	1641	0	0	
+1790	Fatboy Slim	Praise You	1998	1879	1817	1874	1730	1465	1397	1646	1695	0	
+1791	Pink	Dear Mr President	2006	1638	1376	1187	0	0	0	0	0	0	
+1792	Nirvana	Polly	1991	1672	1581	1583	1793	0	0	0	0	0	
+1793	Beyonce	Love On Top	2011	1705	1542	1638	1247	1537	1363	1743	0	0	
+1794	The B-52'S	Love Shack	1989	1717	1847	1896	1985	1418	1309	1399	1229	1289	
+1795	John Travolta & Olivia Newton John	You're The One That I Want	1978	0	0	0	0	0	0	0	0	0	
+1796	Ultravox	Dancing With Tears In My Eyes	1984	1796	1653	1681	1772	1539	1634	1718	1581	1529	
+1797	Doe Maar	Tijd Genoeg	1985	0	0	0	0	0	0	0	0	0	
+1798	Chef'Special	Nicotine	2017	1526	1523	1420	1079	0	0	0	0	0	
+1799	Lionel Richie	All Night Long	1983	1516	1531	1956	1677	0	0	0	0	0	
+1800	Tears For Fears	Head Over Heels	1985	0	0	0	0	0	0	0	0	0	
+1801	Eminem & Rihanna	The Monster	2013	1928	1478	1418	1382	0	0	0	0	0	
+1802	Reinhard Mey	Gute Nacht Freunde	1974	1745	1832	1467	1601	1619	1441	1628	1560	1341	
+1803	Chic	Le Freak	1978	1584	1465	1647	1522	1318	968	1330	1153	1172	
+1804	Green Day	Jesus Of Suburbia	2004	0	0	0	0	0	0	0	0	0	
+1805	Elton John	Daniel	1973	1541	1578	1449	1960	1802	1944	0	1890	1805	
+1806	Brainbox	Summertime	1969	1598	1517	1536	1538	1090	1086	963	814	724	
+1807	OutKast	Ms. Jackson	2001	1805	1902	0	1878	0	1720	1903	0	0	
+1808	David Bowie	Fame	1975	1931	1686	1686	1645	1323	961	1803	1301	1582	
+1809	Herman Brood & His Wild Romance	I Love You Like I Love Myself	1980	1496	1773	1678	1756	1973	1994	0	0	0	
+1810	Ilse DeLange	World Of Hurt	1998	1750	1464	1339	1324	1644	1576	1327	1049	884	
+1811	Spinvis	Bagagedrager	2002	1662	1629	1653	1809	1267	1619	0	0	0	
+1812	Marco Borsato	De Bestemming	1998	1413	1284	786	1219	1479	1318	958	1083	1049	
+1813	Amanda Marshall	Beautiful Goodbye	1995	0	1928	1817	1494	1444	1473	1201	1378	0	
+1814	Golden Earrings	Sound Of The Screaming Day	1967	1119	1985	1809	0	1964	1695	1737	1513	1371	
+1815	Marco Borsato	Afscheid Nemen Bestaat Niet	2003	1476	1227	815	690	852	719	388	466	448	
+1816	Stereophonics	Dakota	2005	1855	1841	1946	1874	1603	1817	0	0	0	
+1817	Tanita Tikaram	Twist In My Sobriety	1988	1831	1871	1823	1658	1367	1581	1357	1221	1227	
+1818	Ten Years After	I'm Going Home	1971	1634	1500	1389	1396	909	1031	718	611	632	
+1819	Bob Marley & The Wailers	One Love - People Get Ready	1984	1520	1238	1369	1318	1628	1531	1200	1398	1117	
+1820	Procol Harum	Homburg	1967	1825	0	1655	1954	1862	1980	1849	1746	1517	
+1821	Michael Jackson	Rock With You	1979	1697	1710	1706	1310	1503	1525	1661	1771	1736	
+1822	J.J. Cale	Call Me The Breeze	1971	1652	1624	1642	1585	1352	1095	0	0	0	
+1823	The Kinks	Waterloo Sunset	1967	1748	1683	1592	1608	1469	1364	1210	1002	930	
+1824	Snelle	Smoorverliefd	2020	1315	0	0	0	0	0	0	0	0	
+1825	Santana	Europa (Earth's Cry Heaven Smile)	1977	1683	1620	1481	1486	1369	1217	1133	865	936	
+1826	The Sweet	Fox On The Run	1975	1756	1844	1564	1552	1564	1879	1952	1939	1739	
+1827	Elvis Presley	Return To Sender	1962	1734	1917	0	0	0	0	0	0	0	
+1828	Lorde	Royals	2013	1731	1745	1554	1405	1364	1415	845	649	1206	
+1829	Marco Borsato	De Waarheid	1996	1761	1511	982	1025	1202	1183	723	1157	963	
+1830	Pink	Family Portrait	2003	1724	1729	1486	1117	1028	1367	1279	1352	0	
+1831	Led Zeppelin	Black Dog	1971	1713	1720	1594	1474	1797	1700	0	0	0	
+1832	Delerium ft. Sarah McLachlan	Silence (Tiesto Mix)	1997	1642	1630	1679	1773	0	0	0	0	0	
+1833	Steely Dan	Do It Again	1972	1838	1768	1970	1810	1557	1713	1505	1268	1112	
+1834	Cheap Trick	I Want You To Want Me	1979	1664	1612	1465	1503	1001	871	1067	1068	1239	
+1835	Tears For Fears	Mad World	1982	1720	1838	0	1971	1836	0	0	0	0	
+1836	Anouk	Three Days In A Row	2009	1626	1359	1240	1221	1532	1296	1021	694	535	
+1837	Rob de Nijs	Niet Voor Het Laatst	2017	1482	0	0	0	0	0	0	0	0	
+1838	The Rolling Stones	Under My Thumb	1966	1744	1557	1599	1708	1382	1593	1825	1597	1246	
+1839	Michael Jackson	Will You Be There	1993	1765	1672	1701	1260	1545	1621	1326	1273	1200	
+1840	Michael Jackson	Wanna Be Startin' Something	1983	1595	1725	1699	1435	1517	1644	1338	1541	1326	
+1841	Paul McCartney & Wings	Live And Let Die	1973	1691	1766	1423	1218	1333	1191	679	1768	1532	
+1842	The Monkees	I'm A Believer	1966	1548	1552	1565	1568	1607	1486	1584	1735	1222	
+1843	Notorious B.I.G.	Hypnotize	1997	1666	1946	0	0	0	0	0	0	0	
+1844	Mumford & Sons	Babel	2013	1857	1678	1535	1305	1620	1229	1130	1061	0	
+1845	Van Halen	Panama	1984	1670	1472	0	0	0	0	0	0	0	
+1846	Madonna	Live To Tell	1986	1685	1646	1734	1278	1222	1430	1503	1339	1423	
+1847	Bob Marley & The Wailers	Buffalo Soldier	1983	1840	1628	1914	1754	0	0	0	0	0	
+1848	Fleetwood Mac	Gypsy	1982	0	0	0	0	0	0	0	0	0	
+1849	Simply Red	Fairground	1995	1884	1770	1984	1977	1523	1522	1310	1266	1215	
+1850	UB40 & Chrissie Hynde	I Got You Babe	1985	1549	1715	1580	1701	1894	1930	1961	1600	1738	
+1851	Otis Redding 	I've Got Dreams To Remember	1968	1575	1357	1354	1052	1106	951	844	643	536	
+1852	Queen	Made In Heaven	1991	0	0	0	0	0	0	0	0	0	
+1853	Ramses Shaffy	We Zullen Doorgaan	1975	1472	1454	1294	1919	1896	1809	1592	1662	1400	
+1854	Robbie Williams	The Road To Mandalay	2001	1866	1870	1961	0	1676	1571	1372	1294	979	
+1855	Counting Crows	Accidentally In Love	2004	1833	1784	1958	1767	1747	1375	1312	1623	1168	
+1856	Sting	Moon Over Bourbon Street	1985	1593	1571	1617	1469	1334	1233	1269	1163	894	
+1857	Andre van Duin	Als De Zon Schijnt	1983	1786	0	0	0	0	0	0	0	0	
+1858	van Morrison	Into The Mystic	1970	1733	1732	1704	1792	1640	1725	0	0	0	
+1859	Guus Meeuwis	Proosten	2007	1658	1659	1521	1464	1960	0	1619	0	1779	
+1860	Bruno Mars	Grenade	2010	1864	0	1907	1666	1752	1600	1776	1414	898	
+1861	Prince	Cross	1987	1741	1422	1367	1634	1974	1658	0	0	0	
+1862	Tom Jones	Green Green Grass Of Home	1966	1646	1640	1703	1733	1816	1649	1358	1265	1331	
+1863	Muse	Mercy	2015	1860	1792	1422	1360	1253	909	1491	0	0	
+1864	Madonna	Vogue	1990	1654	1388	1484	1309	1392	1315	1311	1534	1357	
+1865	Donnie & Rene Froger	Bon Gepakt	2021	0	0	0	0	0	0	0	0	0	
+1866	Golden Earring	I've Just Lost Somebody	1968	1046	0	1963	0	1812	1865	1587	1498	1300	
+1867	Van Dik Hout	Meer Dan Een Ander	1994	1699	1767	1657	1771	1861	1831	1663	0	0	
+1868	The Verve	The drugs don't work	1997	1845	1886	1764	1599	1477	1573	1475	1612	0	
+1869	Daft Punk	Harder Better Faster Stronger	2001	1536	1882	1805	1372	1156	1003	0	0	0	
+1870	Swedish House Mafia feat. John Martin	Don't You Worry Child	2012	1740	0	0	1408	0	1864	1808	0	0	
+1871	Elvis Presley	Hound Dog	1959	0	0	1953	1715	0	0	0	0	0	
+1872	Bruno Mars	24k Magic	2016	1419	1513	1258	767	608	1613	0	0	0	
+1873	Muse	Sing For Absolution	2004	1930	1891	1572	1515	1512	1435	0	0	0	
+1874	Womack & Womack	Teardrops	1988	1582	1855	1876	2000	1888	1822	1822	1727	1839	
+1875	The Doors	Touch Me	1969	1656	1670	1468	1713	1168	1083	1063	891	693	
+1876	Marvin Gaye & Tammi Terrell 	Ain't No Mountain High Enough 	1967	1667	1418	1459	1314	1831	0	1878	0	0	
+1877	Armin van Buuren ft. Josh Cumbee	Sunny Days	2017	1573	1372	1152	846	1855	0	0	0	0	
+1878	Foo Fighters	These Days	2011	0	0	1890	1577	0	0	0	0	0	
+1879	Tiesto	The Business	2020	1527	0	0	0	0	0	0	0	0	
+1880	Sandy Coast	The Eyes Of Jenny	1981	1711	1852	1566	1628	768	1678	1337	1063	1219	
+1881	Blackstreet ft. Dr Dre	No Diggity	1996	1828	1712	1740	1535	1978	1665	1964	0	0	
+1882	Led Zeppelin	Rock And Roll	1971	1769	1769	1563	1592	1647	1565	0	0	0	
+1883	Neil Young	Harvest	1972	1696	1555	1436	1170	1083	1035	1015	858	655	
+1884	Stef Bos	Ik Heb Je Lief	1992	1702	1153	1645	1747	1757	1495	1057	920	810	
+1885	John Mayer	Waiting On The World To Change	2006	1519	1410	1407	1248	1103	978	482	1082	564	
+1886	The Doors	Break On Through (To The Other Side)	1967	1859	1603	1633	1021	1501	1422	1296	0	0	
+1887	Supertramp	It's Raining Again	1982	1972	1866	1771	0	0	0	0	0	1890	
+1888	Leonard Cohen	Famous Blue Raincoat	1971	1861	1814	1666	1723	1720	831	0	0	0	
+1889	Ramones	Blitzkrieg Bop	1976	1631	1695	1485	1333	1110	1057	0	0	0	
+1890	3JS	Watermensen	2008	1417	1401	1311	1794	1322	1276	1069	863	549	
+1891	The Smashing Pumpkins	Tonight Tonight	1995	1891	1823	1778	1716	1770	1777	1758	1517	0	
+1892	Eurythmics	Here Comes The Rain Again	1983	1987	1877	1772	1911	0	0	0	1834	0	
+1893	Foreigner	That Was Yesterday	1985	1942	1869	1830	1893	1588	1870	1533	1614	1679	
+1894	Phil Collins	Something Happened On The Way To Heaven	1990	1682	1711	1643	1583	1911	1775	1708	1591	1405	
+1895	Bee Gees	You Should Be Dancing	1976	0	0	0	0	0	0	0	0	1866	
+1896	Cyndi Lauper	Girls Just Want To Have Fun	1984	1815	1742	1775	1573	1920	1861	0	1917	1741	
+1897	Ed Sheeran	Happier	2017	1422	1455	979	0	0	0	0	0	0	
+1898	Doe Maar	Nachtzuster	1982	0	0	0	0	0	0	0	0	0	
+1899	Nina Hagen	Unbeschreiblich Weiblich	1979	1614	1794	1720	1404	1656	1605	1606	1315	1218	
+1900	James Blunt	Goodbye My Lover	2005	1465	1684	1629	1616	1309	1204	1047	1056	841	
+1901	Alanis Morissette	Thank You	1998	1975	1868	0	1695	1522	1386	1319	1487	0	
+1902	Dua Lipa ft. DaBaby	Levitating	2020	1539	0	0	0	0	0	0	0	0	
+1903	Whitesnake	Is This Love	1987	1763	1821	1773	1862	0	0	0	0	0	
+1904	Billy Ocean	Love Really Hurts Without You	1976	1700	1876	0	0	0	0	0	0	0	
+1905	Herman Brood	Still Believe	1978	1619	1598	1568	1740	1591	1402	1179	1060	1250	
+1906	Dr. Hook	Sylvia's Mother	1972	1929	1726	1609	1719	1471	1332	1442	1306	1178	
+1907	Matthew Wilder	Break My Stride	1984	1712	1534	0	0	0	0	0	0	0	
+1908	Crowded House	Into Temptation	1989	1799	1826	1799	1798	1476	1379	1488	1292	1158	
+1909	Jefferson Airplane	Somebody To Love	1970	1680	1727	1663	1420	1712	1512	1483	1293	1174	
+1910	Bruce Springsteen	Brilliant Disguise	1987	1937	1800	1550	1597	1583	1376	1293	1188	1084	
+1911	Billy Joel	Honesty	1979	1912	1641	1729	1803	1637	1428	1484	1341	1501	
+1912	Daft Punk	Around The World	1997	1663	1909	1911	1618	1213	1050	854	1138	0	
+1913	Joe Cocker & Jennifer Warnes	Up Where We Belong	1982	1637	1631	1733	1854	1833	1868	1837	1743	1810	
+1914	Clouseau	Domino	1990	1850	1987	1716	1709	1711	1860	1886	0	1801	
+1915	Claudia de Breij & Waylon	Mis Je Zo Graag	2016	0	0	0	0	0	0	0	0	0	
+1916	Inxs	Original Sin	1984	1792	1859	1904	1868	1655	1955	1866	1796	0	
+1917	AC/DC	It's A Long Way To The Top (If You Wanna Rock 'N Roll)	1976	0	0	0	0	0	0	0	0	0	
+1918	Dire Straits	Calling Elvis	1991	1887	1948	1985	0	0	0	1838	1708	1551	
+1919	Kane	Damn Those Eyes	1999	1798	1733	1828	1860	1308	1540	1403	1217	1224	
+1920	Phil Collins	Take Me Home	1985	1603	1648	1922	0	0	0	0	0	0	
+1921	Plain White T'S	Hey There Delilah	2007	1911	1580	1925	1352	1806	1557	1343	1636	1247	
+1922	Trockener Kecks	Met Hart En Ziel	1990	1888	1889	1790	1839	1787	1886	1559	1403	1564	
+1923	Weather Girls	It's Raining Men	1983	1723	1691	1540	1923	1729	1709	1355	1095	1366	
+1924	A-Ha	Hunting High And Low	1986	1945	1963	1858	1826	870	821	865	942	1037	
+1925	Vance Joy	Riptide	2014	0	0	0	0	0	0	0	0	0	
+1926	Tim Hardin	How Can We Hang On To A Dream	1967	1878	1881	1748	1972	1484	1574	1422	1253	1098	
+1927	INXS	Need You Tonight	1987	1925	0	0	0	1755	0	0	1691	1631	
+1928	Roxy Music	More Than This	1982	1940	0	0	0	0	0	0	1728	1758	
+1929	Eric Clapton	Forever Man	1985	1778	1883	1618	1557	1638	1629	1408	1494	1170	
+1930	Twenty One Pilots	Ride	2016	0	0	0	0	0	0	0	0	0	
+1931	Chris Isaak	Blue Hotel	1987	1964	1651	1859	1635	1357	1482	1547	1585	1185	
+1932	The Beatles	Twist And Shout	1963	1780	1682	1433	1478	1665	1285	1333	1297	874	
+1933	Steve Miller Band	Fly Like An Eagle	1976	1739	1626	1573	1370	1368	1390	1637	1386	1320	
+1934	Joe Jackson	Steppin' Out	1982	1894	1991	1815	1898	1901	1795	1470	1404	1350	
+1935	The Beatles	I Want To Hold Your Hand	1964	1998	1680	1562	1651	1703	1969	1943	1909	1397	
+1936	Eurythmics	There Must Be An Angel	1985	1736	1514	1789	1872	1582	1653	1844	1639	1478	
+1937	Blof	Later Als Ik Groter Ben	2012	1939	1674	1659	1654	0	0	1671	1251	1455	
+1938	Q65	The Life I Live	1966	1693	1692	1462	1332	1172	1124	1034	824	967	
+1939	Beyonce Feat. Jay-Z	Crazy In Love	2002	1992	1649	1553	1245	1947	1570	1807	1604	0	
+1940	Simply Red	Sunrise	2003	1784	1744	1768	1602	1863	1888	1615	1809	1490	
+1941	Johan	Tumble And Fall	2001	1869	1912	1923	1450	1826	1824	1932	0	0	
+1942	Neil Diamond	Song Sung Blue	1972	1915	1783	1721	1861	1793	1715	1709	1434	1547	
+1943	Saybia	I Surrender 	2004	1909	1977	1940	1979	1540	1590	1389	1528	0	
+1944	Ellen Foley	We Belong To The Night	1979	1865	1597	1884	1547	1330	1458	1393	1207	1286	
+1945	Smash Mouth	All Star	1999	1669	1474	1180	815	1313	1890	0	0	0	
+1946	Bruno Mars	Just The Way You Are	2010	1806	1811	1556	1328	1344	1227	1620	1278	0	
+1947	Lady Antebellum	Need You Now	2010	1924	1687	1576	1734	1436	1372	1105	1020	955	
+1948	The Rolling Stones	Time Is On My Side	1965	1943	1573	1641	1686	1576	1751	1780	1537	1316	
+1949	Toploader	Dancing In The Moonlight	2000	1905	0	0	0	0	0	0	0	0	
+1950	Fischer-Z	The Worker	1979	1867	1752	1451	1483	867	1028	1049	918	1014	
+1951	Britney Spears	Toxic	2004	1863	0	0	0	0	0	0	0	0	
+1952	Dire Straits	Lady Writer	1979	0	0	0	0	0	0	0	0	0	
+1953	Johnny Cash	One	2000	1726	1850	1587	1403	0	0	0	0	0	
+1954	Norah Jones	Don't Know Why	2002	1746	1759	1660	1388	1828	1547	1298	1245	928	
+1955	Robbie Williams	Come Undone	2003	0	1867	1867	1742	0	0	0	0	0	
+1956	The Beatles	Ob La Di, Ob La Da	1969	1848	0	0	0	0	0	0	0	1622	
+1957	George Michael	I Can't Make You Love Me	1997	1908	1807	1849	1831	0	0	0	0	0	
+1958	Living Colour	Love Rears Its Ugly Head	1990	1959	1796	1810	1787	1490	1383	1623	1566	0	
+1959	Golden Earring	Bombay	1976	1289	0	1972	0	1946	1826	1882	1904	1598	
+1960	Roy Orbison	You Got It	1989	1927	1703	1795	1864	0	0	1868	1930	1776	
+1961	The Carpenters	(They Long To Be) Close To You	1970	1643	1806	1897	1681	1559	1300	1344	1338	1367	
+1962	Nielson	Sexy Als Ik Dans	2014	0	0	1715	1693	1608	1065	876	1758	0	
+1963	Madonna	La Isla Bonita	1987	1788	1586	1846	1590	1659	1693	1461	1391	1510	
+1964	George Michael	Kissing A Fool	1987	1999	1853	1971	0	0	0	0	0	0	
+1965	Stevie Wonder	Master Blaster (Jammin')	1980	1679	1485	1732	1741	0	1909	1996	2000	1760	
+1966	Sammy Davis Jr.	Mr. Bojangles	1972	1648	1512	1670	1472	1284	1337	1217	1016	978	
+1967	Marco Borsato	Ik Leef Niet Meer Voor Jou	1996	1607	1331	951	999	1259	1182	918	1203	912	
+1968	Justin Bieber	Love Yourself	2015	1773	1638	1942	1371	1216	512	0	0	0	
+1969	Brainbox	Down Man	1969	1883	1740	1635	1545	1276	1326	1208	1034	872	
+1970	Rod Stewart	I Don't Want To Talk About It	1977	1688	1884	0	0	1864	1935	1634	1642	1773	
+1971	Annie Lennox	Why	1992	1962	1708	1829	1373	1462	1535	1480	1222	1108	
+1972	Calvin Harris & Dua Lipa	One Kiss	2017	0	1921	1861	0	0	0	0	0	0	
+1973	The Rolling Stones	Beast Of Burden	1978	1802	1718	1690	1633	1767	1607	1521	1892	1466	
+1974	Manfred Mann's Earth band	Blinded By The Light	1976	1836	1937	1622	1768	1481	1548	1335	1204	1190	
+1975	Culture Club	Karma Chameleon	1983	1934	1675	1913	1938	0	0	0	0	0	
+1976	Paul Young	Love Of The Common People	1984	1819	1613	1885	1992	1760	1832	1901	1666	1721	
+1977	Jewel	Foolish Games	1997	0	1790	1806	1638	1639	1556	1380	1376	1136	
+1978	Armin van Buuren ft. Davina Michelle	Hold On	2021	0	0	0	0	0	0	0	0	0	
+1979	The Pointer Sisters	Fire	1979	1590	1774	1744	1519	0	1721	1839	1475	1085	
+1980	Tino Martin	Zij Weet Het	2019	1564	1025	0	0	0	0	0	0	0	
+1981	The Rolling Stones	Little Red Rooster	1965	1984	1862	1718	1669	1349	1024	1524	1161	1129	
+1982	The Eagles	Peaceful, Easy Feeling	1972	0	0	1886	0	1769	1732	1418	1308	1378	
+1983	Tina Turner	We Don't Need Another Hero	1985	1935	1617	1976	0	0	0	0	0	0	
+1984	Focus	Sylvia	1972	1970	0	1788	1988	1394	1504	1392	1177	997	
+1985	Bruce Springsteen	Secret Garden	1995	1941	1911	1665	1973	1921	1637	1411	1625	1233	
+1986	Deep Purple	Woman From Tokyo	1973	1873	1802	1837	1784	1754	1687	1554	1275	1073	
+1987	Caro Emerald	A Night Like This	2009	1525	1282	1200	722	655	529	364	204	155	
+1988	Marco Borsato	Zij	2002	1649	1261	763	740	959	815	511	644	557	
+1989	Tiesto	Adagio For Strings	2006	0	0	0	0	0	0	0	0	0	
+1990	J.J. Cale	Cocaine	1976	1620	1601	1625	1567	1399	1161	1171	766	585	
+1991	Normaal	Mamma Woar Is Mien Pils	1982	0	0	0	0	0	0	0	0	0	
+1992	Arctic Monkeys	505	2007	0	0	0	0	0	0	0	0	0	
+1993	Bruce Springsteen	Fire (Live)	1986	1783	1632	1330	1531	0	0	0	0	0	
+1994	The Beatles	A Hard Day's Night	1964	1759	1753	1506	1553	1593	1368	1626	1524	1161	
+1995	Chemical Brothers 	Hey Boy Hey Girl	1999	1991	1959	1983	1993	1745	1816	0	0	0	
+1996	Coldplay	Charlie Brown	2011	0	0	1962	1770	1701	1470	1401	1235	797	
+1997	Bette Midler	Beast Of Burden	1984	1810	1793	1950	1837	1410	1341	1509	1105	1296	
+1998	Frank Sinatra	It Was A Very Good Year	1965	1844	1689	1524	1299	1287	1185	818	869	828	
+1999	3JS	Hou Van Mij	2008	1258	0	0	0	0	0	0	0	0	
+2000	Olivia Rodrigo	Drivers License	2021	0	0	0	0	0	0	0	0	0	
+
